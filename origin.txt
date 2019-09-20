@@ -1,0 +1,3296 @@
+Uri: https://iletisimyazilim.com/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/favicon.ico?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://iletisimyazilim.com/en/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/templates/plugins/bootstrap-v4/css/bootstrap.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\bootstrap-v4\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/templates/css/hamburgers.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\hamburgers.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/templates/css/application.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\application.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/css/fontawesome-all.min.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/templates/plugins/toastr/toastr.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\toastr\toastr.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/templates/css/style.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\style.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/templates/modules/home/css/home.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\home\css\home.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/templates/plugins/owl-carousel/assets/owl.carousel.min.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\owl-carousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/templates/plugins/owl-carousel/assets/owl.theme.default.min.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\owl-carousel\assets\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/kurumsal/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\kurumsal\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/dijital-donusum-yolculugu/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\dijital-donusum-yolculugu\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/vizyon-ve-misyon/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\vizyon-ve-misyon\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/kalite-politikasi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\kalite-politikasi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/musteri-memnuniyeti/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\musteri-memnuniyeti\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/is-ortaklari/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\is-ortaklari\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/cozumler/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\cozumler\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/coralreef/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\coralreef\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/managemind/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\managemind\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/imt/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\imt\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/apiscoven/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\apiscoven\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/bilgi-bankasi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\bilgi-bankasi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/ik-politikasi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\ik-politikasi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/acik-pozisyonlar/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\acik-pozisyonlar\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/haberler/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\haberler\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/referanslar/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\referanslar\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/referanslarimiz/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\referanslarimiz\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/referans-videolari/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\referans-videolari\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/basari-hikayeleri/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\basari-hikayeleri\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/iletisim/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\iletisim\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/basvuru/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\basvuru\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/sanayinin-dijital-olgunluk-seviyesi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\sanayinin-dijital-olgunluk-seviyesi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/yesil-sanayi-822/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\yesil-sanayi-822\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/dijital-donusum-nedir/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\dijital-donusum-nedir\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/rss.xml
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\rss.xml
+Content Type: text/xml
+
+Uri: https://iletisimyazilim.com/bilgi-toplumu-hizmetleri/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\bilgi-toplumu-hizmetleri\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/yasal-uyari-ve-kullanim-sartlari/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\yasal-uyari-ve-kullanim-sartlari\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/gizlilik-politikasi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\gizlilik-politikasi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/site-haritasi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\site-haritasi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/templates/images/iletisim-yazilim.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\iletisim-yazilim.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/flags/en.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\flags\en.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/uploads/slider/zgören 2-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\zgören 2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/25-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\25-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/CGI-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\CGI-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/Arge-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\Arge-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/ERP ent-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\ERP ent-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/CR-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\CR-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MM-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/IMT.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\IMT.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/apis-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\apis-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL İzgören 2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL İzgören 2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL 25-4.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL 25-4.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL CGI-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL CGI-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL ARGE.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL ARGE.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL ERP ent.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL ERP ent.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL CR.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL CR.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL MM.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL MM.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL IMT-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL IMT-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL Apis.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL Apis.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/2.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\2.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/3.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\3.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/4.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\4.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/banner1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/banner2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/banner3.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Acel 400x300.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Acel 400x300.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Aker 400x300.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Aker 400x300.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Alcast metal.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Alcast metal.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/alka.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\alka.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/alkanlar.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\alkanlar.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Anadolu İplik.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Anadolu İplik.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/anilsan-logo_tr.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\anilsan-logo_tr.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/ARES.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\ARES.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Armass Glass.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Armass Glass.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/arslanli-orme-logo.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\arslanli-orme-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/AsOrtakçı.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\AsOrtakçı.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Autoneum Erkurt png.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Autoneum Erkurt png.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Aygersan.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Aygersan.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/BBCA.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\BBCA.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/BESEL.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\BESEL.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Bilgemed.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Bilgemed.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Bimeks Çelik.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Bimeks Çelik.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Bis Enerji.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Bis Enerji.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Böke Makina-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Böke Makina-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/BTO Otomotiv.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\BTO Otomotiv.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Burcu Gıda.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Burcu Gıda.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/canon.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\canon.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Cegi Tekstil.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Cegi Tekstil.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Celbiş.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Celbiş.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Chassis Brakes.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Chassis Brakes.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/CNK Havacılık.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\CNK Havacılık.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/anakkale Seramik-2.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\anakkale Seramik-2.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/DHL.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\DHL.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Dorukmak Makina.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Dorukmak Makina.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Durulsan.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Durulsan.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Eker Plastik.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Eker Plastik.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Ekoten.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Ekoten.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Elektro World.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Elektro World.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Elin Elektrik.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Elin Elektrik.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/EMG Plastik.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\EMG Plastik.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Enka Civata.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Enka Civata.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Enpak Ambalaj.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Enpak Ambalaj.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Erdem Kaya Patent.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Erdem Kaya Patent.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Ersan Savunma Sanayi.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Ersan Savunma Sanayi.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Estas.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Estas.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Evkal.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Evkal.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Ezgi Tekstil.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Ezgi Tekstil.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Figabara.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Figabara.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/FİGES.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\FİGES.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Fonex.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Fonex.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Form-Tek.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Form-Tek.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Gemlik Ticaret Borsası.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Gemlik Ticaret Borsası.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Göknur Gıda.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Göknur Gıda.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Güçlü Tekstil.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Güçlü Tekstil.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Güneş Plastik.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Güneş Plastik.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/HARIBO.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\HARIBO.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/IRC.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\IRC.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/peker-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\peker-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/skeçeli-2.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\skeçeli-2.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/zgoren Akademi-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\zgoren Akademi-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/zocam-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\zocam-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Kapı Sistemleri.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Kapı Sistemleri.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Karataş Hazır Beton.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Karataş Hazır Beton.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Kardeş Elektrik.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Kardeş Elektrik.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Kayateks.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Kayateks.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Kimberly-Clark.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Kimberly-Clark.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Klemsan.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Klemsan.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Küçükçalık.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Küçükçalık.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Lansinoh.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Lansinoh.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Lear Corporation-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Lear Corporation-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Limon.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Limon.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Lüks Kadife-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Lüks Kadife-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Madosan.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Madosan.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/MarmaraBirlik.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\MarmaraBirlik.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Mauri Maya.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Mauri Maya.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Mayafix.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Mayafix.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Miatex.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Miatex.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Mikron Mühendislik.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Mikron Mühendislik.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Milmast.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Milmast.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/MTM Güvenlik Çözümleri.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\MTM Güvenlik Çözümleri.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Naci Çorap.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Naci Çorap.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Nurel.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Nurel.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Orsan.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Orsan.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Ortakçı Cam.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Ortakçı Cam.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Otimsa.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Otimsa.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Papione.gif
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Papione.gif
+Content Type: image/gif
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/prosmt.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\prosmt.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/RBS yedek parça.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\RBS yedek parça.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/sar cam.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\sar cam.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Savcan.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Savcan.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/SiderKemco.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\SiderKemco.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Sincanlı.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Sincanlı.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Sipil Plastik.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Sipil Plastik.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Sistem Global.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Sistem Global.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/SKC Karbon.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\SKC Karbon.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/SKYMARK.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\SKYMARK.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Starpet.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Starpet.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Sütaş.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Sütaş.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Taş yapı.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Taş yapı.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Telas.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Telas.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Tor Demir.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Tor Demir.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Türkay.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Türkay.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Unigum.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Unigum.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/san-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\san-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/nalsan-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\nalsan-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/VEM.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\VEM.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/VLE.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\VLE.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Volo Kompozit.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Volo Kompozit.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Yücel Boru.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Yücel Boru.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/Zeytursan.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\Zeytursan.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/ZF.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\ZF.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/footer-logo.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\footer-logo.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/yirmibes.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\yirmibes.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/logo.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/plugins/jquery-3.3.1.min.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/templates/plugins/bootstrap-v4/js/bootstrap.min.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\bootstrap-v4\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/templates/plugins/toastr/toastr.min.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\toastr\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/templates/plugins/ajaxform.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\ajaxform.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/templates/plugins/scrollToFixed.min.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\scrollToFixed.min.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/templates/js/application.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\js\application.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/templates/plugins/owl-carousel/owl.carousel.min.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/templates/modules/home/js/home.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\home\js\home.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/en/about-us/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\about-us\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/digital-transformation-journey/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\digital-transformation-journey\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/vision-and-mission/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\vision-and-mission\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/quality-policy/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\quality-policy\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/customer-satisfaction/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\customer-satisfaction\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/business-partners/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\business-partners\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/solutions/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\solutions\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/coralreef/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\coralreef\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/managemind/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\managemind\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/imt/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\imt\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/apiscoven/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\apiscoven\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/data-bank/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\data-bank\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/hr-policy/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\hr-policy\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/vacant-employment-positions/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\vacant-employment-positions\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/news/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\news\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/references/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\references\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/our-references/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\our-references\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/reference-videos/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\reference-videos\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/achievement-stories/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\achievement-stories\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/communication/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\communication\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/application/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\application\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/industrys-digital-maturity-level/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\industrys-digital-maturity-level\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/green-industry-440/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\green-industry-440\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/what-is-digital-transformation/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\what-is-digital-transformation\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/contact/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\contact\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/intelligence-society-services/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\intelligence-society-services\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/legal-warning-conditions-of-usage-page/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\legal-warning-conditions-of-usage-page\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/privacy-policy/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/site-map/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\site-map\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/templates/images/flags/tr.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\flags\tr.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/uploads/slider/zgören 3 ing-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\zgören 3 ing-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/WEB 25 ing-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\WEB 25 ing-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/WEB CGI ing-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\WEB CGI ing-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/WEB ArGe ing-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\WEB ArGe ing-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/WEB ERP ent ing-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\WEB ERP ent ing-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/WEB CR ing.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\WEB CR ing.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/WEB MM ing.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\WEB MM ing.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/WEB IMT ing-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\WEB IMT ing-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/WEB Apis ing.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\WEB Apis ing.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL Etkinlik ing.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL Etkinlik ing.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL 25 ing-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL 25 ing-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL CGI ing-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL CGI ing-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL ArGe ing-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL ArGe ing-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL ERP ent ing-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL ERP ent ing-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL CR ing.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL CR ing.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL MM ing.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL MM ing.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL IMT ing-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL IMT ing-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/slider/MOBİL Apis ing.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\slider\MOBİL Apis ing.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/25year.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\25year.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-light-300.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-light-300.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-light-300.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-light-300.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-light-300.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-light-300.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/plugins/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-ThinItalic.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-ThinItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-ThinItalic.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-ThinItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-ThinItalic.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-ThinItalic.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-ThinItalic.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-ThinItalic.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-ThinItalic.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-ThinItalic.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-ThinItalic.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-ThinItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLightItalic.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLightItalic.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLightItalic.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLightItalic.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLightItalic.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLightItalic.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLightItalic.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLightItalic.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLightItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/BreeSerif-Regular.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\BreeSerif-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/BreeSerif-Regular.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\BreeSerif-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/BreeSerif-Regular.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\BreeSerif-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/BreeSerif-Regular.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\BreeSerif-Regular.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/BreeSerif-Regular.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\BreeSerif-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/BreeSerif-Regular.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\BreeSerif-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ThinOblique.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ThinOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ThinOblique.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ThinOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ThinOblique.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ThinOblique.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ThinOblique.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ThinOblique.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ThinOblique.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ThinOblique.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ThinOblique.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ThinOblique.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Black.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Black.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Black.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Black.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Black.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Black.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Black.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Black.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Black.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Black.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Oblique.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Oblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Oblique.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Oblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Oblique.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Oblique.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Oblique.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Oblique.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Oblique.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Oblique.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Oblique.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Oblique.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Light.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Light.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Light.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Light.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Light.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Light.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Light.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Light.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Light.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Ultra.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Ultra.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Ultra.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Ultra-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Ultra.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Ultra.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Ultra.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Ultra.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Ultra.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Ultra.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Ultra.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Ultra.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BlackItalic.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BlackItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BlackItalic.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BlackItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BlackItalic.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BlackItalic.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BlackItalic.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BlackItalic.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BlackItalic.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BlackItalic.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BlackItalic.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BlackItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLight.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLight.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLight.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLight.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLight.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLight.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLight.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLight.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraLight.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraLight.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Thin.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Thin.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Thin-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Thin.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Thin.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Thin.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Thin.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Thin.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Thin.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Thin.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-LightItalic.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-LightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-LightItalic.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-LightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-LightItalic.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-LightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-LightItalic.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-LightItalic.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-LightItalic.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-LightItalic.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-LightItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Bold.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Bold.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Bold.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Bold.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Bold.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Bold.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Bold.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Thin.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Thin.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Thin-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Thin.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Thin.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Thin.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Thin.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Thin.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Thin.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Thin.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Bold.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Bold.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Bold.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Bold.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Bold.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Bold.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Bold.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Italic.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Italic.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Italic.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Italic.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Italic.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Italic.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Italic.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Italic.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Italic.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BoldItalic.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BoldItalic.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BoldItalic.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BoldItalic.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BoldItalic.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BoldItalic.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-BoldItalic.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-BoldItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Light.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Light.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Light.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Light.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Light.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Light.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Light.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Light.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Light.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Medium.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Medium.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Medium.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Medium.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Medium.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Medium.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Medium.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraItalic.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraItalic.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraItalic.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraItalic.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraItalic.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraItalic.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraItalic.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraItalic.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-UltraItalic.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-UltraItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBold.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBold.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBold.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBold.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBold.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBold.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBold.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBold.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-LightOblique.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-LightOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-LightOblique.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-LightOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-LightOblique.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-LightOblique.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-LightOblique.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-LightOblique.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-LightOblique.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-LightOblique.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-LightOblique.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-LightOblique.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBoldOblique.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBoldOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBoldOblique.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBoldOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBoldOblique.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBoldOblique.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBoldOblique.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBoldOblique.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBoldOblique.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBoldOblique.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-ExtraBoldOblique.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-ExtraBoldOblique.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-MediumItalic.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-MediumItalic.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-MediumItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-MediumItalic.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-MediumItalic.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-MediumItalic.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-MediumItalic.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-MediumItalic.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-MediumItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Regular.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Regular.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Regular.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Regular.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Regular.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Regular.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Argumentum-Regular.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Argumentum-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-BoldOblique.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-BoldOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-BoldOblique.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-BoldOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-BoldOblique.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-BoldOblique.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-BoldOblique.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-BoldOblique.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-BoldOblique.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-BoldOblique.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-BoldOblique.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-BoldOblique.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Regular.eot
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Regular.eot?
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Regular.woff2
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Regular.woff
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Regular.woff
+Content Type: font/woff
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Regular.ttf
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://iletisimyazilim.com/templates/css/fonts/Bree-Regular.svg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\css\fonts\Bree-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://iletisimyazilim.com/templates/plugins/owl-carousel/assets/owl.video.play.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\owl-carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/modules/pages/css/pages.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\pages\css\pages.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/banner1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/pages/2-2-2.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\2-2-2.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/pages/sayılarla-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\sayılarla-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/pages/marka.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\marka.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/pages/ISO.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\ISO.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/modules/services/css/services.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\services\css\services.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/1920x700 dönüşüm slider 2.görsel.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\1920x700 dönüşüm slider 2.görsel.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/1994-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\1994-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/1997 tubitak.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\1997 tubitak.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/1998 Sektör Bağımsız.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\1998 Sektör Bağımsız.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2007 Coral.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2007 Coral.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2008 CR ver1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2008 CR ver1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/AC-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\AC-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2008 versiyon1-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2008 versiyon1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/isim hakkı-5.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\isim hakkı-5.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2012 MM-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2012 MM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2013 bayi.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2013 bayi.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2015.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2015.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2016 cgı.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2016 cgı.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2016 yerli malı-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2016 yerli malı-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2017 ISO.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2017 ISO.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2018 arge.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2018 arge.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/services/thumb/2019 kurum.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\services\thumb\2019 kurum.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/modules/services/js/services.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\services\js\services.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/banner3.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/vizyon-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\vizyon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/misyon.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\misyon.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/ilkevedeğerler-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\ilkevedeğerler-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/ilkevedeğerler.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\ilkevedeğerler.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/KALITE-POLITIKASI.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\KALITE-POLITIKASI.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/sürekli gelişme.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\sürekli gelişme.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/züm-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\züm-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/yüksek teknolo 2-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\yüksek teknolo 2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/kalite.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\kalite.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/banner5.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\banner5.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/müşteri mem 3-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\müşteri mem 3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/kullanici-sozlesmesi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\kullanici-sozlesmesi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/bg_slider-07-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\bg_slider-07-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/IS-ORTAKLARI.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\IS-ORTAKLARI.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/modules/pages/js/pages.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\pages\js\pages.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/banner-corp.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\banner-corp.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/inline/coralreef-banner.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\coralreef-banner.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/modules/pages/css/hexagon.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\pages\css\hexagon.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/iletisim/?request=coralreef
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\iletisim\index-1.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/banner7.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\banner7.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/inline/cr-arrow-left-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\cr-arrow-left-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/01 kolay entegrasyon.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\01 kolay entegrasyon.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/inline/cr-arrow-left-2.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\cr-arrow-left-2.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/inline/cr-arrow-right-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\cr-arrow-right-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/02 marka bagimsiz calisin.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\02 marka bagimsiz calisin.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/860x440 cr çözümler barkod.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\860x440 cr çözümler barkod.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/04 tum isleminiz web tabanli.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\04 tum isleminiz web tabanli.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/05 anlik mudahale icin bildiri.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\05 anlik mudahale icin bildiri.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/06 mobil fabrika uygulamasi-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\06 mobil fabrika uygulamasi-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/07 andon raporlama imkani.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\07 andon raporlama imkani.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/052ff.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\052ff.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/600x200 kalıp takım kopya.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\600x200 kalıp takım kopya.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 web fason.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 web fason.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/600x200 Üretim Planlama.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\600x200 Üretim Planlama.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x400 sfc.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x400 sfc.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x400 sfc-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x400 sfc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x400 sfc-3.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x400 sfc-3.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/Tartım modülü.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\Tartım modülü.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 web fason-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 web fason-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 paketleme.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 paketleme.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 GKK lab-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 GKK lab-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 Depo 2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 Depo 2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 kalite kontrol.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 kalite kontrol.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 proses kalite kontrol.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 proses kalite kontrol.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 sevkiyat.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 sevkiyat.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 MRP.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 MRP.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 Ürün.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 Ürün.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 PDKS.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 PDKS.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 PLM.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 PLM.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 EDI.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 EDI.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 Servis.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 Servis.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 Numune takip.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 Numune takip.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 Fiyat verme.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 Fiyat verme.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/1Varlık 1@300x.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\1Varlık 1@300x.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/OEEAndon.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\OEEAndon.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/CRRapor1-4.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\CRRapor1-4.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/Resim2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Resim2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/GirişKalite-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\GirişKalite-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/letmePerformansı.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\letmePerformansı.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/makkul-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\makkul-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/CRRapor2-4.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\CRRapor2-4.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/inline/managemind-banner.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\managemind-banner.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/modules/pages/css/managemind.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\pages\css\managemind.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/iletisim/?request=managemind
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\iletisim\index-2.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/MM slider-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\MM slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/inline/mm-arrow-left-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\mm-arrow-left-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/01 tek merkezden yonetim.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\01 tek merkezden yonetim.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/inline/mm-arrow-left-2.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\mm-arrow-left-2.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/inline/mm-arrow-right-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\mm-arrow-right-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/02 sistem ozellikleri.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\02 sistem ozellikleri.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/MM Çalisma-sistematigi ingilizce.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\MM Çalisma-sistematigi ingilizce.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/04 istetme surecinde verimlilik.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\04 istetme surecinde verimlilik.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/MANAGEMIND IS AKISI 1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\MANAGEMIND IS AKISI 1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/MANAGEMIND IS AKISI 2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\MANAGEMIND IS AKISI 2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/MM iş akışı kalite pop up.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\MM iş akışı kalite pop up.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/MM iş akışı dokuman pop up.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\MM iş akışı dokuman pop up.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/MANAGEMIND IS AKISI 5.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\MANAGEMIND IS AKISI 5.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/MM iş akışı öneri pop up.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\MM iş akışı öneri pop up.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/MM iş akışı anket pop up.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\MM iş akışı anket pop up.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/K-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\K-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/toplantı.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\toplantı.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/Proje-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\Proje-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/varlık,.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\varlık,.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/cihaz.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\cihaz.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/CRM.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\CRM.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/satın alma.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\satın alma.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/tedarikçi.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\tedarikçi.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/diğer örnek.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\diğer örnek.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/Resim4.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Resim4.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/Workflow.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Workflow.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/DöfKapanma.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\DöfKapanma.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/Personelb.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Personelb.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/MMRapor3.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\MMRapor3.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/Harita.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Harita.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/OrganizasyonŞeması.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\OrganizasyonŞeması.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/ProjeAksiyonları-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\ProjeAksiyonları-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/PersonelPerformans.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\PersonelPerformans.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/managemind-cover.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\managemind-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/inline/imt-banner.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\imt-banner.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/modules/pages/css/imt.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\pages\css\imt.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/iletisim/?request=imt
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\iletisim\index-3.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/IMT-SLIDER.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\IMT-SLIDER.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/inline/im-arrow-left-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\im-arrow-left-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/01 otomatik veri aktarimi.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\01 otomatik veri aktarimi.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/inline/im-arrow-left-2.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\im-arrow-left-2.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/inline/im-arrow-right-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\im-arrow-right-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/02-aktarim-sonucu-kayitlar.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\02-aktarim-sonucu-kayitlar.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/03 aktarim tarihcesi.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\03 aktarim tarihcesi.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/04 moduler bazli entegrasyon.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\04 moduler bazli entegrasyon.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/imtarrow.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\imtarrow.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/A-erp.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\A-erp.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/B-mt.jpeg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\B-mt.jpeg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/C-mt.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\C-mt.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/IMTRapor-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\IMTRapor-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/IMTAktarımRaporlama-1.PNG
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\IMTAktarımRaporlama-1.PNG
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/mtloglama.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\mtloglama.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/inline/apiscoven-banner.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\apiscoven-banner.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/modules/pages/css/apiscoven.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\pages\css\apiscoven.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/iletisim/?request=apiscoven
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\iletisim\index-4.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/apis slider.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\apis slider.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/inline/ap-arrow-left-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\ap-arrow-left-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/apis özellikler 1..jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\apis özellikler 1..jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/inline/ap-arrow-left-2.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\ap-arrow-left-2.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/inline/ap-arrow-right-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\inline\ap-arrow-right-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/02 verimli satinalma islemi.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\02 verimli satinalma islemi.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/03 mevcut kaynaklari verimli kullanma.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\03 mevcut kaynaklari verimli kullanma.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/04 erp ile entegrasyon.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\04 erp ile entegrasyon.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/content/apiscoven-workflow.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\apiscoven-workflow.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/apiscoven-logo.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\apiscoven-logo.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 web fason-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 web fason-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 web fason-6.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 web fason-6.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 web fason-5.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 web fason-5.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 web fason-4.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 web fason-4.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/1120x380 web fason-3.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\1120x380 web fason-3.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/Apiscoven1-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Apiscoven1-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/Apicoven2.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Apicoven2.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/modules/contents/css/contents.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\contents\css\contents.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/mesa-nasil-bir-organizasyondur/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\mesa-nasil-bir-organizasyondur\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/mes-ve-erp-nedir/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\mes-ve-erp-nedir\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/bpm-nedir/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\bpm-nedir\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/rtls-nedir/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\rtls-nedir\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/proje-metodolojisi-ve-proje-organizasyonu/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\proje-metodolojisi-ve-proje-organizasyonu\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/oee-nedir/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\oee-nedir\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/bilgi slider.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\bilgi slider.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/600x350 bilgi.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\600x350 bilgi.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/600x350 bilgi banks MESA.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\600x350 bilgi banks MESA.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/600x350 bilgi banks.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\600x350 bilgi banks.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/600x350 MES bilgi banks-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\600x350 MES bilgi banks-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/bpm.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\bpm.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/RTLS-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\RTLS-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/600x350 bilgi banks PROJE.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\600x350 bilgi banks PROJE.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/600x350 bilgi banks OEE.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\600x350 bilgi banks OEE.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/600x350 bilgi banks YEŞİL.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\600x350 bilgi banks YEŞİL.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/K slider-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\K slider-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/açık pozisyonlar slider.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\açık pozisyonlar slider.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/açık pozisyonlar.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\açık pozisyonlar.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/thumb/nsan kaynakları 1-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\thumb\nsan kaynakları 1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/modules/blog/css/blog.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\blog\css\blog.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/coralreef-stratejik-kararlarimizda-yol-gosterici-olacak/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\coralreef-stratejik-kararlarimizda-yol-gosterici-olacak\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/dijital-donusumun-ihracat-uzerindeki-etkisini-ve-dijital-donusumle-ihracati-nasil-degerlendiriyorsunuz/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\dijital-donusumun-ihracat-uzerindeki-etkisini-ve-dijital-donusumle-ihracati-nasil-degerlendiriyorsunuz\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/bu-yil-tanitim-gelecek-yil-ihracat/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\bu-yil-tanitim-gelecek-yil-ihracat\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/sheraton-bursa-hotel-de-donusen-dunyanin-teknoloji-platformu-etkinligindeyiz/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\sheraton-bursa-hotel-de-donusen-dunyanin-teknoloji-platformu-etkinligindeyiz\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/irc-otomotiv-dijital-donusum-calismalarinda-coralreef-mes-cozumunu-secti/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\irc-otomotiv-dijital-donusum-calismalarinda-coralreef-mes-cozumunu-secti\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/ilk-500-de-bursa-nin-gururu-iletisim-yazilim/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\ilk-500-de-bursa-nin-gururu-iletisim-yazilim\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/gelecegin-uretim-vizyonu-akilli-fabrika-cozumleri-509/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\gelecegin-uretim-vizyonu-akilli-fabrika-cozumleri-509\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/mes-ve-bpm-cozumlerimiz-ile-dijital-donusum-akilli-fabrikalar/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\mes-ve-bpm-cozumlerimiz-ile-dijital-donusum-akilli-fabrikalar\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/endustri-4-0-uygulamalari-zirvesi-ndeki-ilginiz-icin-tesekkur-ederiz/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\endustri-4-0-uygulamalari-zirvesi-ndeki-ilginiz-icin-tesekkur-ederiz\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/3-kasim-da-gelisen-teknoloji-genclik-girisimcilik-paneli-ndeyiz/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\3-kasim-da-gelisen-teknoloji-genclik-girisimcilik-paneli-ndeyiz\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/dijital-donusum-ile-gelecege-hazir-olun/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\dijital-donusum-ile-gelecege-hazir-olun\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/iletisim-yazilim-da-egitimler-devam-ediyor/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\iletisim-yazilim-da-egitimler-devam-ediyor\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/iletisim-yazilim-yapay-zekayi-ise-aldi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\iletisim-yazilim-yapay-zekayi-ise-aldi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/tuncer-hatunoglu-muhendis-adaylari-ile-endustri-4-0-konulu-seminer-de-bulustu/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\tuncer-hatunoglu-muhendis-adaylari-ile-endustri-4-0-konulu-seminer-de-bulustu\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/yerli-mali-belgesine-sahip-yazilim-sektorunun-oncusuyuz/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\yerli-mali-belgesine-sahip-yazilim-sektorunun-oncusuyuz\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/iletisim-yazilim-genel-muduru-tuncer-hatunoglu-6-ulusal-veririmlilik-kongre-sinde/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\iletisim-yazilim-genel-muduru-tuncer-hatunoglu-6-ulusal-veririmlilik-kongre-sinde\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/akilli-fabrika-cozumleri-cerkezkoy-e-geliyor/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\akilli-fabrika-cozumleri-cerkezkoy-e-geliyor\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/guclu-adimlarla-yola-devam/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\guclu-adimlarla-yola-devam\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/her-5-firmadan-sadece-1-tanesi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\her-5-firmadan-sadece-1-tanesi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/gelecegin-uretim-vizyonu-akilli-fabrika-cozumleri/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\gelecegin-uretim-vizyonu-akilli-fabrika-cozumleri\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/haberler/2/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\haberler\2\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/ILETISIM.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\ILETISIM.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/600x350 rapor tekn.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\600x350 rapor tekn.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/Tuncer Hatunoğlu_03.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\Tuncer Hatunoğlu_03.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/Yılbaşı Yemeği.JPG
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\Yılbaşı Yemeği.JPG
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/WhatsApp Image 2019-08-26 at 14.03.46.jpeg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\WhatsApp Image 2019-08-26 at 14.03.46.jpeg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/IRC Otomotiv Toplantı.jpeg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\IRC Otomotiv Toplantı.jpeg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/ilk500.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\ilk500.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/1e259.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\1e259.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/1.jpeg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\1.jpeg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/etkinliktesekkur1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\etkinliktesekkur1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/gelisenteknoloji.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\gelisenteknoloji.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/1fe1f.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\1fe1f.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/9b210.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\9b210.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/tuncer 2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\tuncer 2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/tuncer 1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\tuncer 1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/webyerli malı.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\webyerli malı.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/6e7ed.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\6e7ed.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/cerkezkoy.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\cerkezkoy.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/sinerji.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\sinerji.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/besfirma.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\besfirma.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/mes.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\mes.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/modules/references/css/references.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\references\css\references.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/otomotiv/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\otomotiv\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/cam-savunma-sanayi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\cam-savunma-sanayi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/gida-tuketim-urunleri/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\gida-tuketim-urunleri\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/beyaz-esya-plastik/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\beyaz-esya-plastik\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/beyaz-esya-kaucuk/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\beyaz-esya-kaucuk\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/cam/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\cam\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/elektrik-elektronik/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\elektrik-elektronik\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/endustriyel-makine/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\endustriyel-makine\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/ilac/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\ilac\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/tekstil/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\tekstil\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/diger/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\diger\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/cnk-havacilik-uretim-sahasini-takipte-tercihi-coralreef/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\cnk-havacilik-uretim-sahasini-takipte-tercihi-coralreef\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/r-b-s-yedek-parca-makine-uretim-surecini-coralreef-ile-izliyor/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\r-b-s-yedek-parca-makine-uretim-surecini-coralreef-ile-izliyor\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/volo-kompozit-dijital-donusum-yolculugumuzu-coralreef-ile-gelistiriyoruz/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\volo-kompozit-dijital-donusum-yolculugumuzu-coralreef-ile-gelistiriyoruz\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/otomotiv-587/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\otomotiv-587\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/savunma-sanayi-havacilik/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\savunma-sanayi-havacilik\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/ilac-kozmetik/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\ilac-kozmetik\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/BASARI-HIKAYELERI.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\BASARI-HIKAYELERI.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/modules/references/js/references.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\references\js\references.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/lear-bursa-etkin-erp-kullaniminda-iletisim-yazilim-cozumleri/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\lear-bursa-etkin-erp-kullaniminda-iletisim-yazilim-cozumleri\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/400x300 volo-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\400x300 volo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/052ff.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\052ff.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/65645.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\65645.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/references/thumb/c3317.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\references\thumb\c3317.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/modules/contact/css/contact.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\contact\css\contact.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/templates/plugins/maskedinput.min.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\plugins\maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/templates/modules/contact/js/contact.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\contact\js\contact.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/templates/modules/hr/css/hr.css?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\hr\css\hr.css
+Content Type: text/css
+
+Uri: https://iletisimyazilim.com/uploads/contents/zgören Etkinlik jpg-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\zgören Etkinlik jpg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/Ankara İzgören web site - PROGRAM kopya-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Ankara İzgören web site - PROGRAM kopya-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/modules/hr/js/hr.js?v=1415
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\modules\hr\js\hr.js
+Content Type: application/javascript
+
+Uri: https://iletisimyazilim.com/uploads/contents/SanayiOlgunluksEVİYELERİ.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\SanayiOlgunluksEVİYELERİ.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/graf-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\graf-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/yonca-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\yonca-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/dİJİTALDönüşüm.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\dİJİTALDönüşüm.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/Stratejilerindeyok.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Stratejilerindeyok.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/kısa-uzunvade-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\kısa-uzunvade-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/GelirYaratma.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\GelirYaratma.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/ss-4.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\ss-4.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/banner-corp-17.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\banner-corp-17.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/banner-corp-18.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\banner-corp-18.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/pages/cover/banner-corp-19.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\cover\banner-corp-19.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/bizden-haberler/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\bizden-haberler\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/pages/Personnel.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\Personnel.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/pages/Tescil Belgeleri ingilizce.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\Tescil Belgeleri ingilizce.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/pages/Yerli malı.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\pages\Yerli malı.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/en/user-agreement/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\user-agreement\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/contact/?request=coralreef
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\contact\index-1.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/contents/Hedeflenen Faydalar İngilizce.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Hedeflenen Faydalar İngilizce.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/en/contact/?request=managemind
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\contact\index-2.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/contents/MM  Faydalar kopya-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\MM  Faydalar kopya-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/en/contact/?request=imt
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\contact\index-3.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/contents/ERP entegrasyon.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\ERP entegrasyon.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/IMTAktarımRaporlama-2.PNG
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\IMTAktarımRaporlama-2.PNG
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/en/contact/?request=apiscoven
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\contact\index-4.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/what-kind-of-organization-is-mesa/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\what-kind-of-organization-is-mesa\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/what-is-mes-and-erp/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\what-is-mes-and-erp\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/what-is-bpm/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\what-is-bpm\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/what-is-rtls/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\what-is-rtls\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/project-methodology-and-project-organization/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\project-methodology-and-project-organization\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/what-is-oee/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\what-is-oee\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/madosan-coralreef-will-guide-our-strategic-decisions/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\madosan-coralreef-will-guide-our-strategic-decisions\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/how-do-you-evaluate-the-impact-of-digital-transformation-on-exports-and-export-with-digital-transformation/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\how-do-you-evaluate-the-impact-of-digital-transformation-on-exports-and-export-with-digital-transformation\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/this-year-promotion-next-year-export/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\this-year-promotion-next-year-export\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/we-are-at-the-technology-platform-of-the-transforming-world-event-at-sheraton-bursa-hotel/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\we-are-at-the-technology-platform-of-the-transforming-world-event-at-sheraton-bursa-hotel\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/irc-chose-coralreef-mes-solution-for-automotive-digital-transformation/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\irc-chose-coralreef-mes-solution-for-automotive-digital-transformation\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/pride-of-bursa-in-the-top-500-iletisim-yazilim/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\pride-of-bursa-in-the-top-500-iletisim-yazilim\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/production-vision-of-the-future-smart-factory-solutions/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\production-vision-of-the-future-smart-factory-solutions\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/mes-ve-bpm-cozumlerimiz-ile-dijital-donusum-akilli-fabrikalar/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\mes-ve-bpm-cozumlerimiz-ile-dijital-donusum-akilli-fabrikalar\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/on-november-we-are-in-the-emerging-technology-youth-entrepreneurship-panel/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\on-november-we-are-in-the-emerging-technology-youth-entrepreneurship-panel\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/thank-you-for-your-interest-in-the-industry-4-0-applications-summit/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\thank-you-for-your-interest-in-the-industry-4-0-applications-summit\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/get-ready-for-the-future-with-digital-transformation/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\get-ready-for-the-future-with-digital-transformation\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/training-at-iletisim-yazilim-are-going-on/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\training-at-iletisim-yazilim-are-going-on\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/iletisim-yazilim-hired-the-artifical-mind/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\iletisim-yazilim-hired-the-artifical-mind\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/tuncer-hatunoglu-met-with-engineer-candidates-at-seminar-on-industry-4-0/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\tuncer-hatunoglu-met-with-engineer-candidates-at-seminar-on-industry-4-0\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/we-are-the-pioneer-of-the-software-industry-with-the-domestic-goods-certificate/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\we-are-the-pioneer-of-the-software-industry-with-the-domestic-goods-certificate\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/tuncer-hatunoglu-general-manager-of-iletisimyazilim-is-at-the-6th-national-productivity-congress/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\tuncer-hatunoglu-general-manager-of-iletisimyazilim-is-at-the-6th-national-productivity-congress\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/smart-factory-solutions-and-mes-for-successful-erp-applicaitons/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\smart-factory-solutions-and-mes-for-successful-erp-applicaitons\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/keep-moving-with-strong-steps/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\keep-moving-with-strong-steps\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/1-of-each-5-companies/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\1-of-each-5-companies\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/the-production-vision-of-the-future-smart-factory-solution/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\the-production-vision-of-the-future-smart-factory-solution\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/news/2/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\news\2\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/automotive/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\automotive\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/defense-industry/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\defense-industry\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/food/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\food\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/plastics/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\plastics\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/rubber/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\rubber\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/glass/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\glass\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/electric-electronics/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\electric-electronics\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/machinery/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\machinery\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/pharmaceuticals-cosmetics-73/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\pharmaceuticals-cosmetics-73\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/textile/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\textile\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/the-others/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\the-others\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/cnk-aviation-production-site-follow-up-coralreef/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\cnk-aviation-production-site-follow-up-coralreef\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/lear-bursa-iletisim-yazilim-solutions-for-effective-erp-use/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\lear-bursa-iletisim-yazilim-solutions-for-effective-erp-use\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/r-b-s-yedek-parca-makine-monitors-its-production-process-with-coralreef/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\r-b-s-yedek-parca-makine-monitors-its-production-process-with-coralreef\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/volo-kompozit-we-are-developing-our-digital-transformation-journey-with-coralreef/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\volo-kompozit-we-are-developing-our-digital-transformation-journey-with-coralreef\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/automotive-786/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\automotive-786\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/defense-industry-800/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\defense-industry-800\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/pharmaceuticals-cosmetics/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\pharmaceuticals-cosmetics\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/iletisim-185/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\iletisim-185\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/contents/zgören 3 ing anasayfa.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\zgören 3 ing anasayfa.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/Ankara İzgören web site - PROGRAM kopya-3.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Ankara İzgören web site - PROGRAM kopya-3.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/contents/hexagons.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\hexagons.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/work.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\work.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/time.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\time.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/star.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\star.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/doc.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\doc.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/screen.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\screen.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/pencil.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\pencil.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/glass.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\glass.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/user.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\user.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/puzzle.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\puzzle.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/arge.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\arge.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/dots.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\dots.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/aim.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\aim.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/headset.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\headset.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/cart.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\cart.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/attach.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\attach.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/content/icons/add.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\content\icons\add.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/templates/images/swipe-icon.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\templates\images\swipe-icon.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/MESA.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\MESA.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/ARK-4.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\ARK-4.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/ARK-3.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\ARK-3.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/ARK-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\ARK-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/MESERPİlişkisi-1.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\MESERPİlişkisi-1.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/mesx-3.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\mesx-3.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/ProjeMetodolojisi.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\ProjeMetodolojisi.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/Proje Organizasyonu.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\Proje Organizasyonu.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/contents/OEE.png
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\contents\OEE.png
+Content Type: image/png
+
+Uri: https://iletisimyazilim.com/uploads/news/cover/Tuncer Hatunoğlu_03.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\cover\Tuncer Hatunoğlu_03.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/cover/Eğitim 2.jpeg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\cover\Eğitim 2.jpeg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/WhatsApp Image 2019-08-24 at 15.37.19-1.jpeg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\WhatsApp Image 2019-08-24 at 15.37.19-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/cover/WhatsApp Image 2019-08-26 at 15.51.40.jpeg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\cover\WhatsApp Image 2019-08-26 at 15.51.40.jpeg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/rc.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\rc.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/mes012019-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\mes012019-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/mes022019-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\mes022019-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/mes032019-2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\mes032019-2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/mes042019-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\mes042019-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/2-2.jpeg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\2-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/res1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\res1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/res2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\res2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/etkinliktesekkur1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\etkinliktesekkur1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/gelisenteknoloji.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\gelisenteknoloji.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/izgoren11.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\izgoren11.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/Tuncer Hatunoğlu_03.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\Tuncer Hatunoğlu_03.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/webyerli malı.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\webyerli malı.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/cerkezkoy.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\cerkezkoy.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/sinerji-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\sinerji-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/mes.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\mes.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/gelecegin-meslegi-yazilim-muhendisligi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\gelecegin-meslegi-yazilim-muhendisligi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/hatunoglu-basarili-girisimci-yeni-bilgiye-actir/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\hatunoglu-basarili-girisimci-yeni-bilgiye-actir\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/hatunoglu-yazilimda-tercihimiz-yerliden-yana/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\hatunoglu-yazilimda-tercihimiz-yerliden-yana\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uretim-sahalarinda-bilisimin-degeri-artiyor/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uretim-sahalarinda-bilisimin-degeri-artiyor\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/tuncer-hatunoglu-ndan-is-plani-semineri/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\tuncer-hatunoglu-ndan-is-plani-semineri\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/universite-sanayi-isbirligi-konulu-panel-basariyla-tamamlandi/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\universite-sanayi-isbirligi-konulu-panel-basariyla-tamamlandi\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/gelecegin-meslegi.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\gelecegin-meslegi.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/hatunoglu.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\hatunoglu.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/yazilim.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\yazilim.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/uretim (1).jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\uretim (1).jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/iletisimyazilim-busiad.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\iletisimyazilim-busiad.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/thumb/universite-sanayi-panel.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\thumb\universite-sanayi-panel.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/en/our-news/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\our-news\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/news/cover/1920x700 bizden haberler-1.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\cover\1920x700 bizden haberler-1.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/en/profession-of-the-future-software-engineering/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\profession-of-the-future-software-engineering\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/hatunoglu-we-prefer-domestic-software/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\hatunoglu-we-prefer-domestic-software\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/hatunoglu-successful-entrepreneur-opens-up-new-knowledge/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\hatunoglu-successful-entrepreneur-opens-up-new-knowledge\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/the-value-of-informatics-increases-in-production-areas/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\the-value-of-informatics-increases-in-production-areas\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/panel-on-university-industry-cooperation-completed-successfully/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\panel-on-university-industry-cooperation-completed-successfully\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/en/business-plan-seminar-by-tuncer-hatunoglu/
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\en\business-plan-seminar-by-tuncer-hatunoglu\index.htm
+Content Type: text/html
+
+Uri: https://iletisimyazilim.com/uploads/news/gelecegin-meslegi.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\gelecegin-meslegi.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/hatunoglu.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\hatunoglu.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/yazilim.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\yazilim.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/uretim (1).jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\uretim (1).jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/uretim2.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\uretim2.jpg
+Content Type: image/jpeg
+
+Uri: https://iletisimyazilim.com/uploads/news/universite-sanayi-panel.jpg
+File Name: C:\Users\PC\Desktop\IY\iletisimyazilim.com\uploads\news\universite-sanayi-panel.jpg
+Content Type: image/jpeg
+

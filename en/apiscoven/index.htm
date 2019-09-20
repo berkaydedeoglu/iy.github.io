@@ -1,0 +1,781 @@
+﻿
+
+
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    
+    
+    
+    <title>Demand Forecasting System - İletişim Yazılım</title>
+
+    <meta name="language" content="en-GB">
+    <meta name="description" content="">
+    <meta name="generator" content="Marsus">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="apple-touch-icon" href="..\..\favicon.ico?v=1415">
+    <link rel="shortcut icon" href="..\..\favicon.ico?v=1415">
+
+                
+                
+                
+    <meta property="og:site_name" content="İletişim Yazılım">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="ApisCoven">
+    <meta property="og:url" content="https://iletisimyazilim.com/en/apiscoven/">
+    <meta property="og:image" content="https://iletisimyazilim.com/templates/images/og-img.png">
+    <meta property="og:description" content="">
+
+    <link rel="canonical" href="index.htm">
+
+            <link rel="alternate" href="..\..\apiscoven\index.htm" hreflang="tr">
+            <link rel="alternate" href="index.htm" hreflang="en">
+    
+                                        <link href="..\..\templates\plugins\bootstrap-v4\css\bootstrap.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\css\hamburgers.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\css\application.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\plugins\font-awesome\css\fontawesome-all.min.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\plugins\toastr\toastr.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\css\style.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\modules\pages\css\pages.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\modules\pages\css\hexagon.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\modules\pages\css\apiscoven.css?v=1415" rel="stylesheet">
+                        
+</head>
+
+<body dir="ltr" class="header-border">
+<header>
+    <div class="header-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="box">
+                        <ul class="d-flex justify-content-md-end justify-content-center">
+                            <li><a href="tel:02242514100">0224 251 41 00</a></li>
+                            <li><a href="mailto:iletisim@iletisimyazilim.com">iletisim@iletisimyazilim.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg">
+            <div class="works d-flex align-items-center">
+            <a href="..\index.htm" class="navbar-brand" title="İletişim Yazılım">
+                <img src="..\..\templates\images\iletisim-yazilim.png" width="220" height="64" alt="iletişim yazılım">
+            </a>
+
+                <div class="languages dropdown">
+    <button class="dropdown-toggle text-uppercase" type="button" data-toggle="dropdown">
+        en
+    </button>
+    <div class="dropdown-menu">
+                    
+                
+                
+                <li>
+                    <a href="..\..\apiscoven\index.htm" class="dropdown-item">
+                        <img src="..\..\templates\images\flags\tr.svg" alt="Türkçe" width="32" height="32">
+                        <span class="ml-1">Türkçe</span>
+                    </a>
+                </li>
+
+                                            </div>
+</div>
+                <div class="search">
+                    <i class="far fa-search" id="search-button"></i>
+                    <div class="search-form">
+                        <form action="" method="post">
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <input type="text" name="keyword" class="form-control" placeholder="Search...">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-search" type="submit"><i class="far fa-search"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <button class="hamburger hamburger--squeeze js-hamburger d-block d-lg-none" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false">
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="navbar-nav ml-auto">
+                    
+<li class="nav-item">
+<a href="..\index.htm" class="nav-link">Mainpage</a>
+</li>
+
+<li class="nav-item dropdown">
+<a href="https://iletisimyazilim.com/en/corporate/" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Organizational</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\about-us\index.htm" class="dropdown-item">About Us<span></span></a></li>
+<li><a href="..\digital-transformation-journey\index.htm" class="dropdown-item">Digital Transformation Journey<span></span></a></li>
+<li><a href="..\vision-and-mission\index.htm" class="dropdown-item">Vision - Mission<span></span></a></li>
+<li><a href="..\quality-policy\index.htm" class="dropdown-item">Quality Policy<span></span></a></li>
+<li><a href="..\customer-satisfaction\index.htm" class="dropdown-item">Customer Satisfaction<span></span></a></li>
+<li><a href="..\business-partners\index.htm" class="dropdown-item">Partners<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\solutions\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Solutions</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\coralreef\index.htm" class="dropdown-item purple hassize">CoralReef<span> MES</span></a></li>
+<li><a href="..\managemind\index.htm" class="dropdown-item blue hassize">ManageMind<span> BPM</span></a></li>
+<li><a href="..\imt\index.htm" class="dropdown-item pink hassize">IMT<span> MT</span></a></li>
+<li><a href="index.htm" class="dropdown-item orange hassize">ApisCoven<span> DF</span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\data-bank\index.htm" class="nav-link">Data Bank</a>
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\hr-policy\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">HR</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\hr-policy\index.htm" class="dropdown-item">HR Policy<span></span></a></li>
+<li><a href="..\vacant-employment-positions\index.htm" class="dropdown-item">Vacant Employment Positions<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\news\index.htm" class="nav-link">News</a>
+</li>
+
+<li class="nav-item CSS Class dropdown">
+<a href="..\references\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fa fa-Menü İconu"></i> References</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\our-references\index.htm" class="dropdown-item">Our References<span></span></a></li>
+<li><a href="..\reference-videos\index.htm" class="dropdown-item">Reference Videos<span></span></a></li>
+<li><a href="..\achievement-stories\index.htm" class="dropdown-item">Achievement Stories<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\communication\index.htm" class="nav-link">Communication</a>
+</li>
+
+                </ul>
+            </div>
+
+        </nav>
+    </div>
+
+</header>
+
+
+
+            <div class="page-header has-bg">
+                    <div class="bg">
+                <img src="..\..\uploads\pages\cover\apis slider.jpg" alt="ApisCoven" height="180">
+                <div class="overlay" style="background-image: url('../../templates/images/inline/apiscoven-banner.png')">
+                    <div class="overfox d-flex align-items-center align-items-md-end">
+                        <div class="container">
+                            <div class="row align-items-start">
+                                <div class="col-md-6">
+                                    <div class="big">
+                                        <span>AC</span>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="sub">
+                                        <h3 class="mb-2">Demand Forecasting System</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+    <div class="resulting">
+        <div class="top">
+            <div class="container">
+                <div class="row align-items-start">
+                    <div class="col-md-6">
+                        <div class="title">
+                            <h1>ApisCoven<span class="tag orange">DF</span><span class="subtitle orange">Demand Forecasting System</span></h1>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="description">
+                            <p>
+                                <p>It is a system which enables to organize and analyze the currently available data in the form of providing the possibility of forecasting the sales in the future. Its greatest advantage compared to other forecasting programs is reaching much elaborative results by using myriad methods and performing failure analysis via these methods. The purchasing transactions are being finished efficiently via demand forecast. The efficient use of resources provides the decrease the costs as well.</p>
+                            
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="detail orange">
+                            <i class="far fa-chevron-double-right scrollpot d-md-none"></i>
+                            <div class="overfox">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" id="step1-tab" data-toggle="tab" href="#step1" role="tab" aria-controls="step1" aria-selected="true">Properties</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step2-tab" data-toggle="tab" href="#step2" role="tab" aria-controls="step2" aria-selected="false">Work Flow</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step3-tab" data-toggle="tab" href="#step3" role="tab" aria-controls="step3" aria-selected="false">Benefits</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step4-tab" data-toggle="tab" href="#step4" role="tab" aria-controls="step4" aria-selected="false">Reporting</a>
+                                    </li>
+                                </ul>
+                                <a href="..\contact\index-4.htm?request=apiscoven#goform" class="contact-inline orange d-none d-md-block" title="Get In Contact">Get In Contact</a>
+                            </div>
+                            <a href="..\contact\index-4.htm?request=apiscoven#goform" class="contact-inline orange d-md-none" title="Get In Contact">Get In Contact</a>
+                            <div class="tab-content" id="myTabContent">
+                                <div class="tab-pane fade show active" id="step1" role="tabpanel" aria-labelledby="step1-tab">
+                                    <div class="special">
+                                                                                                                                                                                                                        <div class="item right orange">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\..\templates\images\inline\ap-arrow-left-1.png" class="arrows arrow-left" alt="Your Sales Forecasts Are In Safe Hands…">
+                                                                <img src="..\..\uploads\contents\thumb\apis özellikler 1..jpg" width="" height="" alt="Your Sales Forecasts Are In Safe Hands…" alt="Your Sales Forecasts Are In Safe Hands…" class="current">
+                                                                <img src="..\..\templates\images\inline\ap-arrow-left-2.png" class="arrows arrow-left-2" alt="Your Sales Forecasts Are In Safe Hands…">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Your Sales Forecasts Are In Safe Hands…</span>
+                                                                <div class="description">
+                                                                    <p>With ApisCoven DF; too many methods are used in the analysis and error analysis is performed with these methods. This allows you to obtain detailed results as a result of the forecast.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item orange left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Efficient Purchasing Transactions</span>
+                                                                <div class="description">
+                                                                    <p>With demand forecasting results, you can make purchasing operations more efficient.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                    <img src="..\..\templates\images\inline\ap-arrow-right-1.png" class="arrows arrow-right" alt="Efficient Purchasing Transactions">
+                                                                                                                                <img src="..\..\uploads\contents\thumb\02 verimli satinalma islemi.jpg" width="" height="" alt="Efficient Purchasing Transactions" alt="Efficient Purchasing Transactions" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item right orange">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\..\templates\images\inline\ap-arrow-left-1.png" class="arrows arrow-left" alt="Using Existing Resources Efficiently">
+                                                                <img src="..\..\uploads\contents\thumb\03 mevcut kaynaklari verimli kullanma.jpg" width="" height="" alt="Using Existing Resources Efficiently" alt="Using Existing Resources Efficiently" class="current">
+                                                                <img src="..\..\templates\images\inline\ap-arrow-left-2.png" class="arrows arrow-left-2" alt="Using Existing Resources Efficiently">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Using Existing Resources Efficiently</span>
+                                                                <div class="description">
+                                                                    <p>According to the results of demand forecasting studies, you can use your existing resources more efficiently and decrease your costs.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item orange left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Integration with ERP</span>
+                                                                <div class="description">
+                                                                    <p>By integrating with your ERP, you can manage data from a single center. You can write forecast results to your ERP as forecast data.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                <img src="..\..\uploads\contents\thumb\04 erp ile entegrasyon.jpg" width="" height="" alt="Integration with ERP" alt="Integration with ERP" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+                                <div class="tab-pane fade" id="step2" role="tabpanel" aria-labelledby="step2-tab">
+
+                                    
+
+                                    <div class="imagelectus" style="position: relative">
+
+                                        <!-- workflow -->
+                                                                                <div class="workflow-container swiper-reference">
+                                            <div class="workflow">
+
+                                                <img src="..\..\templates\images\content\apiscoven-workflow.png" class="bg">
+
+                                                <div class="flow flow1">
+                                                    <img src="..\..\templates\images\content\apiscoven-logo.png">
+                                                    ApisCoven <sup>DF</sup>
+                                                </div>
+
+                                                <div class="flow flow2 flowbtn">
+                                                    Data Entry
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Data Entry">
+                                                        <input type="hidden" class="val2" value="AC">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Data entry through manual program,</li>
+	<li>ERP integration (automatic data transfer),</li>
+	<li>Office Integration (Excel)</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="This is the section where customer orders, Purchase Orders, Inventory, Product, Sales, Sales Analysis and similar information are defined for demand forecasting.">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible d-none">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 web fason-2.jpg" width="" height="" alt="Data Entry" alt="Data Entry">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="flow flow3 eng">
+                                                    Is it suitable <br>for analysis?
+                                                </div>
+
+                                                <div class="flow flow4 answer no">
+                                                    NO
+                                                </div>
+
+                                                <div class="flow flow5 answer">
+                                                    YES
+                                                </div>
+
+                                                <div class="flow flow6 flowbtn move-left">
+                                                    Pre - Analysis Transactions
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Pre - Analysis Transactions">
+                                                        <input type="hidden" class="val2" value="AC">
+                                                        <input type="hidden" class="val3" value='<p><strong>Completing Missing Data</strong></p>
+
+<ul>
+	<li>Data completion with interpolation methods</li>
+</ul>
+
+<p><strong>Seasonal Adjustment</strong></p>
+
+<ul>
+	<li>Moving Averages Ratio Method</li>
+	<li>Simple Averages Method</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible d-none">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 web fason-6.jpg" width="" height="" alt="Pre - Analysis Transactions" alt="Pre - Analysis Transactions">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="flow flow7 flowbtn">
+                                                    Reporting
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Reporting">
+                                                        <input type="hidden" class="val2" value="AC">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Ing. Dönem Bazında Talep Tahmin Raporu</li>
+	<li>Yöntemsel Karşılaştırmalı Analiz Raporu</li>
+	<li>Detaylı Tahmin - Satış Karşılaştırma Raporu</li>
+	<li>MS Excel Pivot Tablolar vs.</li>
+</ul>
+
+<p>&nbsp;</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible d-none">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 web fason-5.jpg" width="" height="" alt="Reporting" alt="Reporting">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="flow flow8 flowbtn">
+                                                    Demand<br>Forecasting
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Demand Forecasting">
+                                                        <input type="hidden" class="val2" value="AC">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Demand Forecast Report by Period</li>
+	<li>Methodological Comparative Analysis Report</li>
+	<li>Detailed Forecast - Sales Comparison Report</li>
+	<li>MS Excel Pivot Tables etc.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It analyzes the sales in the past and makes the estimation of the demands for the future periods.">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible d-none">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 web fason-4.jpg" width="" height="" alt="Demand[br]Forecasting" alt="Demand[br]Forecasting">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="flow flow9 flowbtn">
+                                                    Analysis<br> Transactions
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Analysis  Transactions">
+                                                        <input type="hidden" class="val2" value="AC">
+                                                        <input type="hidden" class="val3" value='<p><strong>Analysis Processes with Various Algorithms</strong></p>
+
+<ul>
+	<li>Floating Averages</li>
+	<li>Winters Method</li>
+	<li>Exponential Correction</li>
+	<li>Holts Method and similar.</li>
+</ul>
+
+<p><strong>Analysis with different comparison methods</strong></p>
+
+<ul>
+	<li>MAD, MSE, MAPE and similar.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible d-none">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 web fason-3.jpg" width="" height="" alt="Analysis[br] Transactions" alt="Analysis[br] Transactions">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="flow flow10 answer no">
+                                                    NO
+                                                </div>
+
+                                                <div class="flow flow11 answer">
+                                                    YES
+                                                </div>
+
+                                                <div class="flow flow12 eng">
+                                                    Is it suitable <br>for analysis?
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <div class="swiper"></div>
+                                        <!-- //workflow -->
+
+                                    </div>
+
+                                </div>
+                                <div class="tab-pane fade" id="step3" role="tabpanel" aria-labelledby="step3-tab">
+                                                                        <div class="imagelectus">
+                                        <p><strong>What is done with Apiscoven?</strong></p>
+
+<ul>
+	<li>Historical data analysis</li>
+	<li>Comparison with MAD, MSE, MAPE</li>
+	<li>Cost and profit estimates</li>
+	<li>Pricing and promotion management</li>
+	<li>Interpolation</li>
+	<li>Seasonality analysis</li>
+	<li>Budget management</li>
+</ul>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="step4" role="tabpanel" aria-labelledby="step4-tab">
+                                                                        <div class="imagelectus">
+                                        <p style="text-align: center;"><strong>APİSCOVEN REPORTING</strong></p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\Apiscoven1-1.png" style="height: 449px; text-align: center; width: 600px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\Apicoven2.png" style="height: 449px; text-align: center; width: 600px;"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- modal -->
+    <div class="hexapopup">
+        <div class="overpop"></div>
+        <div class="overbox" id="coloredOveredBox">
+            <div class="left">
+                <div class="top">
+                    <div class="title">
+                        ApisCoven
+                        <span>DF</span>
+                    </div>
+                </div>
+                <div class="bottom">
+                    <div class="title">
+                        <span class="text1" id="hexval1">AC</span>
+                        <span class="text2" id="hexval2">Veri Girişi</span>
+                        <span class="text3" id="hexval5">İçerik eklenecektir.</span>
+                    </div>
+                </div>
+            </div>
+            <div class="right">
+                <div class="top">
+                    <img src="..\..\uploads\contents\thumb\1120x380 web fason.jpg" id="hexval4" alt="">
+                </div>
+                <div class="bottom">
+                    <p id="hexval3">
+                        ApisCoven DF ile; analizlerde çok fazla yöntem kullanılmakta ve bu yöntemlerle hata analizi
+                        gerçekleştirilmektedir. Böylece tahmin sonucunda ayrıntılı sonuçlar elde edebilirsiniz.<br><br>
+                        ApisCoven DF ile; analizlerde çok fazla yöntem kullanılmakta ve bu yöntemlerle hata analizi
+                        gerçekleştirilmektedir. Böylece tahmin sonucunda ayrıntılı sonuçlar elde edebilirsiniz.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- //modal -->
+
+
+<footer>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-4 col-md-6 block left">
+                <div class="logo">
+                    <a href="..\index.htm" title="İletişim Yazılım">
+                        <img src="..\..\templates\images\footer-logo.png" width="75" height="75" alt="iletişim yazılım">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            <div class="col-xl-6 block links">
+                <div class="row">
+                    <div class="col-6 col-md-4">
+                        <div class="link-area">
+                            <a href="..\index.htm" title="Mainpage" class="title">Mainpage</a>
+                            <a href="..\about-us\index.htm" title="Organizational" class="title">Organizational</a>
+                            <ul class="mbnone">
+                                                                                                    <li><a href="..\about-us\index.htm">About Us</a></li>
+                                                                    <li><a href="..\digital-transformation-journey\index.htm">Digital Transformation Journey</a></li>
+                                                                    <li><a href="..\vision-and-mission\index.htm">Vision and Mission</a></li>
+                                                                    <li><a href="..\quality-policy\index.htm">Quality Policy</a></li>
+                                                                    <li><a href="..\customer-satisfaction\index.htm">Customer Satisfaction</a></li>
+                                                                    <li><a href="..\business-partners\index.htm">Partners</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <div class="link-area">
+                            <a href="..\solutions\index.htm" title="Solutions" class="title">Solutions</a>
+                            <ul>
+                                                                                                    <li><a href="..\coralreef\index.htm">CoralReef</a></li>
+                                                                    <li><a href="..\managemind\index.htm">ManageMind</a></li>
+                                                                    <li><a href="..\imt\index.htm">IMT</a></li>
+                                                                    <li><a href="index.htm">Apiscoven</a></li>
+                                                            </ul>
+                            <a href="javascript:void(0)" title="HR" class="title">HR</a>
+                            <ul class="mbnone">
+                                                                                                    <li><a href="..\hr-policy\index.htm">HR Policy</a></li>
+                                                                    <li><a href="..\vacant-employment-positions\index.htm">Vacant Employment Positions</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+
+                        <div class="link-area">
+                            <a href="..\data-bank\index.htm" title="Data Bank" class="title mod-mobile"><span>Data Bank</span></a>
+                            <div class="d-flex align-items-start d-sm-block">
+                                <div class="long">
+                                    <a href="..\news\index.htm" title="News" class="title">News</a>
+                                    <!--
+                                    <ul>
+                                                                                                                    </ul>
+                                    -->
+                                </div>
+                                <div class="long">
+                                    <a href="javascript:void(0)" title="References" class="title">References</a>
+                                    <ul class="mbnone">
+                                                                                                                            <li><a href="..\our-references\index.htm">Our References</a></li>
+                                                                                    <li><a href="..\reference-videos\index.htm">Reference Videos</a></li>
+                                                                                    <li><a href="..\achievement-stories\index.htm">Achievement Stories</a></li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 block links">
+                <div class="row align-items-end">
+                    <div class="col-md-6">
+                        <a href="..\contact\index.htm" title="Communication" class="title mod-mobile"><span>Communication</span></a>
+                                                <ul>
+                                                            <li>
+                                    <span class="title othermt">R&D CENTER</span>
+                                    <address>
+                                        <p>Gazcılar Street&nbsp;Petek Bozkaya Business Building C Block F:3 Osmangazi | Bursa&nbsp;<strong>T:&nbsp;</strong>0224 251 41 00<b>&nbsp;F:&nbsp;</b>0224 271 66 84</p>
+                                    </address>
+                                </li>
+                                                            <li>
+                                    <span class="title ">TECHNO PARK</span>
+                                    <address>
+                                        <p>Ulutek Uludağ University&nbsp;Technology Center&nbsp;<br>
+Nilüfer | Bursa&nbsp;<strong>T:&nbsp;</strong>0224 280 84 84</p>
+                                    </address>
+                                </li>
+                                                    </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="cropper">
+                            <div class="social">
+                                <ul>
+                                                                            <li><a href="https://www.facebook.com/iletisimyazilim/" rel="nofollow" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                                                                                                <li><a href="https://www.instagram.com/iletisimyazilim/?hl=tr" rel="nofollow" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                                                                                                <li><a href="https://twitter.com/iletisimbursa" rel="nofollow" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                                                                                                <li><a href="https://tr.linkedin.com/company/iletisimyazilim" rel="nofollow" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                                                                                                                    <li><a href="https://www.youtube.com/channel/UCk18NDaEEbO_UKElDz78fFQ" rel="nofollow" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                                                                                                            <li><a href="https://iletisimyazilim.com/en/rss.xml" target="_blank"><i class="fas fa-rss"></i></a></li>
+                                </ul>
+                            </div>
+                            <hr class="d-none d-md-block">
+                            <a href="mailto:iletisim@iletisimyazilim.com" class="btn btn-primary">Your opinion is important<i class="fas fa-envelope"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="marsus">
+        <div class="container">
+            <div class="row align-items-baseline">
+                <div class="col-8 col-md-12 col-lg-9">
+                    <div class="flexed">
+                        <div class="left">
+                            <span>Industry 4.0</span>
+                            <span class="copyright d-block d-md-none">Copyright &copy; 2019. All Rights Reserved.</span>
+                        </div>
+                        <div class="right d-none d-md-block">
+                            <ul>
+                                                                                                    <li><a href="..\intelligence-society-services\index.htm">Intelligence Society Services</a></li>
+                                                                    <li><a href="..\legal-warning-conditions-of-usage-page\index.htm">Legal Warning and Conditions of Usage</a></li>
+                                                                    <li><a href="..\privacy-policy\index.htm">Privacy Policy</a></li>
+                                                                    <li><a href="..\site-map\index.htm">Site Map</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-md-12 col-lg-3">
+                    <div class="copyright">
+                        <span class="d-none d-md-block">Copyright &copy; 2019. All Rights Reserved.</span>
+                                                    <img src="..\..\templates\images\25year.png" width="60" height="60" alt="All Rights Reserved."></div>
+                                        </div>
+                <div class="col-sm-12 d-block d-md-none">
+                    <div class="footer-mod-links">
+                        <hr>
+                        <ul>
+                                                                                        <li><a href="..\intelligence-society-services\index.htm">Intelligence Society Services</a></li>
+                                                            <li><a href="..\legal-warning-conditions-of-usage-page\index.htm">Legal Warning and Conditions of Usage</a></li>
+                                                            <li><a href="..\privacy-policy\index.htm">Privacy Policy</a></li>
+                                                            <li><a href="..\site-map\index.htm">Site Map</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row d-md-flex align-items-center mt-4">
+                <div class="col-md-6">
+                    <a href="http://www.aeronorm.com/" title="Aeronorm" class="aeronorm-logo" target="_blank">Design: Aeronorm</a>
+                </div>
+                <div class="col-md-6 text-md-right">
+                    <a href="https://marsus.com/" title="Kurumsal web sitesi Marsus tarafından hazırlanmıştır" target="_blank"><img src="..\..\templates\images\logo.svg" class="marsus-logo" alt="Marsus"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="go-top">
+    <i class="far fa-chevron-up"></i>
+</div>
+<div class="cookies" style="display:none;">
+    <div class="container">
+        <div class="col-sm-12">We use cookies to help us give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on our website. However, if you would like to, you can change your cookie settings at any time. <a class="close-cookie-warning"><span><i class="far fa-times"></i></span></a></div>
+    </div>
+</div>
+
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+
+<script type="text/javascript">
+    window.home     =   'https://iletisimyazilim.com/en/';
+    window.base     =   'https://iletisimyazilim.com/';
+    window.lang     =   '{"an_error":"An error has occurred. Please try again.","agreements_warning":"You must accept the user agreement.","load_more_label":"SHOW MORE"}';
+    window.device   =   'desktop';
+    window.os       =   'other';
+</script>
+
+                        <script type="text/javascript" src="..\..\templates\plugins\jquery-3.3.1.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\bootstrap-v4\js\bootstrap.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\toastr\toastr.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\ajaxform.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\scrollToFixed.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\js\application.js?v=1415"></script>
+            
+
+
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-779137568"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'AW-779137568');
+    </script>
+
+    <!-- Event snippet for Genel-Dönüşüm conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-779137568/2eRfCOGPh6cBEKDkwvMC'});
+    </script>
+    <!-- Event snippet for Genel-Dönüşüm conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-779137568/2eRfCOGPh6cBEKDkwvMC'});
+    </script>
+
+
+
+    <!-- Begin of Chaport Live Chat code -->
+    <script type="text/javascript">
+        (function(w,d,v3){
+            w.chaportConfig = { appId : '5d4421ac1713586ade4ecd26' };
+            if(w.chaport)return;v3=w.chaport={};v3._q=[];v3._l={};v3.q=function(){v3._q.push(arguments)};v3.on=function(e,fn){if(!v3._l[e])v3._l[e]=[];v3._l[e].push(fn)};var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://app.chaport.com/javascripts/insert.js';var ss=d.getElementsByTagName('script')[0];ss.parentNode.insertBefore(s,ss)})(window, document);
+    </script>
+    <!-- End of Chaport Live Chat code -->
+
+</body>
+</html>

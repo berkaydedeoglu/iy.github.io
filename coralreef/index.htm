@@ -1,0 +1,1556 @@
+﻿
+
+
+<style type="text/css">
+    /* Custom, iPhone Retina */
+    @media only screen and (min-width : 320px) {
+
+        .page-header.has-bg h3 {
+            margin-bottom: 50px !important;
+        }
+
+        .resulting .top .title h1 {
+            margin-bottom: 60px;
+        }
+
+        .page-header.has-bg h1 {
+            margin-top: 50px;
+        }
+
+        .resulting .top .title h1 .subtitle {
+            left: auto !important;
+        }
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+        .page-header.has-bg h3 {
+            margin-bottom: 0.5rem !important;
+        }
+
+        .resulting .top .title h1 {
+            margin-bottom: 0;
+        }
+
+        .page-header.has-bg h1 {
+            margin-top: 0;
+        }
+
+        .resulting .top .title h1 .subtitle {
+            left: 0 !important;
+        }
+
+    }
+</style>
+
+
+
+<!doctype html>
+<html lang="tr" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    
+    
+    
+    <title>Üretim Yönetim Sistemi - İletişim Yazılım</title>
+
+    <meta name="language" content="tr-TR">
+    <meta name="description" content="">
+    <meta name="generator" content="Marsus">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="apple-touch-icon" href="..\favicon.ico?v=1415">
+    <link rel="shortcut icon" href="..\favicon.ico?v=1415">
+
+                
+                
+                
+    <meta property="og:site_name" content="İletişim Yazılım">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="CoralReef">
+    <meta property="og:url" content="https://iletisimyazilim.com/coralreef/">
+    <meta property="og:image" content="https://iletisimyazilim.com/templates/images/og-img.png">
+    <meta property="og:description" content="">
+
+    <link rel="canonical" href="index.htm">
+
+            <link rel="alternate" href="index.htm" hreflang="tr">
+            <link rel="alternate" href="..\en\coralreef\index.htm" hreflang="en">
+    
+                                        <link href="..\templates\plugins\bootstrap-v4\css\bootstrap.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\css\hamburgers.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\css\application.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\plugins\font-awesome\css\fontawesome-all.min.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\plugins\toastr\toastr.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\css\style.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\modules\pages\css\pages.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\modules\pages\css\hexagon.css?v=1415" rel="stylesheet">
+                        
+</head>
+
+<body dir="ltr" class="header-border">
+<header>
+    <div class="header-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="box">
+                        <ul class="d-flex justify-content-md-end justify-content-center">
+                            <li><a href="tel:02242514100">0224 251 41 00</a></li>
+                            <li><a href="mailto:iletisim@iletisimyazilim.com">iletisim@iletisimyazilim.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg">
+            <div class="works d-flex align-items-center">
+            <a href="..\index.htm" class="navbar-brand" title="İletişim Yazılım">
+                <img src="..\templates\images\iletisim-yazilim.png" width="220" height="64" alt="iletişim yazılım">
+            </a>
+
+                <div class="languages dropdown">
+    <button class="dropdown-toggle text-uppercase" type="button" data-toggle="dropdown">
+        tr
+    </button>
+    <div class="dropdown-menu">
+                                        
+                
+                
+                <li>
+                    <a href="..\en\coralreef\index.htm" class="dropdown-item">
+                        <img src="..\templates\images\flags\en.svg" alt="English" width="32" height="32">
+                        <span class="ml-1">English</span>
+                    </a>
+                </li>
+
+                        </div>
+</div>
+                <div class="search">
+                    <i class="far fa-search" id="search-button"></i>
+                    <div class="search-form">
+                        <form action="" method="post">
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <input type="text" name="keyword" class="form-control" placeholder="Ara...">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-search" type="submit"><i class="far fa-search"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <button class="hamburger hamburger--squeeze js-hamburger d-block d-lg-none" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false">
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="navbar-nav ml-auto">
+                    
+<li class="nav-item">
+<a href="..\index.htm" class="nav-link">Ana Sayfa</a>
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\kurumsal\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Kurumsal</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\kurumsal\index.htm" class="dropdown-item">Hakkımızda<span></span></a></li>
+<li><a href="..\dijital-donusum-yolculugu\index.htm" class="dropdown-item">Dijital Dönüşüm Yolculuğu<span></span></a></li>
+<li><a href="..\vizyon-ve-misyon\index.htm" class="dropdown-item">Vizyon - Misyon<span></span></a></li>
+<li><a href="..\kalite-politikasi\index.htm" class="dropdown-item">Kalite Politikası<span></span></a></li>
+<li><a href="..\musteri-memnuniyeti\index.htm" class="dropdown-item">Müşteri Memnuniyeti<span></span></a></li>
+<li><a href="..\is-ortaklari\index.htm" class="dropdown-item">İş Ortakları<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\cozumler\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Çözümler</a>
+
+
+<ul class="dropdown-menu"><li><a href="index.htm" class="dropdown-item purple hassize">CoralReef<span> MES</span></a></li>
+<li><a href="..\managemind\index.htm" class="dropdown-item blue hassize">ManageMind<span> BPM</span></a></li>
+<li><a href="..\imt\index.htm" class="dropdown-item pink hassize">IMT<span> MT</span></a></li>
+<li><a href="..\apiscoven\index.htm" class="dropdown-item orange hassize">ApisCoven<span> DF</span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\bilgi-bankasi\index.htm" class="nav-link">Bilgi Bankası</a>
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\ik-politikasi\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">İK</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\ik-politikasi\index.htm" class="dropdown-item">İK Politikası<span></span></a></li>
+<li><a href="..\acik-pozisyonlar\index.htm" class="dropdown-item">Açık Pozisyonlar<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\haberler\index.htm" class="nav-link">Haberler</a>
+</li>
+
+<li class="nav-item CSS Class dropdown">
+<a href="..\referanslar\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fa fa-Menü İconu"></i> Referanslar</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\referanslarimiz\index.htm" class="dropdown-item">Referanslarımız<span></span></a></li>
+<li><a href="..\referans-videolari\index.htm" class="dropdown-item">Referans Videoları<span></span></a></li>
+<li><a href="..\basari-hikayeleri\index.htm" class="dropdown-item">Başarı Hikayeleri<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\iletisim\index.htm" class="nav-link">İletişim</a>
+</li>
+
+                </ul>
+            </div>
+
+        </nav>
+    </div>
+
+</header>
+
+
+
+        <div class="page-header has-bg">
+            <div class="bg">
+            <img src="..\uploads\pages\cover\banner7.jpg" alt="CoralReef" height="180">
+            <div class="overlay d-flex" style="background-image: url('../templates/images/inline/coralreef-banner.png')">
+                <div class="overfox d-flex align-items-center align-items-md-end">
+                    <div class="container">
+                        <div class="row align-items-start">
+                            <div class="col-md-6">
+                                <div class="big">
+                                    <span>CR</span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="sub">
+                                    <h3 class="mb-2">Üretim Yönetim Sistemi</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="hex blue"></div>
+
+    <div class="resulting">
+        <div class="top">
+            <div class="container">
+
+                <div class="row align-items-start">
+                    <div class="col-md-6">
+                        <div class="title">
+                            <h1>CoralReef<span class="tag purple">MES</span><span class="subtitle purple">Manufacturing Execution System</span></h1>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="description">
+                            <p>
+                                <p>CoralReef MES, ham madde&nbsp;girişinden sevkiyata kadar tüm süreçleri yönetmenizi sağlayan, detaylı çizelgeleme, bakım, kalıp/takım, operasyonel kalite,&nbsp;stok yönetimi gibi&nbsp; tamamlayıcı modülleriyle tüm üretim kaynaklarınızı yönetebildiğiniz, ağırlıklı olarak makinelerden veri toplayarak insanın en az veri girişi ile çalışabilen bir MES sistemidir. CoralReef MES, CGI tarafından yapılan MES Product Survey araştırmalarında yer almaktadır. Bu araştırmada Türkiye&#39;de iki firmadan biri olmak üzere öncü bir markadır.</p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="detail purple">
+                            <i class="far fa-chevron-double-right scrollpot d-md-none"></i>
+                            <div class="overfox">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" id="step1-tab" data-toggle="tab" href="#step1" role="tab" aria-controls="step1" aria-selected="true">Özellikler</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step2-tab" data-toggle="tab" href="#step2" role="tab" aria-controls="step2" aria-selected="false">İş Akışı</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step3-tab" data-toggle="tab" href="#step3" role="tab" aria-controls="step3" aria-selected="false">Faydaları</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step4-tab" data-toggle="tab" href="#step4" role="tab" aria-controls="step4" aria-selected="false">Raporlama</a>
+                                    </li>
+                                </ul>
+                                <a href="..\iletisim\index-1.htm?request=coralreef#goform" class="contact-inline purple d-none d-md-block" title="İletişime Geçin">İletişime Geçin</a>
+                            </div>
+                            <a href="..\iletisim\index.htm#goform" class="contact-inline purple d-md-none" title="İletişime Geçin">İletişime Geçin</a>
+                            <div class="tab-content" id="myTabContent">
+                                <div class="tab-pane fade show active" id="step1" role="tabpanel" aria-labelledby="step1-tab">
+                                    <div class="special">
+                                                                                                                                                                                                                        <div class="item right purple">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\templates\images\inline\cr-arrow-left-1.png" class="arrows arrow-left" alt="Kolay Entegrasyon">
+                                                                <img src="..\uploads\contents\thumb\01 kolay entegrasyon.jpg" width="" height="" alt="Kolay Entegrasyon" alt="Kolay Entegrasyon" class="current">
+                                                                <img src="..\templates\images\inline\cr-arrow-left-2.png" class="arrows arrow-left-2" alt="Kolay Entegrasyon">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Kolay Entegrasyon</span>
+                                                                <div class="description">
+                                                                    <p>ERP Bağımsız&nbsp; olarak<br>
+entegrasyon yapılabilirsiniz.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item purple left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Marka Bağımsız Çalışın</span>
+                                                                <div class="description">
+                                                                    <p>Veri giriş topolojisi ve veri toplama topolojisi tamamen marka-model<br>
+bağımsız gerçekleştirilebilirsiniz.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                    <img src="..\templates\images\inline\cr-arrow-right-1.png" class="arrows arrow-right" alt="Marka Bağımsız Çalışın">
+                                                                                                                                <img src="..\uploads\contents\thumb\02 marka bagimsiz calisin.jpg" width="" height="" alt="Marka Bağımsız Çalışın" alt="Marka Bağımsız Çalışın" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item right purple">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\templates\images\inline\cr-arrow-left-1.png" class="arrows arrow-left" alt="Teknoloji ile Entegreli">
+                                                                <img src="..\uploads\contents\thumb\860x440 cr çözümler barkod.jpg" width="" height="" alt="Teknoloji ile Entegreli" alt="Teknoloji ile Entegreli" class="current">
+                                                                <img src="..\templates\images\inline\cr-arrow-left-2.png" class="arrows arrow-left-2" alt="Teknoloji ile Entegreli">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Teknoloji ile Entegreli</span>
+                                                                <div class="description">
+                                                                    <p>Barkod, karekod, RFID vb. teknolojilerle<br>
+tam entegrasyon yapılabilir.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item purple left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Tüm İşleminiz Web Tabanlı</span>
+                                                                <div class="description">
+                                                                    <p>Raporlama-dashboard ve andon<br>
+modülleri tamamen Web Tabanlıdır.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                <img src="..\uploads\contents\thumb\04 tum isleminiz web tabanli.jpg" width="" height="" alt="Tüm İşleminiz Web Tabanlı" alt="Tüm İşleminiz Web Tabanlı" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item right purple">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\templates\images\inline\cr-arrow-left-1.png" class="arrows arrow-left" alt="Anlık Müdahele İçin Bildiri">
+                                                                <img src="..\uploads\contents\thumb\05 anlik mudahale icin bildiri.jpg" width="" height="" alt="Anlık Müdahele İçin Bildiri" alt="Anlık Müdahele İçin Bildiri" class="current">
+                                                                <img src="..\templates\images\inline\cr-arrow-left-2.png" class="arrows arrow-left-2" alt="Anlık Müdahele İçin Bildiri">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Anlık Müdahele İçin Bildiri</span>
+                                                                <div class="description">
+                                                                    <p>Belirlenen iş akışına göre sınırsız mail/SMS ile bildirim sistemi kurabilirsiniz.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item purple left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Mobil Fabrika Uygulaması</span>
+                                                                <div class="description">
+                                                                    <p>Cep telefonu ve/veya&nbsp; PC&#39;lerde raporlama yapabilirsiniz (IOS ve Android İşletim Sistem Desteği). PPM, OEE, duruş analizi gibi verilere mobil ile ulaşım sağlayabilirsiniz. Web üzerinden raporlama (Explorer, Chrome, Firefox,&nbsp; Yandex, vs.) yapabilirsiniz.</p>
+
+<p>&nbsp;</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                <img src="..\uploads\contents\thumb\06 mobil fabrika uygulamasi-1.jpg" width="" height="" alt="Mobil Fabrika Uygulaması" alt="Mobil Fabrika Uygulaması" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item right purple">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\templates\images\inline\cr-arrow-left-1.png" class="arrows arrow-left" alt="Andon Raporlama İmkanı">
+                                                                <img src="..\uploads\contents\thumb\07 andon raporlama imkani.jpg" width="" height="" alt="Andon Raporlama İmkanı" alt="Andon Raporlama İmkanı" class="current">
+                                                                <img src="..\templates\images\inline\cr-arrow-left-2.png" class="arrows arrow-left-2" alt="Andon Raporlama İmkanı">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Andon Raporlama İmkanı</span>
+                                                                <div class="description">
+                                                                    <p>Üretim sahasında iken&nbsp;andon ekranlar üzerinden üretim durumunun izlenmesini sağlayabilirsiniz.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+                                <div class="tab-pane fade" id="step2" role="tabpanel" aria-labelledby="step2-tab">
+                                    <div id="hexagon">
+                                        <div class="visible-mobile pyramid d-lg-none">
+                                            <div class="item-title">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">ERP</div>
+                                            </div>
+                                            <div class="item-middle d-lg-none">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">MES Modülleri</div>
+                                            </div>
+                                            <div class="item-right d-lg-none">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">MES Opsiyonel Modülleri</div>
+                                            </div>
+                                            <div class="item-bottom">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">Üretim Sahası</div>
+                                            </div>
+                                        </div>
+                                        <div class="tip-text tip-2 d-lg-none">
+                                            <div class="text">
+                                                MES<br>
+                                                Modülleri
+                                            </div>
+                                            <div class="line"></div>
+                                        </div>
+                                                                                <div class="layout">
+                                            <div class="item">
+                                                <div class="hexagon blue">
+                                                    <div class="text">Bakım Yönetimi</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Bakım Yönetimi">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Arızaların takibi,</li>
+	<li>Arıza müdahale sürelerinin ve arızada kullanılan sarf malzemelerinin takibi,</li>
+	<li>Arıza iş emri açılması ve mail ile bilgilendirme,</li>
+	<li>Ekipman bakımı takibi,</li>
+	<li>Planlı bakım faaliyet girişi ve makine programlama entegrasyonu,</li>
+	<li>Planlı bakım faaliyetleri talimatlarının takibi,</li>
+	<li>MTBF, MTBR raporlarının takibi.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Bakım ve arızaların yönetildiği bölümdür.">
+                                                        <input type="hidden" class="val6" value="blue">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\052ff.jpg" width="" height="" alt="Bakım Yönetimi" alt="Bakım Yönetimi">
+                                                            <span class="title">Bakım ve arızaların yönetildiği bölümdür.</span>
+                                                            <ul>
+	<li>Arızaların takibi,</li>
+	<li>Arıza müdahale sürelerinin ve arızada kullanılan sarf malzemelerinin takibi,</li>
+	<li>Arıza iş emri açılması ve mail ile bilgilendirme,</li>
+	<li>Ekipman bakımı takibi,</li>
+	<li>Planlı bakım faaliyet girişi ve makine programlama entegrasyonu,</li>
+	<li>Planlı bakım faaliyetleri talimatlarının takibi,</li>
+	<li>MTBF, MTBR raporlarının takibi.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon blue">
+                                                    <div class="text">Kalıp Takım Yönetimi</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Kalıp Takım Yönetimi">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Kalıp/takım ömürlerinin süre bazlı takibi,</li>
+	<li>Kalıp/takım ömürlerinin miktar bazlı takibi,</li>
+	<li>Kalıp/takım lokasyon takibi,</li>
+	<li>Bakım talimatlarının takibi ve bakım süre-maliyet izleyebilme,</li>
+	<li>Kalıp/takım bağlama-sökme sürecinin takibi.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Kalıp ve takımların süreç takibinin yönetildiği bölümdür.">
+                                                        <input type="hidden" class="val6" value="blue">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\600x200 kalıp takım kopya.jpg" width="" height="" alt="Kalıp Takım Yönetimi" alt="Kalıp Takım Yönetimi">
+                                                            <span class="title">Kalıp ve takımların süreç takibinin yönetildiği bölümdür.</span>
+                                                            <ul>
+	<li>Kalıp/takım ömürlerinin süre bazlı takibi,</li>
+	<li>Kalıp/takım ömürlerinin miktar bazlı takibi,</li>
+	<li>Kalıp/takım lokasyon takibi,</li>
+	<li>Bakım talimatlarının takibi ve bakım süre-maliyet izleyebilme,</li>
+	<li>Kalıp/takım bağlama-sökme sürecinin takibi.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon pink">
+                                                    <div class="text">Web Fason Tedarikçi Yönetimi</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Web Fason Tedarikçi Yönetimi">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Tedarikçilerin kendi kullanıcı adı ve şifreleriyle giriş yapıp, etiket basımı,</li>
+	<li>Basılan etiketlerin okutularak hızlıca kabulü,</li>
+	<li>Tedarikçilerin sistemden irsaliye girişinin yapabilmesi,</li>
+	<li>Fasoncuların kendi iş emirlerine web üzerinden ulaşabilmesi ve üretim girişi,</li>
+	<li>Fasoncuların kendilerine gönderilen ürünlerin stoklarını izleyebilmesi,</li>
+	<li>Fasoncuların üretim bildirimi girişi ve onay ile direkt malzeme kabulü.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Fasoncuların takibinin yapılabildiği ve tedarikçilerin süreçlerinin takibinin yapılabildiği modüldür.">
+                                                        <input type="hidden" class="val6" value="pink">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 web fason.jpg" width="" height="" alt="Web Fason Tedarikçi Yönetimi" alt="Web Fason Tedarikçi Yönetimi">
+                                                            <span class="title">Fasoncuların takibinin yapılabildiği ve tedarikçilerin süreçlerinin takibinin yapılabildiği modüldür.</span>
+                                                            <ul>
+	<li>Tedarikçilerin kendi kullanıcı adı ve şifreleriyle giriş yapıp, etiket basımı,</li>
+	<li>Basılan etiketlerin okutularak hızlıca kabulü,</li>
+	<li>Tedarikçilerin sistemden irsaliye girişinin yapabilmesi,</li>
+	<li>Fasoncuların kendi iş emirlerine web üzerinden ulaşabilmesi ve üretim girişi,</li>
+	<li>Fasoncuların kendilerine gönderilen ürünlerin stoklarını izleyebilmesi,</li>
+	<li>Fasoncuların üretim bildirimi girişi ve onay ile direkt malzeme kabulü.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon brown">
+                                                    <div class="text">Üretim Planlama ve Makine Çizelgeleme</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Üretim Planlama ve Makine Çizelgeleme">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Çalışma takvimi girişi,</li>
+	<li>Fazla mesai girişi,</li>
+	<li>Günlük-haftalık-aylık bazda üretim planı oluşturma,</li>
+	<li>Planlanan-gerçekleşen üretim değerleri analizi,</li>
+	<li>Makine ve iş hattı doluluk oranları analizi,</li>
+	<li>Kapasite doluluklarının analizi (zaman bazında),</li>
+	<li>Üretim planı revizyonlarının takibi ve farklılık izlenebilmesi,</li>
+	<li>Grafiksel (gannt chart) makine programlama,</li>
+	<li>Planlanmamış işlerin takibi ve sürükle-bırak işlemleriyle makine programlama,</li>
+	<li>Plan değişikliği durumunda toplu iş öteleme.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Hangi işin, hangi sırayla, hangi makinada yapılacağının tayin edildiği modüldür.">
+                                                        <input type="hidden" class="val6" value="brown">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\600x200 Üretim Planlama.jpg" width="" height="" alt="Üretim Planlama ve Makine Çizelgeleme" alt="Üretim Planlama ve Makine Çizelgeleme">
+                                                            <span class="title">Hangi işin, hangi sırayla, hangi makinada yapılacağının tayin edildiği modüldür.</span>
+                                                            <ul>
+	<li>Çalışma takvimi girişi,</li>
+	<li>Fazla mesai girişi,</li>
+	<li>Günlük-haftalık-aylık bazda üretim planı oluşturma,</li>
+	<li>Planlanan-gerçekleşen üretim değerleri analizi,</li>
+	<li>Makine ve iş hattı doluluk oranları analizi,</li>
+	<li>Kapasite doluluklarının analizi (zaman bazında),</li>
+	<li>Üretim planı revizyonlarının takibi ve farklılık izlenebilmesi,</li>
+	<li>Grafiksel (gannt chart) makine programlama,</li>
+	<li>Planlanmamış işlerin takibi ve sürükle-bırak işlemleriyle makine programlama,</li>
+	<li>Plan değişikliği durumunda toplu iş öteleme.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-triangle d-none d-lg-block">
+                                                <div class="title">SFC</div>
+                                                <div class="desc-1">Shop Floor Control</div>
+                                                <div class="desc-2">Üretimden Veri Toplama</div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text d-lg-none">SFC</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="SFC">
+                                                        <input type="hidden" class="val3" value='<p>Üretim esnasında saha içerisinde gerçekleşen üretim adedi, duruş bilgisi ve çalışma-kontrol kriterleri vb. bilgiler PLC&rsquo;ler veya sensörler aracılığı ile otomatik olarak makineler üzerinden alınabilecektir.</p>
+
+<p>Proje modeline göre, makinelere konulacak veri toplama cihazları ile veri girişi yapılabilecektir.</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Üretimden otomatik ve manuel veri toplanarak süreçlerin izlenebilirliğini sağlayan modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x400 sfc.jpg" width="" height="" alt="SFC" alt="SFC">
+                                                            <span class="title">Üretimden otomatik ve manuel veri toplanarak süreçlerin izlenebilirliğini sağlayan modüldür.</span>
+                                                            <p>Üretim esnasında saha içerisinde gerçekleşen üretim adedi, duruş bilgisi ve çalışma-kontrol kriterleri vb. bilgiler PLC&rsquo;ler veya sensörler aracılığı ile otomatik olarak makineler üzerinden alınabilecektir.</p>
+
+<p>Proje modeline göre, makinelere konulacak veri toplama cihazları ile veri girişi yapılabilecektir.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text d-lg-none">Shop Floor Control</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Shop Floor Control">
+                                                        <input type="hidden" class="val3" value='<p>Üretim esnasında saha içerisinde gerçekleşen üretim adedi, duruş bilgisi ve çalışma-kontrol kriterleri vb. bilgiler PLC&rsquo;ler veya sensörler aracılığı ile otomatik olarak makineler üzerinden alınabilecektir.</p>
+
+<p>Proje modeline göre, makinelere konulacak veri toplama cihazları ile veri girişi yapılabilecektir.</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Üretimden otomatik ve manuel veri toplanarak süreçlerin izlenebilirliğini sağlayan modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x400 sfc-2.jpg" width="" height="" alt="Shop Floor Control" alt="Shop Floor Control">
+                                                            <span class="title">Üretimden otomatik ve manuel veri toplanarak süreçlerin izlenebilirliğini sağlayan modüldür.</span>
+                                                            <p>Üretim esnasında saha içerisinde gerçekleşen üretim adedi, duruş bilgisi ve çalışma-kontrol kriterleri vb. bilgiler PLC&rsquo;ler veya sensörler aracılığı ile otomatik olarak makineler üzerinden alınabilecektir.</p>
+
+<p>Proje modeline göre, makinelere konulacak veri toplama cihazları ile veri girişi yapılabilecektir.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text d-lg-none">Üretimden Veri Toplama</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Üretimden Veri Toplama">
+                                                        <input type="hidden" class="val3" value='<p>Üretim esnasında saha içerisinde gerçekleşen üretim adedi, duruş bilgisi ve çalışma-kontrol kriterleri vb. bilgiler PLC&rsquo;ler veya sensörler aracılığı ile otomatik olarak makineler üzerinden alınabilecektir.</p>
+
+<p>Proje modeline göre, makinelere konulacak veri toplama cihazları ile veri girişi yapılabilecektir.</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Üretimden otomatik ve manuel veri toplanarak süreçlerin izlenebilirliğini sağlayan modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x400 sfc-3.jpg" width="" height="" alt="Üretimden Veri Toplama" alt="Üretimden Veri Toplama">
+                                                            <span class="title">Üretimden otomatik ve manuel veri toplanarak süreçlerin izlenebilirliğini sağlayan modüldür.</span>
+                                                            <p>Üretim esnasında saha içerisinde gerçekleşen üretim adedi, duruş bilgisi ve çalışma-kontrol kriterleri vb. bilgiler PLC&rsquo;ler veya sensörler aracılığı ile otomatik olarak makineler üzerinden alınabilecektir.</p>
+
+<p>Proje modeline göre, makinelere konulacak veri toplama cihazları ile veri girişi yapılabilecektir.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon orange">
+                                                    <div class="text">Tartım Otomasyonu</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Tartım Otomasyonu">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Üretim girdilerinin tartımı ve teraziler ile entegrasyonu,</li>
+	<li>Hammadde ürün sayımında terazi entegrasyonu,</li>
+	<li>İşlem partisi miktarına göre tartım sayıları ve her tartımda her malzemeden ve miktarda tartılacağı sistem tarafından otomatik hesaplanabilmesi,</li>
+	<li>Tartım öncesi dara aldırma işlemi takibi,</li>
+	<li>Tartım onayı ile barkodlu ve lotlu etiket basımı.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Üretim girdilerinin tartımı ve teraziler ile entegrasyonun yönetildiği bölümdür.">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\Tartım modülü.jpg" width="" height="" alt="Tartım Otomasyonu" alt="Tartım Otomasyonu">
+                                                            <span class="title">Üretim girdilerinin tartımı ve teraziler ile entegrasyonun yönetildiği bölümdür.</span>
+                                                            <ul>
+	<li>Üretim girdilerinin tartımı ve teraziler ile entegrasyonu,</li>
+	<li>Hammadde ürün sayımında terazi entegrasyonu,</li>
+	<li>İşlem partisi miktarına göre tartım sayıları ve her tartımda her malzemeden ve miktarda tartılacağı sistem tarafından otomatik hesaplanabilmesi,</li>
+	<li>Tartım öncesi dara aldırma işlemi takibi,</li>
+	<li>Tartım onayı ile barkodlu ve lotlu etiket basımı.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon brown">
+                                                    <div class="text">Üretim ve İş Emirleri</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Üretim ve İş Emirleri">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>MRP/MPS sonucu Üretim/İş Emri oluşturma,</li>
+	<li>Siparişe özel Üretim/İş Emri oluşturma ve birden fazla seviyeli üretim emri patlatma,</li>
+	<li>Manuel Üretim/İş Emri oluşturma,</li>
+	<li>Vardiya ve gün bazında toplu üretim emri oluşturma,</li>
+	<li>Hammadde ihtiyaç analizleri,</li>
+	<li>Üretim emirleri için toplu refakat (proses) kartı basımı.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Sahada takibi yapılan üretim ve iş emirlerinin oluşturulması işlemlerinin yapıldığı bölümdür.">
+                                                        <input type="hidden" class="val6" value="brown">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 web fason-1.jpg" width="" height="" alt="Üretim ve İş Emirleri" alt="Üretim ve İş Emirleri">
+                                                            <span class="title">Sahada takibi yapılan üretim ve iş emirlerinin oluşturulması işlemlerinin yapıldığı bölümdür.</span>
+                                                            <ul>
+	<li>MRP/MPS sonucu Üretim/İş Emri oluşturma,</li>
+	<li>Siparişe özel Üretim/İş Emri oluşturma ve birden fazla seviyeli üretim emri patlatma,</li>
+	<li>Manuel Üretim/İş Emri oluşturma,</li>
+	<li>Vardiya ve gün bazında toplu üretim emri oluşturma,</li>
+	<li>Hammadde ihtiyaç analizleri,</li>
+	<li>Üretim emirleri için toplu refakat (proses) kartı basımı.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon yellow">
+                                                    <div class="text">Paketleme</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Paketleme">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Birden fazla seviyede;&nbsp;(Ürün paketi, koli, paket, konteyner vb.)&nbsp; tüm paketlere barkodlu etiket basımı,</li>
+</ul>
+
+<ul>
+	<li>Barkodlu taşıma kabı etiket basımı,</li>
+	<li>Paket içi ürün kontrolü, &nbsp;&nbsp;(Doğru ürün doğru pakette mi?)</li>
+</ul>
+
+<ul>
+	<li>Paket blokaj takibi,</li>
+	<li>Rezervasyon takibi,</li>
+	<li>Paket bölme-birleştirme-bozma işlemleri takibi,</li>
+	<li>Paket içerik adedine ulaşıldığında otomatik paket etiketi basımı.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Mamulün kalite onayı aldıktan sonra paketlenme sürecinin yönetildiği modüldür.">
+                                                        <input type="hidden" class="val6" value="yellow">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 paketleme.jpg" width="" height="" alt="Paketleme" alt="Paketleme">
+                                                            <span class="title">Mamulün kalite onayı aldıktan sonra paketlenme sürecinin yönetildiği modüldür.</span>
+                                                            <ul>
+	<li>Birden fazla seviyede;&nbsp;(Ürün paketi, koli, paket, konteyner vb.)&nbsp; tüm paketlere barkodlu etiket basımı,</li>
+</ul>
+
+<ul>
+	<li>Barkodlu taşıma kabı etiket basımı,</li>
+	<li>Paket içi ürün kontrolü, &nbsp;&nbsp;(Doğru ürün doğru pakette mi?)</li>
+</ul>
+
+<ul>
+	<li>Paket blokaj takibi,</li>
+	<li>Rezervasyon takibi,</li>
+	<li>Paket bölme-birleştirme-bozma işlemleri takibi,</li>
+	<li>Paket içerik adedine ulaşıldığında otomatik paket etiketi basımı.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon grey">
+                                                    <div class="text">GKK Numune ve Labaratuvar Yönetimi</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="GKK Numune ve Labaratuvar Yönetimi">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>&nbsp;Giriş Kalite Kontrol süreç takibi,</li>
+	<li>&nbsp;Otomatik blokaj yönetimi,</li>
+	<li>&nbsp;Laboratuar cihazlarıyla entegrasyon ve istatistiksel analiz,</li>
+	<li>&nbsp;Numune kalite değerlerinin takibi,</li>
+	<li>&nbsp;Örnekleme ve %100 kalite kontrol takibi,</li>
+	<li>&nbsp;Tedarikçi performans değerlendirme,</li>
+	<li>&nbsp;Tedarikçi PPM analizi.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Operasyonel kalite kontrol süreçlerinin takip edilebildiği modüldür.">
+                                                        <input type="hidden" class="val6" value="grey">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 GKK lab-1.jpg" width="" height="" alt="GKK Numune ve Labaratuvar Yönetimi" alt="GKK Numune ve Labaratuvar Yönetimi">
+                                                            <span class="title">Operasyonel kalite kontrol süreçlerinin takip edilebildiği modüldür.</span>
+                                                            <ul>
+	<li>&nbsp;Giriş Kalite Kontrol süreç takibi,</li>
+	<li>&nbsp;Otomatik blokaj yönetimi,</li>
+	<li>&nbsp;Laboratuar cihazlarıyla entegrasyon ve istatistiksel analiz,</li>
+	<li>&nbsp;Numune kalite değerlerinin takibi,</li>
+	<li>&nbsp;Örnekleme ve %100 kalite kontrol takibi,</li>
+	<li>&nbsp;Tedarikçi performans değerlendirme,</li>
+	<li>&nbsp;Tedarikçi PPM analizi.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple-light">
+                                                    <div class="text">Depo Otomasyonu ve Barkod Yönetimi</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Depo Otomasyonu ve Barkod Yönetimi">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Depo raf takibi,</li>
+	<li>Barkod, karekod, RFID ile stok yönetimi,</li>
+	<li>Raflar arasında transfer hareketleri,</li>
+	<li>Rezervasyon takibi,</li>
+	<li>FIFO, FEFO&rsquo;ya göre malzeme önerisi,</li>
+	<li>Kanban kart basımı ve talep fişi yönetimi,&nbsp;&nbsp;</li>
+	<li>Talep fişi oluşturma ve talep fişi içeriğine göre malzeme önerimi,</li>
+	<li>Sayım ve otomatik sayım düzeltme.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Malzemelerin depo raf takibi ve FIFO, LIFO ve FEFO kontrollerinin yönetildiği bölümdür.">
+                                                        <input type="hidden" class="val6" value="purple-light">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 Depo 2.jpg" width="" height="" alt="Depo Otomasyonu ve Barkod Yönetimi" alt="Depo Otomasyonu ve Barkod Yönetimi">
+                                                            <span class="title">Malzemelerin depo raf takibi ve FIFO, LIFO ve FEFO kontrollerinin yönetildiği bölümdür.</span>
+                                                            <ul>
+	<li>Depo raf takibi,</li>
+	<li>Barkod, karekod, RFID ile stok yönetimi,</li>
+	<li>Raflar arasında transfer hareketleri,</li>
+	<li>Rezervasyon takibi,</li>
+	<li>FIFO, FEFO&rsquo;ya göre malzeme önerisi,</li>
+	<li>Kanban kart basımı ve talep fişi yönetimi,&nbsp;&nbsp;</li>
+	<li>Talep fişi oluşturma ve talep fişi içeriğine göre malzeme önerimi,</li>
+	<li>Sayım ve otomatik sayım düzeltme.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon grey">
+                                                    <div class="text">Proses Kalite Kontrol</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Proses Kalite Kontrol">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Operasyon ve ürün bazında beklenen kalite kriterlerinin atanması,</li>
+	<li>Operatör ve PLC&rsquo;ler aracılığıyla kalite verilerinin toplanması,</li>
+	<li>İzlenebilirliğin uçtan uca sağlanması,</li>
+	<li>Proses bazında kriter takibi,</li>
+	<li>Kalite Sistemlerine (ISO 9001, IATF 16949, AS 9100 vb.) uygunluk analizleri,</li>
+	<li>Kestirimci bakıma data oluşturma.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Operasyonel kalite kontrol süreçlerinin takip edilebildiği modüldür.">
+                                                        <input type="hidden" class="val6" value="grey">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 kalite kontrol.jpg" width="" height="" alt="Proses Kalite Kontrol" alt="Proses Kalite Kontrol">
+                                                            <span class="title">Operasyonel kalite kontrol süreçlerinin takip edilebildiği modüldür.</span>
+                                                            <ul>
+	<li>Operasyon ve ürün bazında beklenen kalite kriterlerinin atanması,</li>
+	<li>Operatör ve PLC&rsquo;ler aracılığıyla kalite verilerinin toplanması,</li>
+	<li>İzlenebilirliğin uçtan uca sağlanması,</li>
+	<li>Proses bazında kriter takibi,</li>
+	<li>Kalite Sistemlerine (ISO 9001, IATF 16949, AS 9100 vb.) uygunluk analizleri,</li>
+	<li>Kestirimci bakıma data oluşturma.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon grey">
+                                                    <div class="text">Final Kalite Kontrol</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Final Kalite Kontrol">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Bitmiş ürünlerin kalite kontrol sonuçlarının girişi,</li>
+	<li>Operatör ve PLC&rsquo;ler aracılığıyla kalite verilerinin toplanması,</li>
+	<li>İstatistiksel kalite kontrol raporlaması,</li>
+	<li>İzlenebilirliğin uçtan uca sağlanması.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Operasyonel kalite kontrol süreçlerinin takip edilebildiği modüldür.">
+                                                        <input type="hidden" class="val6" value="grey">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 proses kalite kontrol.jpg" width="" height="" alt="Final Kalite Kontrol" alt="Final Kalite Kontrol">
+                                                            <span class="title">Operasyonel kalite kontrol süreçlerinin takip edilebildiği modüldür.</span>
+                                                            <ul>
+	<li>Bitmiş ürünlerin kalite kontrol sonuçlarının girişi,</li>
+	<li>Operatör ve PLC&rsquo;ler aracılığıyla kalite verilerinin toplanması,</li>
+	<li>İstatistiksel kalite kontrol raporlaması,</li>
+	<li>İzlenebilirliğin uçtan uca sağlanması.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon yellow">
+                                                    <div class="text">Sevkiyat</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Sevkiyat">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Sipariş kontrollü sevkiyat,</li>
+	<li>Barkodlu ve donanım bağımsız sevkiyat,</li>
+	<li>El terminali ile sevk edilecek mamullerin barkodlu kontrolü,</li>
+	<li>Farklı tedarikçiler ve sevkiyat adresleri için otomatik taşıma kabı çıkışı taşıma kabı stok takibi.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Mamulün paketlenme sürecinden sonra sevkiyat sürecinin yönetildiği modüldür.">
+                                                        <input type="hidden" class="val6" value="yellow">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 sevkiyat.jpg" width="" height="" alt="Sevkiyat" alt="Sevkiyat">
+                                                            <span class="title">Mamulün paketlenme sürecinden sonra sevkiyat sürecinin yönetildiği modüldür.</span>
+                                                            <ul>
+	<li>Sipariş kontrollü sevkiyat,</li>
+	<li>Barkodlu ve donanım bağımsız sevkiyat,</li>
+	<li>El terminali ile sevk edilecek mamullerin barkodlu kontrolü,</li>
+	<li>Farklı tedarikçiler ve sevkiyat adresleri için otomatik taşıma kabı çıkışı taşıma kabı stok takibi.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="tip-text tip-2 d-lg-none">
+                                                <div class="text">
+                                                    MES Opsiyonel Modülleri
+                                                </div>
+                                                <div class="line"></div>
+                                            </div>
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">MRP / MPS</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="MRP / MPS">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Siparişlerin karşılanabilmesi için otomatik olarak satın alma siparişleri oluşturulması,</li>
+	<li>Gerekli üretim emirlerinin otomatik oluşturulması ve revizesi,</li>
+	<li>Parametrik ambar/ambarlar seçimi,</li>
+	<li>Parti büyüklüklerine göre satın alma siparişi veya üretim emri oluşturma,</li>
+	<li>Gün, hafta, ay bazında MRP/MPS hesaplama seçenekleri,</li>
+	<li>Emniyet payına göre MRP/MPS hesaplama imkanı vb. fonksiyonları içermektedir.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Malzeme ihtiyaç planlamasının ve ana üretim planının oluşturulduğu modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 MRP.jpg" width="" height="" alt="MRP / MPS" alt="MRP / MPS">
+                                                            <span class="title">Malzeme ihtiyaç planlamasının ve ana üretim planının oluşturulduğu modüldür.</span>
+                                                            <ul>
+	<li>Siparişlerin karşılanabilmesi için otomatik olarak satın alma siparişleri oluşturulması,</li>
+	<li>Gerekli üretim emirlerinin otomatik oluşturulması ve revizesi,</li>
+	<li>Parametrik ambar/ambarlar seçimi,</li>
+	<li>Parti büyüklüklerine göre satın alma siparişi veya üretim emri oluşturma,</li>
+	<li>Gün, hafta, ay bazında MRP/MPS hesaplama seçenekleri,</li>
+	<li>Emniyet payına göre MRP/MPS hesaplama imkanı vb. fonksiyonları içermektedir.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">Ürün Konfigüratörü</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Ürün Konfigüratörü">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Özellik seti ve değerlerine göre esnek rota-reçete oluşturma,</li>
+	<li>Esnek ve kolay sipariş girişi,</li>
+	<li>Reçete ve rota oluşturmadan sipariş girişi ve onay aşamasından sonra kaynak bilgilerinin otomatik oluşturulması.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Ürün konfigüratörünün takip edilebildiği ve siparişlerin esnek girişinin yapılabildiği modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 Ürün.jpg" width="" height="" alt="Ürün Konfigüratörü" alt="Ürün Konfigüratörü">
+                                                            <span class="title">Ürün konfigüratörünün takip edilebildiği ve siparişlerin esnek girişinin yapılabildiği modüldür.</span>
+                                                            <ul>
+	<li>Özellik seti ve değerlerine göre esnek rota-reçete oluşturma,</li>
+	<li>Esnek ve kolay sipariş girişi,</li>
+	<li>Reçete ve rota oluşturmadan sipariş girişi ve onay aşamasından sonra kaynak bilgilerinin otomatik oluşturulması.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">PDKS Entegrasyonu</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="PDKS Entegrasyonu">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>SQL Veritabanı olan farklı Personel Devam Takip Sistemleriyle entegrasyon,</li>
+	<li>Personel iş-giriş çıkış takibi,</li>
+	<li>Personel bazında OEE analizi.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="PDKS cihazları ile entegrasyonda personel takibini sağlayan modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 PDKS.jpg" width="" height="" alt="PDKS Entegrasyonu" alt="PDKS Entegrasyonu">
+                                                            <span class="title">PDKS cihazları ile entegrasyonda personel takibini sağlayan modüldür.</span>
+                                                            <ul>
+	<li>SQL Veritabanı olan farklı Personel Devam Takip Sistemleriyle entegrasyon,</li>
+	<li>Personel iş-giriş çıkış takibi,</li>
+	<li>Personel bazında OEE analizi.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">PLM ve Çizim Programı Entegrasyonu</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="PLM ve Çizim Programı Entegrasyonu">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>PLM yazılımlarıyla ürün ağacı ve rota entegrasyonu,</li>
+	<li>Stok kartları entegrasyonu,</li>
+	<li>Ürün parametreleri entegrasyonu.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="PLM yazılımları ve çizim programlarıyla ürün ağacını sistemlere aktaran modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 PLM.jpg" width="" height="" alt="PLM ve Çizim Programı Entegrasyonu" alt="PLM ve Çizim Programı Entegrasyonu">
+                                                            <span class="title">PLM yazılımları ve çizim programlarıyla ürün ağacını sistemlere aktaran modüldür.</span>
+                                                            <ul>
+	<li>PLM yazılımlarıyla ürün ağacı ve rota entegrasyonu,</li>
+	<li>Stok kartları entegrasyonu,</li>
+	<li>Ürün parametreleri entegrasyonu.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">EDI Yönetimi</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="EDI Yönetimi">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Ana sanayilerle sipariş &ndash; irsaliye entegrasyonu,</li>
+	<li>MT940 vb. standartlarda entegrasyon,</li>
+	<li>ERP&rsquo;lere otomatik veri aktarımı.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="İşletmenin ana sanayiden gelen siparişlerini mevcut ERP’lere aktarımını sağlayan modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 EDI.jpg" width="" height="" alt="EDI Yönetimi" alt="EDI Yönetimi">
+                                                            <span class="title">İşletmenin ana sanayiden gelen siparişlerini mevcut ERP’lere aktarımını sağlayan modüldür.</span>
+                                                            <ul>
+	<li>Ana sanayilerle sipariş &ndash; irsaliye entegrasyonu,</li>
+	<li>MT940 vb. standartlarda entegrasyon,</li>
+	<li>ERP&rsquo;lere otomatik veri aktarımı.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">Servis Yönetimi</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Servis Yönetimi">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Servise gelen işler için iş emri yönetimi,</li>
+	<li>Servis yedek parça takibi,</li>
+	<li>Servise ait servis formlarının takibi,</li>
+	<li>Servis personeli takibi,</li>
+	<li>Servis gelen ürünler ile ilgili teknik çizim, irsaliye,&nbsp; resim vb. dokümanların takibi,</li>
+</ul>
+
+<ul>
+	<li>Servis süreçlerinin izlenebilirliği,</li>
+	<li>Servis yedek parçalarının satınalma-satış süreci takibi.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Servis süreçlerinin takip edilebildiği modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 Servis.jpg" width="" height="" alt="Servis Yönetimi" alt="Servis Yönetimi">
+                                                            <span class="title">Servis süreçlerinin takip edilebildiği modüldür.</span>
+                                                            <ul>
+	<li>Servise gelen işler için iş emri yönetimi,</li>
+	<li>Servis yedek parça takibi,</li>
+	<li>Servise ait servis formlarının takibi,</li>
+	<li>Servis personeli takibi,</li>
+	<li>Servis gelen ürünler ile ilgili teknik çizim, irsaliye,&nbsp; resim vb. dokümanların takibi,</li>
+</ul>
+
+<ul>
+	<li>Servis süreçlerinin izlenebilirliği,</li>
+	<li>Servis yedek parçalarının satınalma-satış süreci takibi.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">Numune Takibi</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Numune Takibi">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Numune ekibinin performans takibi,</li>
+	<li>Numune kütüphanesi takibi,</li>
+	<li>Numune süreç izleme,</li>
+	<li>Numune reçete izleme,</li>
+	<li>Numuneye ait resim, teknik çizim vs.izleme.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Numune süreçlerinin takip edilebildiği modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 Numune takip.jpg" width="" height="" alt="Numune Takibi" alt="Numune Takibi">
+                                                            <span class="title">Numune süreçlerinin takip edilebildiği modüldür.</span>
+                                                            <ul>
+	<li>Numune ekibinin performans takibi,</li>
+	<li>Numune kütüphanesi takibi,</li>
+	<li>Numune süreç izleme,</li>
+	<li>Numune reçete izleme,</li>
+	<li>Numuneye ait resim, teknik çizim vs.izleme.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">Fiyat Verme ve Teklif Yönetimi</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Fiyat Verme ve Teklif Yönetimi">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Alternatif ön maliyet çalışması,</li>
+	<li>Teklif verme ve dokümantasyon takibi.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Üretim sonuçlarına ilişkin mamuller için teklif verme ve maliyet çalışmasının yapıldığı modüldür.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\uploads\contents\thumb\1120x380 Fiyat verme.jpg" width="" height="" alt="Fiyat Verme ve Teklif Yönetimi" alt="Fiyat Verme ve Teklif Yönetimi">
+                                                            <span class="title">Üretim sonuçlarına ilişkin mamuller için teklif verme ve maliyet çalışmasının yapıldığı modüldür.</span>
+                                                            <ul>
+	<li>Alternatif ön maliyet çalışması,</li>
+	<li>Teklif verme ve dokümantasyon takibi.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-title d-none d-lg-block">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">ERP</div>
+                                            </div>
+
+                                            <div class="item-bottom d-none d-lg-block">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">Üretim Sahası</div>
+                                            </div>
+
+                                            <div class="tip-text tip-1 d-none d-lg-block">
+                                                <div class="text">
+                                                    Satış<br>Malzeme Yönetimi<br>Planlama<br>Muhasebe<br>Finans<br>Üretim<br>Satın Alma<br>İnsan Kaynakları
+                                                </div>
+                                                <div class="line"></div>
+                                            </div>
+
+                                            <div class="tip-text tip-2 d-none d-lg-block">
+                                                <div class="text">
+                                                    MES<br>
+                                                    Modülleri
+                                                </div>
+                                                <div class="line"></div>
+                                            </div>
+
+                                            <div class="tip-text tip-3 d-none d-lg-block">
+                                                <div class="text">
+                                                    Opsiyonel<br>Modüller
+                                                </div>
+                                            </div>
+
+                                            <div class="dash-line"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="step3" role="tabpanel" aria-labelledby="step3-tab">
+                                                                        <div class="imagelectus">
+                                        <h1><span style="font-size:18px;"><strong>İşletmelerdeki kayıpların minimuma indirilmesi ve maliyetlerin düşürülmesine odaklanmak en temel hedeftir.</strong></span></h1>
+
+<ul>
+	<li>MES sistemiyle kaynakların performansının yönetilmesi hedeflenmektedir.</li>
+	<li>En Temel Kaynaklarımız:&nbsp;Makine,&nbsp;Personel,&nbsp;Envanter</li>
+	<li>CoralReef MES sistemi diğer sistemlerden farklı olarak sadece makinelerin performansını değil, personel ve envanter takibini de yaparak tüm kaynakları yönetmeyi hedeflemektedir.</li>
+</ul>
+
+<h1 style="text-align: center;"><img alt="" src="..\uploads\contents\1Varlık 1@300x.png" style="width: 900px; height: 625px;"></h1>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="step4" role="tabpanel" aria-labelledby="step4-tab">
+                                                                        <div class="imagelectus">
+                                        <p>Raporlama aracı, dashboard vb. analiz araçları ile sınırsız sayıda istenilen tüm istatistiki raporlar sistem üzerinden tasarlanabilir ve izlenebilir.</p>
+
+<p>Tüm ekranlar kullanıcılar tarafından tasarlanabilir, kullanıcılara özel ekranlar kod bilgisi gerektirmeden yapılabilir, sınırsız sayıda rapor,&nbsp;analizi andoni dashboard&nbsp;yapılabilir, ERP ve farklı yazılımlarla konsolide raporlar yapılabilir.</p>
+
+<p><strong>CoralReef&#39;le alınabilecek Örnek Raporlar</strong></p>
+
+<ul>
+	<li>Arıza frekans raporları,</li>
+	<li>Bakım yönetimi raporları,</li>
+	<li>Çalışan performans raporları,</li>
+	<li>Duruş analiz hata raporları,</li>
+	<li>Fire hurda analiz raporları,</li>
+	<li>Kapasite kullanım raporları,</li>
+	<li>Standart fiili karşılaştırma raporları,</li>
+	<li>OEE, PPM raporları,</li>
+	<li>Planlama performansı raporları,</li>
+	<li>Reçete fiili kullanım karşılaştırma raporları,</li>
+	<li>MTTR, MTBR, MTBF raporları,</li>
+	<li>İzlenebilirlik raporları,</li>
+	<li>Verimlilik analizi</li>
+</ul>
+
+<p style="text-align: center;"><img alt="" src="..\uploads\contents\OEEAndon.png" style="width: 600px; height: 449px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\uploads\contents\CRRapor1-4.png" style="width: 600px; height: 449px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\uploads\contents\Resim2.jpg" style="width: 600px; height: 449px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\uploads\contents\GirişKalite-1.png" style="width: 600px; height: 449px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\uploads\contents\letmePerformansı.png" style="width: 600px; height: 449px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\uploads\contents\makkul-1.png" style="width: 600px; height: 449px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\uploads\contents\CRRapor2-4.png" style="width: 600px; height: 449px;"></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="hexapopup">
+        <div class="overpop"></div>
+        <div class="overbox" id="coloredOveredBox">
+            <div class="left">
+                <div class="top">
+                    <div class="title">
+                        CoralReef
+                        <span>MES</span>
+                    </div>
+                </div>
+                <div class="bottom">
+                    <div class="title">
+                        <span class="text1" id="hexval1">MM</span>
+                        <span class="text2" id="hexval2">Bakım<br>Yönetim</span>
+                        <span class="text3" id="hexval5">Bakım ve arızaların yönetildiği bölümdür.</span>
+                    </div>
+                </div>
+            </div>
+            <div class="right">
+                <div class="top">
+                    <img src="https://via.placeholder.com/600x200" id="hexval4" alt="">
+                </div>
+                <div class="bottom">
+                    <p id="hexval3">
+                        Arızalarıntakibi,
+                        Arıza müdahale sürelerinin ve arızada kullanılan sarf malzemelerinin takibi,
+                        Arıza iş emri açılması ve mail ile bilgilendirme, Ekipman bakımı takibi,
+                        Planlı bakım faaliyet girişi ve makine programlama entegrasyonu,
+                        Planlı bakım faaliyetleri talimatlarının takibi, MTBF, MTBR raporlarının takibi vb. fonksiyonları içermektedir.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<footer>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-4 col-md-6 block left">
+                <div class="logo">
+                    <a href="..\index.htm" title="İletişim Yazılım">
+                        <img src="..\templates\images\footer-logo.png" width="75" height="75" alt="iletişim yazılım">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            <div class="col-xl-6 block links">
+                <div class="row">
+                    <div class="col-6 col-md-4">
+                        <div class="link-area">
+                            <a href="..\index.htm" title="Ana Sayfa" class="title">Ana Sayfa</a>
+                            <a href="..\kurumsal\index.htm" title="Kurumsal" class="title">Kurumsal</a>
+                            <ul class="mbnone">
+                                                                                                    <li><a href="..\kurumsal\index.htm">Hakkımızda</a></li>
+                                                                    <li><a href="..\dijital-donusum-yolculugu\index.htm">Dijital Dönüşüm Yolculuğu</a></li>
+                                                                    <li><a href="..\vizyon-ve-misyon\index.htm">Vizyon ve Misyon</a></li>
+                                                                    <li><a href="..\kalite-politikasi\index.htm">Kalite Politikası</a></li>
+                                                                    <li><a href="..\musteri-memnuniyeti\index.htm">Müşteri Memnuniyeti</a></li>
+                                                                    <li><a href="..\is-ortaklari\index.htm">İş Ortakları</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <div class="link-area">
+                            <a href="..\cozumler\index.htm" title="Çözümler" class="title">Çözümler</a>
+                            <ul>
+                                                                                                    <li><a href="index.htm">CoralReef</a></li>
+                                                                    <li><a href="..\managemind\index.htm">ManageMind</a></li>
+                                                                    <li><a href="..\imt\index.htm">IMT</a></li>
+                                                                    <li><a href="..\apiscoven\index.htm">ApisCoven</a></li>
+                                                            </ul>
+                            <a href="javascript:void(0)" title="İK" class="title">İK</a>
+                            <ul class="mbnone">
+                                                                                                    <li><a href="..\ik-politikasi\index.htm">İK Politikası</a></li>
+                                                                    <li><a href="..\acik-pozisyonlar\index.htm">Açık Pozisyonlar</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+
+                        <div class="link-area">
+                            <a href="..\bilgi-bankasi\index.htm" title="Bilgi Bankası" class="title mod-mobile"><span>Bilgi Bankası</span></a>
+                            <div class="d-flex align-items-start d-sm-block">
+                                <div class="long">
+                                    <a href="..\haberler\index.htm" title="Haberler" class="title">Haberler</a>
+                                    <!--
+                                    <ul>
+                                                                                                                    </ul>
+                                    -->
+                                </div>
+                                <div class="long">
+                                    <a href="javascript:void(0)" title="Referanslar" class="title">Referanslar</a>
+                                    <ul class="mbnone">
+                                                                                                                            <li><a href="..\referanslarimiz\index.htm">Referanslarımız</a></li>
+                                                                                    <li><a href="..\referans-videolari\index.htm">Referans Videoları</a></li>
+                                                                                    <li><a href="..\basari-hikayeleri\index.htm">Başarı Hikayeleri</a></li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 block links">
+                <div class="row align-items-end">
+                    <div class="col-md-6">
+                        <a href="..\iletisim\index.htm" title="İletişim" class="title mod-mobile"><span>İletişim</span></a>
+                                                <ul>
+                                                            <li>
+                                    <span class="title othermt">AR-GE MERKEZİ</span>
+                                    <address>
+                                        <p>Gazcılar Cd. Petek Bozkaya İş Merkezi C Blok Kat:3<br>
+Osmangazi | Bursa <strong>T: </strong>0224 251 41 00<b>&nbsp;F:&nbsp;</b>0224 271 66 84</p>
+                                    </address>
+                                </li>
+                                                            <li>
+                                    <span class="title ">TEKNOPARK</span>
+                                    <address>
+                                        <p>Ulutek Uludağ Üniversitesi Teknoloji Merkezi<br>
+Kat:3 Nilüfer | Bursa <strong>T:&nbsp;</strong>0224 280 84 84</p>
+                                    </address>
+                                </li>
+                                                    </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="cropper">
+                            <div class="social">
+                                <ul>
+                                                                            <li><a href="https://www.facebook.com/iletisimyazilim/" rel="nofollow" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                                                                                                <li><a href="https://www.instagram.com/iletisimyazilim/?hl=tr" rel="nofollow" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                                                                                                <li><a href="https://twitter.com/iletisimbursa" rel="nofollow" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                                                                                                <li><a href="https://tr.linkedin.com/company/iletisimyazilim" rel="nofollow" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                                                                                                                    <li><a href="https://www.youtube.com/channel/UCk18NDaEEbO_UKElDz78fFQ" rel="nofollow" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                                                                                                            <li><a href="..\rss.xml" target="_blank"><i class="fas fa-rss"></i></a></li>
+                                </ul>
+                            </div>
+                            <hr class="d-none d-md-block">
+                            <a href="mailto:iletisim@iletisimyazilim.com" class="btn btn-primary">Düşünceleriniz Önemli<i class="fas fa-envelope"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="marsus">
+        <div class="container">
+            <div class="row align-items-baseline">
+                <div class="col-8 col-md-12 col-lg-9">
+                    <div class="flexed">
+                        <div class="left">
+                            <span>Endüstri 4.0</span>
+                            <span class="copyright d-block d-md-none">Copyright &copy; 2019. Tüm Hakları Saklıdır.</span>
+                        </div>
+                        <div class="right d-none d-md-block">
+                            <ul>
+                                                                                                    <li><a href="..\bilgi-toplumu-hizmetleri\index.htm">Bilgi Toplumu Hizmetleri</a></li>
+                                                                    <li><a href="..\yasal-uyari-ve-kullanim-sartlari\index.htm">Yasal Uyarı ve Kullanım Şartları</a></li>
+                                                                    <li><a href="..\gizlilik-politikasi\index.htm">Gizlilik Politikası</a></li>
+                                                                    <li><a href="..\site-haritasi\index.htm">Site Haritası</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-md-12 col-lg-3">
+                    <div class="copyright">
+                        <span class="d-none d-md-block">Copyright &copy; 2019. Tüm Hakları Saklıdır.</span>
+                                                    <img src="..\templates\images\yirmibes.png" width="60" height="60" alt="Tüm Hakları Saklıdır."></div>
+                                        </div>
+                <div class="col-sm-12 d-block d-md-none">
+                    <div class="footer-mod-links">
+                        <hr>
+                        <ul>
+                                                                                        <li><a href="..\bilgi-toplumu-hizmetleri\index.htm">Bilgi Toplumu Hizmetleri</a></li>
+                                                            <li><a href="..\yasal-uyari-ve-kullanim-sartlari\index.htm">Yasal Uyarı ve Kullanım Şartları</a></li>
+                                                            <li><a href="..\gizlilik-politikasi\index.htm">Gizlilik Politikası</a></li>
+                                                            <li><a href="..\site-haritasi\index.htm">Site Haritası</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row d-md-flex align-items-center mt-4">
+                <div class="col-md-6">
+                    <a href="http://www.aeronorm.com/" title="Aeronorm" class="aeronorm-logo" target="_blank">Design: Aeronorm</a>
+                </div>
+                <div class="col-md-6 text-md-right">
+                    <a href="https://marsus.com/" title="Kurumsal web sitesi Marsus tarafından hazırlanmıştır" target="_blank"><img src="..\templates\images\logo.svg" class="marsus-logo" alt="Marsus"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="go-top">
+    <i class="far fa-chevron-up"></i>
+</div>
+<div class="cookies" style="display:none;">
+    <div class="container">
+        <div class="col-sm-12">We use cookies to help us give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on our website. However, if you would like to, you can change your cookie settings at any time. <a class="close-cookie-warning"><span><i class="far fa-times"></i></span></a></div>
+    </div>
+</div>
+
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+
+<script type="text/javascript">
+    window.home     =   'https://iletisimyazilim.com/';
+    window.base     =   'https://iletisimyazilim.com/';
+    window.lang     =   '{"an_error":"Bir hata olu\u015ftu. L\u00fctfen sayfay\u0131 yenileyip tekrar deneyin.","agreements_warning":"Kullan\u0131c\u0131 s\u00f6zle\u015fmesini kabul etmeniz gerekemektedir.","load_more_label":"DAHA FAZLA G\u00d6STER"}';
+    window.device   =   'desktop';
+    window.os       =   'other';
+</script>
+
+                        <script type="text/javascript" src="..\templates\plugins\jquery-3.3.1.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\templates\plugins\bootstrap-v4\js\bootstrap.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\templates\plugins\toastr\toastr.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\templates\plugins\ajaxform.js?v=1415"></script>
+                    <script type="text/javascript" src="..\templates\plugins\scrollToFixed.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\templates\js\application.js?v=1415"></script>
+            
+
+
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-779137568"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'AW-779137568');
+    </script>
+
+    <!-- Event snippet for Genel-Dönüşüm conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-779137568/2eRfCOGPh6cBEKDkwvMC'});
+    </script>
+    <!-- Event snippet for Genel-Dönüşüm conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-779137568/2eRfCOGPh6cBEKDkwvMC'});
+    </script>
+
+
+
+    <!-- Begin of Chaport Live Chat code -->
+    <script type="text/javascript">
+        (function(w,d,v3){
+            w.chaportConfig = { appId : '5d4421ac1713586ade4ecd26' };
+            if(w.chaport)return;v3=w.chaport={};v3._q=[];v3._l={};v3.q=function(){v3._q.push(arguments)};v3.on=function(e,fn){if(!v3._l[e])v3._l[e]=[];v3._l[e].push(fn)};var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://app.chaport.com/javascripts/insert.js';var ss=d.getElementsByTagName('script')[0];ss.parentNode.insertBefore(s,ss)})(window, document);
+    </script>
+    <!-- End of Chaport Live Chat code -->
+
+</body>
+</html>

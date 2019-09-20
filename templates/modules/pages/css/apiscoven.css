@@ -1,0 +1,239 @@
+﻿/*==========  Mobile First Method  ==========*/
+.workflow-container {
+    position: relative;
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 100%;
+}
+
+.swiper {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    width: 40px;
+    height: 40px;
+    background: url("../../../images/swipe-icon.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    z-index: 9999;
+}
+
+.workflow {
+    position: relative;
+    width: 1210px;
+}
+.flowbtn{
+    cursor: pointer;
+}
+
+.workflow .bg {
+    width: 100%;
+    z-index: 0;
+}
+
+.workflow .flow {
+    position: absolute;
+    font-size: 26px;
+    font-weight: 500;
+    color: #193763;
+    z-index: 999;
+}
+
+.workflow .flow sup {
+    font-size: 15px;
+    color: #f9a61a;
+}
+
+.workflow .answer {
+    font-size: 22px;
+    color: #f4791f;
+}
+
+.workflow .flow1 {
+    left: 16px;
+    top: 23px;
+}
+
+.workflow .flow1 img {
+    float: left;
+    width: 44px;
+    margin-right: 12px;
+}
+
+.workflow .flow2 {
+    left: 326px;
+    top: 25px;
+}
+
+.workflow .flow3 {
+    left: 560px;
+    top: 20px;
+    line-height: 1em;
+    text-align: center;
+}
+.workflow .eng{
+    left: 560px;
+    top: 29px;
+    line-height: 1em;
+    text-align: center;
+    font-size: 18px;
+}
+.workflow .flow4 {
+    left: 845px;
+    top: 29px;
+}
+.workflow .flow4.no{
+    left:853px;
+}
+
+.workflow .flow5 {
+    left: 847px;
+    top: 183px;
+}
+
+.workflow .flow6 {
+    left: 1040px;
+    top: 172px;
+    line-height: 1em;
+    text-align: center;
+}
+.workflow .flow6.move-left{
+    left:1022px;
+}
+.workflow .flow7 {
+    left: 1034px;
+    top: 308px;
+}
+
+.workflow .flow8 {
+    left: 766px;
+    top: 303px;
+    line-height: 1em;
+    text-align: center;
+}
+
+.workflow .flow9 {
+    left: 527px;
+    top: 303px;
+    line-height: 1em;
+    text-align: center;
+}
+
+.workflow .flow10 {
+    left: 319px;
+    top: 156px;
+}
+.workflow .flow10.no{
+    left: 328px;
+    top: 158px;
+}
+.workflow .flow11 {
+    left: 321px;
+    top: 313px;
+}
+
+.workflow .flow12 {
+    left: 38px;
+    top: 224px;
+    line-height: 1em;
+    text-align: center;
+}
+.workflow .flow12.eng{
+    left: 38px;
+    top: 231px;
+    line-height: 1em;
+    text-align: center;
+    font-size: 18px;
+}
+
+.hexapopup .overbox {
+    background-color: #ffa409;
+}
+
+.hexapopup .overbox .left .top .title span {
+    color: #faa61a;
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+    .workflow-container {
+        padding-top: 80px;
+        padding-bottom: 60px;
+    }
+
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1600px){
+    .workflow{
+        transform: scale(0.8);
+    }
+}
+@media only screen and (max-width: 1200px){
+    .workflow{
+        transform: scale(0.6);
+        left: -20%;
+        top: -104px;
+    }
+}
+@media only screen and (min-width : 1600px) {
+
+    .swiper {
+        display: none;
+    }
+
+}
+@media all and (max-width: 992px){
+    .workflow{
+        transform: scale(1);
+        left:0;
+        top:0;
+    }
+    .hexapopup .overbox .left .bottom .title .text1{
+        display: none;
+        text-align: center;
+    }
+    .hexapopup .overbox .left .bottom .title .text2{
+        text-align: center;
+    }
+    .hexapopup .overbox .left .bottom .title .text3{
+        text-align: center;
+    }
+    .hexapopup .overbox .right .top img{
+        border-top-right-radius: 0;
+    }
+    .hexapopup.show{
+        padding:30px;
+    }
+    .hexapopup .overbox{
+        display: block;
+    }
+    .hexapopup .overbox{
+        overflow-x: scroll;
+        height: 80vh;
+    }
+    .hexapopup .overbox .left{
+        width: 100%;
+    }
+    .hexapopup .overbox .right{
+        width: 100%;
+    }
+}

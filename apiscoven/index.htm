@@ -1,0 +1,782 @@
+﻿
+
+
+<!doctype html>
+<html lang="tr" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    
+    
+    
+    <title>Talep Tahminleme Sistemi - İletişim Yazılım</title>
+
+    <meta name="language" content="tr-TR">
+    <meta name="description" content="">
+    <meta name="generator" content="Marsus">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="apple-touch-icon" href="..\favicon.ico?v=1415">
+    <link rel="shortcut icon" href="..\favicon.ico?v=1415">
+
+                
+                
+                
+    <meta property="og:site_name" content="İletişim Yazılım">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="ApisCoven">
+    <meta property="og:url" content="https://iletisimyazilim.com/apiscoven/">
+    <meta property="og:image" content="https://iletisimyazilim.com/templates/images/og-img.png">
+    <meta property="og:description" content="">
+
+    <link rel="canonical" href="index.htm">
+
+            <link rel="alternate" href="index.htm" hreflang="tr">
+            <link rel="alternate" href="..\en\apiscoven\index.htm" hreflang="en">
+    
+                                        <link href="..\templates\plugins\bootstrap-v4\css\bootstrap.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\css\hamburgers.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\css\application.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\plugins\font-awesome\css\fontawesome-all.min.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\plugins\toastr\toastr.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\css\style.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\modules\pages\css\pages.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\modules\pages\css\hexagon.css?v=1415" rel="stylesheet">
+                            <link href="..\templates\modules\pages\css\apiscoven.css?v=1415" rel="stylesheet">
+                        
+</head>
+
+<body dir="ltr" class="header-border">
+<header>
+    <div class="header-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="box">
+                        <ul class="d-flex justify-content-md-end justify-content-center">
+                            <li><a href="tel:02242514100">0224 251 41 00</a></li>
+                            <li><a href="mailto:iletisim@iletisimyazilim.com">iletisim@iletisimyazilim.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg">
+            <div class="works d-flex align-items-center">
+            <a href="..\index.htm" class="navbar-brand" title="İletişim Yazılım">
+                <img src="..\templates\images\iletisim-yazilim.png" width="220" height="64" alt="iletişim yazılım">
+            </a>
+
+                <div class="languages dropdown">
+    <button class="dropdown-toggle text-uppercase" type="button" data-toggle="dropdown">
+        tr
+    </button>
+    <div class="dropdown-menu">
+                                        
+                
+                
+                <li>
+                    <a href="..\en\apiscoven\index.htm" class="dropdown-item">
+                        <img src="..\templates\images\flags\en.svg" alt="English" width="32" height="32">
+                        <span class="ml-1">English</span>
+                    </a>
+                </li>
+
+                        </div>
+</div>
+                <div class="search">
+                    <i class="far fa-search" id="search-button"></i>
+                    <div class="search-form">
+                        <form action="" method="post">
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <input type="text" name="keyword" class="form-control" placeholder="Ara...">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-search" type="submit"><i class="far fa-search"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <button class="hamburger hamburger--squeeze js-hamburger d-block d-lg-none" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false">
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="navbar-nav ml-auto">
+                    
+<li class="nav-item">
+<a href="..\index.htm" class="nav-link">Ana Sayfa</a>
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\kurumsal\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Kurumsal</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\kurumsal\index.htm" class="dropdown-item">Hakkımızda<span></span></a></li>
+<li><a href="..\dijital-donusum-yolculugu\index.htm" class="dropdown-item">Dijital Dönüşüm Yolculuğu<span></span></a></li>
+<li><a href="..\vizyon-ve-misyon\index.htm" class="dropdown-item">Vizyon - Misyon<span></span></a></li>
+<li><a href="..\kalite-politikasi\index.htm" class="dropdown-item">Kalite Politikası<span></span></a></li>
+<li><a href="..\musteri-memnuniyeti\index.htm" class="dropdown-item">Müşteri Memnuniyeti<span></span></a></li>
+<li><a href="..\is-ortaklari\index.htm" class="dropdown-item">İş Ortakları<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\cozumler\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Çözümler</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\coralreef\index.htm" class="dropdown-item purple hassize">CoralReef<span> MES</span></a></li>
+<li><a href="..\managemind\index.htm" class="dropdown-item blue hassize">ManageMind<span> BPM</span></a></li>
+<li><a href="..\imt\index.htm" class="dropdown-item pink hassize">IMT<span> MT</span></a></li>
+<li><a href="index.htm" class="dropdown-item orange hassize">ApisCoven<span> DF</span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\bilgi-bankasi\index.htm" class="nav-link">Bilgi Bankası</a>
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\ik-politikasi\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">İK</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\ik-politikasi\index.htm" class="dropdown-item">İK Politikası<span></span></a></li>
+<li><a href="..\acik-pozisyonlar\index.htm" class="dropdown-item">Açık Pozisyonlar<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\haberler\index.htm" class="nav-link">Haberler</a>
+</li>
+
+<li class="nav-item CSS Class dropdown">
+<a href="..\referanslar\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fa fa-Menü İconu"></i> Referanslar</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\referanslarimiz\index.htm" class="dropdown-item">Referanslarımız<span></span></a></li>
+<li><a href="..\referans-videolari\index.htm" class="dropdown-item">Referans Videoları<span></span></a></li>
+<li><a href="..\basari-hikayeleri\index.htm" class="dropdown-item">Başarı Hikayeleri<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\iletisim\index.htm" class="nav-link">İletişim</a>
+</li>
+
+                </ul>
+            </div>
+
+        </nav>
+    </div>
+
+</header>
+
+
+
+            <div class="page-header has-bg">
+                    <div class="bg">
+                <img src="..\uploads\pages\cover\apis slider.jpg" alt="ApisCoven" height="180">
+                <div class="overlay" style="background-image: url('../templates/images/inline/apiscoven-banner.png')">
+                    <div class="overfox d-flex align-items-center align-items-md-end">
+                        <div class="container">
+                            <div class="row align-items-start">
+                                <div class="col-md-6">
+                                    <div class="big">
+                                        <span>AC</span>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="sub">
+                                        <h3 class="mb-2">Talep Tahminleme Sistemi</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+    <div class="resulting">
+        <div class="top">
+            <div class="container">
+                <div class="row align-items-start">
+                    <div class="col-md-6">
+                        <div class="title">
+                            <h1>ApisCoven<span class="tag orange">DF</span><span class="subtitle orange">Demand Forecasting System</span></h1>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="description">
+                            <p>
+                                <p>Gelecekteki satışların ne olabileceğini tahmin etmeyi mümkün kılacak şekilde, eldeki bilginin düzenlenmesini ve analiz edilmesini sağlayan bir sistemdir. Diğer tahmin programlarına göre en büyük avantajı; analiz de çok fazla yöntem kullanarak, bu yöntemlerle hata analizi gerçekleştirerek, daha ayrıntılı sonuçlara varabilmesidir. Talep tahmini ile satınalma işlemleri verimli sonuçlanmaktadır. Kaynakların verimli kullanılması maliyetin düşmesini de sağlamaktadır.<br>
+&nbsp;</p>
+
+<p>&nbsp;</p>
+                            
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="detail orange">
+                            <i class="far fa-chevron-double-right scrollpot d-md-none"></i>
+                            <div class="overfox">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" id="step1-tab" data-toggle="tab" href="#step1" role="tab" aria-controls="step1" aria-selected="true">Özellikler</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step2-tab" data-toggle="tab" href="#step2" role="tab" aria-controls="step2" aria-selected="false">İş Akışı</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step3-tab" data-toggle="tab" href="#step3" role="tab" aria-controls="step3" aria-selected="false">Faydaları</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step4-tab" data-toggle="tab" href="#step4" role="tab" aria-controls="step4" aria-selected="false">Raporlama</a>
+                                    </li>
+                                </ul>
+                                <a href="..\iletisim\index-4.htm?request=apiscoven#goform" class="contact-inline orange d-none d-md-block" title="İletişime Geçin">İletişime Geçin</a>
+                            </div>
+                            <a href="..\iletisim\index-4.htm?request=apiscoven#goform" class="contact-inline orange d-md-none" title="İletişime Geçin">İletişime Geçin</a>
+                            <div class="tab-content" id="myTabContent">
+                                <div class="tab-pane fade show active" id="step1" role="tabpanel" aria-labelledby="step1-tab">
+                                    <div class="special">
+                                                                                                                                                                                                                        <div class="item right orange">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\templates\images\inline\ap-arrow-left-1.png" class="arrows arrow-left" alt="Satış Tahminleriniz Emin Ellerde…">
+                                                                <img src="..\uploads\contents\thumb\apis özellikler 1..jpg" width="" height="" alt="Satış Tahminleriniz Emin Ellerde…" alt="Satış Tahminleriniz Emin Ellerde…" class="current">
+                                                                <img src="..\templates\images\inline\ap-arrow-left-2.png" class="arrows arrow-left-2" alt="Satış Tahminleriniz Emin Ellerde…">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Satış Tahminleriniz Emin Ellerde…</span>
+                                                                <div class="description">
+                                                                    <p>ApisCoven DF ile; analizlerde çok fazla yöntem kullanılmakta ve bu yöntemlerle hata analizi gerçekleştirilmektedir. Böylece tahmin sonucunda ayrıntılı sonuçlar elde edebilirsiniz.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item orange left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Verimli Satınalma İşlemleri</span>
+                                                                <div class="description">
+                                                                    <p>Talep tahmini sonuçlarıyla, satınalma işlemlerinin daha verimli yapılabilmesini sağlayabilirsiniz.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                    <img src="..\templates\images\inline\ap-arrow-right-1.png" class="arrows arrow-right" alt="Verimli Satınalma İşlemleri">
+                                                                                                                                <img src="..\uploads\contents\thumb\02 verimli satinalma islemi.jpg" width="" height="" alt="Verimli Satınalma İşlemleri" alt="Verimli Satınalma İşlemleri" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item right orange">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\templates\images\inline\ap-arrow-left-1.png" class="arrows arrow-left" alt="Mevcut Kaynakları Verimli Kullanma">
+                                                                <img src="..\uploads\contents\thumb\03 mevcut kaynaklari verimli kullanma.jpg" width="" height="" alt="Mevcut Kaynakları Verimli Kullanma" alt="Mevcut Kaynakları Verimli Kullanma" class="current">
+                                                                <img src="..\templates\images\inline\ap-arrow-left-2.png" class="arrows arrow-left-2" alt="Mevcut Kaynakları Verimli Kullanma">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Mevcut Kaynakları Verimli Kullanma</span>
+                                                                <div class="description">
+                                                                    <p>Talep tahmin çalışmaları sonuçlarına göre mevcut kaynakların daha verimli kullanabilir ve maliyetlerinizi düşürebilirsiniz.&nbsp;</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item orange left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">ERP ile Entegrasyon</span>
+                                                                <div class="description">
+                                                                    <p>ERP&#39;nizle entegrasyon yaparak, verilerin tek bir merkezden yönetimini sağlayabilirsiniz. Tahmin sonuçlarını tahmin verisi (forecast) olarak ERP&#39;nize yazabilirsiniz.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                <img src="..\uploads\contents\thumb\04 erp ile entegrasyon.jpg" width="" height="" alt="ERP ile Entegrasyon" alt="ERP ile Entegrasyon" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+                                <div class="tab-pane fade" id="step2" role="tabpanel" aria-labelledby="step2-tab">
+
+                                    
+
+                                    <div class="imagelectus" style="position: relative">
+
+                                        <!-- workflow -->
+                                                                                <div class="workflow-container swiper-reference">
+                                            <div class="workflow">
+
+                                                <img src="..\templates\images\content\apiscoven-workflow.png" class="bg">
+
+                                                <div class="flow flow1">
+                                                    <img src="..\templates\images\content\apiscoven-logo.png">
+                                                    ApisCoven <sup>DF</sup>
+                                                </div>
+
+                                                <div class="flow flow2 flowbtn">
+                                                    Veri Girişi
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Veri Girişi">
+                                                        <input type="hidden" class="val2" value="AC">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Manuel program içerisinden veri girişi,</li>
+	<li>ERP entegrasyonu(otomatik veri aktarımı),</li>
+	<li>Office Entegrasyonu(Excel)</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Müşteri Siparişleri, Alım Siparişleri, Envanter, Ürün, Satışlar, Satış Analizi vb. bilgilerin talep tahminleme için tanımlandığı bölümdür.">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible d-none">
+                                                            <img src="..\uploads\contents\thumb\1120x380 web fason-2.jpg" width="" height="" alt="Veri Girişi" alt="Veri Girişi">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="flow flow3 ">
+                                                    Veriler Analize<br>Uygun mu?
+                                                </div>
+
+                                                <div class="flow flow4 answer ">
+                                                    Hayır
+                                                </div>
+
+                                                <div class="flow flow5 answer">
+                                                    Evet
+                                                </div>
+
+                                                <div class="flow flow6 flowbtn ">
+                                                    Ön Analiz<br>İşlemleri
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Ön Analiz İşlemleri">
+                                                        <input type="hidden" class="val2" value="AC">
+                                                        <input type="hidden" class="val3" value='<p><strong>Eksik Bilgilerin Tamamlanması</strong></p>
+
+<ul>
+	<li>İnterpolasyon Yöntemleri İle Veri Tamamlama</li>
+</ul>
+
+<p><strong>Mevsimsellikten Arındırma</strong></p>
+
+<ul>
+	<li>Hareketli Ortalamalar Oran Metodu</li>
+	<li>Basit Ortalamalar Metodu</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible d-none">
+                                                            <img src="..\uploads\contents\thumb\1120x380 web fason-6.jpg" width="" height="" alt="Ön Analiz[br]İşlemleri" alt="Ön Analiz[br]İşlemleri">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="flow flow7 flowbtn">
+                                                    Raporlama
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Raporlama">
+                                                        <input type="hidden" class="val2" value="AC">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Dönem Bazında Talep Tahmin Raporu</li>
+	<li>Yöntemsel Karşılaştırmalı Analiz Raporu</li>
+	<li>Detaylı Tahmin - Satış Karşılaştırma Raporu</li>
+	<li>MS Excel Pivot Tablolar vs.</li>
+</ul>
+
+<p>&nbsp;</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible d-none">
+                                                            <img src="..\uploads\contents\thumb\1120x380 web fason-5.jpg" width="" height="" alt="Raporlama" alt="Raporlama">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="flow flow8 flowbtn">
+                                                    Talep<br>Tahminleme
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Talep Tahminleme">
+                                                        <input type="hidden" class="val2" value="AC">
+                                                        <input type="hidden" class="val3" value='<p>Geçmişteki satışları analiz ederek, gelecek dönemler için taleplerin tahmin edilme işlemini yapar.</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible d-none">
+                                                            <img src="..\uploads\contents\thumb\1120x380 web fason-4.jpg" width="" height="" alt="Talep[br]Tahminleme" alt="Talep[br]Tahminleme">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="flow flow9 flowbtn">
+                                                    Analiz<br>İşlemleri
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Analiz İşlemleri">
+                                                        <input type="hidden" class="val2" value="AC">
+                                                        <input type="hidden" class="val3" value='<p><strong>Çeşitli Algoritmalarla Analiz İşlemleri</strong></p>
+
+<ul>
+	<li>Kayan Ortalamalar</li>
+	<li>Winters Yöntemi</li>
+	<li>Üssel Düzeltme</li>
+	<li>Holts Yöntemi vb.</li>
+</ul>
+
+<p><strong>Farklı Karşılaştırma Yöntemleri İle Analiz</strong></p>
+
+<ul>
+	<li>MAD, MSE, MAPE vb.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible d-none">
+                                                            <img src="..\uploads\contents\thumb\1120x380 web fason-3.jpg" width="" height="" alt="Analiz[br]İşlemleri" alt="Analiz[br]İşlemleri">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="flow flow10 answer ">
+                                                    Hayır
+                                                </div>
+
+                                                <div class="flow flow11 answer">
+                                                    Evet
+                                                </div>
+
+                                                <div class="flow flow12 ">
+                                                    Veriler Analize<br>Uygun mu?
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <div class="swiper"></div>
+                                        <!-- //workflow -->
+
+                                    </div>
+
+                                </div>
+                                <div class="tab-pane fade" id="step3" role="tabpanel" aria-labelledby="step3-tab">
+                                                                        <div class="imagelectus">
+                                        <p><strong>Apiscoven ile neler yapılır?</strong></p>
+
+<ul>
+	<li>Geçmiş veri analizleri</li>
+	<li>MAD, MSE, MAPE ile karşılaştırma</li>
+	<li>Maliyet ve kar kestirmeleri</li>
+	<li>Fiyatlandırma ve promosyon yönetimi</li>
+	<li>İnterpolasyon işlemleri</li>
+	<li>Mevsimsellik analizi</li>
+	<li>Bütçe yönetimi</li>
+</ul>
+
+<p>&nbsp;</p>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="step4" role="tabpanel" aria-labelledby="step4-tab">
+                                                                        <div class="imagelectus">
+                                        <p><strong>APİSCOVEN RAPORLAMA</strong></p>
+
+<p style="text-align: center;"><img alt="" src="..\uploads\contents\Apiscoven1-1.png" style="width: 600px; height: 449px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\uploads\contents\Apicoven2.png" style="width: 600px; height: 449px;"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- modal -->
+    <div class="hexapopup">
+        <div class="overpop"></div>
+        <div class="overbox" id="coloredOveredBox">
+            <div class="left">
+                <div class="top">
+                    <div class="title">
+                        ApisCoven
+                        <span>DF</span>
+                    </div>
+                </div>
+                <div class="bottom">
+                    <div class="title">
+                        <span class="text1" id="hexval1">AC</span>
+                        <span class="text2" id="hexval2">Veri Girişi</span>
+                        <span class="text3" id="hexval5">İçerik eklenecektir.</span>
+                    </div>
+                </div>
+            </div>
+            <div class="right">
+                <div class="top">
+                    <img src="..\uploads\contents\thumb\1120x380 web fason.jpg" id="hexval4" alt="">
+                </div>
+                <div class="bottom">
+                    <p id="hexval3">
+                        ApisCoven DF ile; analizlerde çok fazla yöntem kullanılmakta ve bu yöntemlerle hata analizi
+                        gerçekleştirilmektedir. Böylece tahmin sonucunda ayrıntılı sonuçlar elde edebilirsiniz.<br><br>
+                        ApisCoven DF ile; analizlerde çok fazla yöntem kullanılmakta ve bu yöntemlerle hata analizi
+                        gerçekleştirilmektedir. Böylece tahmin sonucunda ayrıntılı sonuçlar elde edebilirsiniz.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- //modal -->
+
+
+<footer>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-4 col-md-6 block left">
+                <div class="logo">
+                    <a href="..\index.htm" title="İletişim Yazılım">
+                        <img src="..\templates\images\footer-logo.png" width="75" height="75" alt="iletişim yazılım">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            <div class="col-xl-6 block links">
+                <div class="row">
+                    <div class="col-6 col-md-4">
+                        <div class="link-area">
+                            <a href="..\index.htm" title="Ana Sayfa" class="title">Ana Sayfa</a>
+                            <a href="..\kurumsal\index.htm" title="Kurumsal" class="title">Kurumsal</a>
+                            <ul class="mbnone">
+                                                                                                    <li><a href="..\kurumsal\index.htm">Hakkımızda</a></li>
+                                                                    <li><a href="..\dijital-donusum-yolculugu\index.htm">Dijital Dönüşüm Yolculuğu</a></li>
+                                                                    <li><a href="..\vizyon-ve-misyon\index.htm">Vizyon ve Misyon</a></li>
+                                                                    <li><a href="..\kalite-politikasi\index.htm">Kalite Politikası</a></li>
+                                                                    <li><a href="..\musteri-memnuniyeti\index.htm">Müşteri Memnuniyeti</a></li>
+                                                                    <li><a href="..\is-ortaklari\index.htm">İş Ortakları</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <div class="link-area">
+                            <a href="..\cozumler\index.htm" title="Çözümler" class="title">Çözümler</a>
+                            <ul>
+                                                                                                    <li><a href="..\coralreef\index.htm">CoralReef</a></li>
+                                                                    <li><a href="..\managemind\index.htm">ManageMind</a></li>
+                                                                    <li><a href="..\imt\index.htm">IMT</a></li>
+                                                                    <li><a href="index.htm">ApisCoven</a></li>
+                                                            </ul>
+                            <a href="javascript:void(0)" title="İK" class="title">İK</a>
+                            <ul class="mbnone">
+                                                                                                    <li><a href="..\ik-politikasi\index.htm">İK Politikası</a></li>
+                                                                    <li><a href="..\acik-pozisyonlar\index.htm">Açık Pozisyonlar</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+
+                        <div class="link-area">
+                            <a href="..\bilgi-bankasi\index.htm" title="Bilgi Bankası" class="title mod-mobile"><span>Bilgi Bankası</span></a>
+                            <div class="d-flex align-items-start d-sm-block">
+                                <div class="long">
+                                    <a href="..\haberler\index.htm" title="Haberler" class="title">Haberler</a>
+                                    <!--
+                                    <ul>
+                                                                                                                    </ul>
+                                    -->
+                                </div>
+                                <div class="long">
+                                    <a href="javascript:void(0)" title="Referanslar" class="title">Referanslar</a>
+                                    <ul class="mbnone">
+                                                                                                                            <li><a href="..\referanslarimiz\index.htm">Referanslarımız</a></li>
+                                                                                    <li><a href="..\referans-videolari\index.htm">Referans Videoları</a></li>
+                                                                                    <li><a href="..\basari-hikayeleri\index.htm">Başarı Hikayeleri</a></li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 block links">
+                <div class="row align-items-end">
+                    <div class="col-md-6">
+                        <a href="..\iletisim\index.htm" title="İletişim" class="title mod-mobile"><span>İletişim</span></a>
+                                                <ul>
+                                                            <li>
+                                    <span class="title othermt">AR-GE MERKEZİ</span>
+                                    <address>
+                                        <p>Gazcılar Cd. Petek Bozkaya İş Merkezi C Blok Kat:3<br>
+Osmangazi | Bursa <strong>T: </strong>0224 251 41 00<b>&nbsp;F:&nbsp;</b>0224 271 66 84</p>
+                                    </address>
+                                </li>
+                                                            <li>
+                                    <span class="title ">TEKNOPARK</span>
+                                    <address>
+                                        <p>Ulutek Uludağ Üniversitesi Teknoloji Merkezi<br>
+Kat:3 Nilüfer | Bursa <strong>T:&nbsp;</strong>0224 280 84 84</p>
+                                    </address>
+                                </li>
+                                                    </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="cropper">
+                            <div class="social">
+                                <ul>
+                                                                            <li><a href="https://www.facebook.com/iletisimyazilim/" rel="nofollow" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                                                                                                <li><a href="https://www.instagram.com/iletisimyazilim/?hl=tr" rel="nofollow" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                                                                                                <li><a href="https://twitter.com/iletisimbursa" rel="nofollow" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                                                                                                <li><a href="https://tr.linkedin.com/company/iletisimyazilim" rel="nofollow" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                                                                                                                    <li><a href="https://www.youtube.com/channel/UCk18NDaEEbO_UKElDz78fFQ" rel="nofollow" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                                                                                                            <li><a href="..\rss.xml" target="_blank"><i class="fas fa-rss"></i></a></li>
+                                </ul>
+                            </div>
+                            <hr class="d-none d-md-block">
+                            <a href="mailto:iletisim@iletisimyazilim.com" class="btn btn-primary">Düşünceleriniz Önemli<i class="fas fa-envelope"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="marsus">
+        <div class="container">
+            <div class="row align-items-baseline">
+                <div class="col-8 col-md-12 col-lg-9">
+                    <div class="flexed">
+                        <div class="left">
+                            <span>Endüstri 4.0</span>
+                            <span class="copyright d-block d-md-none">Copyright &copy; 2019. Tüm Hakları Saklıdır.</span>
+                        </div>
+                        <div class="right d-none d-md-block">
+                            <ul>
+                                                                                                    <li><a href="..\bilgi-toplumu-hizmetleri\index.htm">Bilgi Toplumu Hizmetleri</a></li>
+                                                                    <li><a href="..\yasal-uyari-ve-kullanim-sartlari\index.htm">Yasal Uyarı ve Kullanım Şartları</a></li>
+                                                                    <li><a href="..\gizlilik-politikasi\index.htm">Gizlilik Politikası</a></li>
+                                                                    <li><a href="..\site-haritasi\index.htm">Site Haritası</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-md-12 col-lg-3">
+                    <div class="copyright">
+                        <span class="d-none d-md-block">Copyright &copy; 2019. Tüm Hakları Saklıdır.</span>
+                                                    <img src="..\templates\images\yirmibes.png" width="60" height="60" alt="Tüm Hakları Saklıdır."></div>
+                                        </div>
+                <div class="col-sm-12 d-block d-md-none">
+                    <div class="footer-mod-links">
+                        <hr>
+                        <ul>
+                                                                                        <li><a href="..\bilgi-toplumu-hizmetleri\index.htm">Bilgi Toplumu Hizmetleri</a></li>
+                                                            <li><a href="..\yasal-uyari-ve-kullanim-sartlari\index.htm">Yasal Uyarı ve Kullanım Şartları</a></li>
+                                                            <li><a href="..\gizlilik-politikasi\index.htm">Gizlilik Politikası</a></li>
+                                                            <li><a href="..\site-haritasi\index.htm">Site Haritası</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row d-md-flex align-items-center mt-4">
+                <div class="col-md-6">
+                    <a href="http://www.aeronorm.com/" title="Aeronorm" class="aeronorm-logo" target="_blank">Design: Aeronorm</a>
+                </div>
+                <div class="col-md-6 text-md-right">
+                    <a href="https://marsus.com/" title="Kurumsal web sitesi Marsus tarafından hazırlanmıştır" target="_blank"><img src="..\templates\images\logo.svg" class="marsus-logo" alt="Marsus"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="go-top">
+    <i class="far fa-chevron-up"></i>
+</div>
+<div class="cookies" style="display:none;">
+    <div class="container">
+        <div class="col-sm-12">We use cookies to help us give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on our website. However, if you would like to, you can change your cookie settings at any time. <a class="close-cookie-warning"><span><i class="far fa-times"></i></span></a></div>
+    </div>
+</div>
+
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+
+<script type="text/javascript">
+    window.home     =   'https://iletisimyazilim.com/';
+    window.base     =   'https://iletisimyazilim.com/';
+    window.lang     =   '{"an_error":"Bir hata olu\u015ftu. L\u00fctfen sayfay\u0131 yenileyip tekrar deneyin.","agreements_warning":"Kullan\u0131c\u0131 s\u00f6zle\u015fmesini kabul etmeniz gerekemektedir.","load_more_label":"DAHA FAZLA G\u00d6STER"}';
+    window.device   =   'desktop';
+    window.os       =   'other';
+</script>
+
+                        <script type="text/javascript" src="..\templates\plugins\jquery-3.3.1.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\templates\plugins\bootstrap-v4\js\bootstrap.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\templates\plugins\toastr\toastr.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\templates\plugins\ajaxform.js?v=1415"></script>
+                    <script type="text/javascript" src="..\templates\plugins\scrollToFixed.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\templates\js\application.js?v=1415"></script>
+            
+
+
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-779137568"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'AW-779137568');
+    </script>
+
+    <!-- Event snippet for Genel-Dönüşüm conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-779137568/2eRfCOGPh6cBEKDkwvMC'});
+    </script>
+    <!-- Event snippet for Genel-Dönüşüm conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-779137568/2eRfCOGPh6cBEKDkwvMC'});
+    </script>
+
+
+
+    <!-- Begin of Chaport Live Chat code -->
+    <script type="text/javascript">
+        (function(w,d,v3){
+            w.chaportConfig = { appId : '5d4421ac1713586ade4ecd26' };
+            if(w.chaport)return;v3=w.chaport={};v3._q=[];v3._l={};v3.q=function(){v3._q.push(arguments)};v3.on=function(e,fn){if(!v3._l[e])v3._l[e]=[];v3._l[e].push(fn)};var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://app.chaport.com/javascripts/insert.js';var ss=d.getElementsByTagName('script')[0];ss.parentNode.insertBefore(s,ss)})(window, document);
+    </script>
+    <!-- End of Chaport Live Chat code -->
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+/**
+	Creator: Marsus.com
+**/
+
+/* Blog CSS */
+.posts .item {
+	margin-bottom: 30px;
+}
+
+h1.title {
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+
+.blog .content img {
+    height: auto !important;
+}
+
+.blog .left {
+    margin-bottom: 50px;
+}
+
+.blog .left .card {
+    border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.blog h1 {
+    font-size: 22px;
+}
+
+.blog .content h2,
+.blog .content h3,
+.blog .content h4,
+.blog .content h5,
+.blog .content h6 {
+    color: #4b4b4b;
+    font-size: 18px;
+}
+
+aside .recent .card-title a {
+    font-size: 15px;
+}

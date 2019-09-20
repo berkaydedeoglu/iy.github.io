@@ -1,0 +1,314 @@
+﻿.arrower{
+    position: relative;
+}
+.arrower .imtbox .erp{
+    position: absolute;
+    top: 62%;
+    left: 9.6%;
+    font-size: 31px;
+    cursor: pointer;
+    color: #193663;
+
+}
+.arrower .imtbox .imt{
+    position: absolute;
+    top: 80%;
+    left: 28.6%;
+    font-size: 31px;
+    cursor: pointer;
+    color: #193663;
+}
+.arrower .imtbox .apps{
+    position: absolute;
+    top: 95%;
+    left: 44.6%;
+    cursor: pointer;
+    font-size: 31px;
+    color: #193663;
+}
+.boxes-row-container {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.boxes-row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.blue-box {
+    min-height: 110px;
+    background: #0077c1;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-position: 21px 22px;
+    background-size: 48px;
+    font-size: 16px;
+    line-height: 1.2em;
+    font-weight: 400;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.blue-box:hover {
+    opacity: 0.9;
+    z-index: 999;
+}
+
+.blue-box .text {
+    margin: 30px 0 0 55px;
+}
+
+.blue-box.work {
+    background-color: #0077c1;
+    background-image: url("../../../images/content/icons/work.png");
+}
+
+.blue-box.time {
+    background-color: #0d7ec4;
+    background-image: url("../../../images/content/icons/time.png");
+}
+
+.blue-box.star {
+    background-color: #268bca;
+    background-image: url("../../../images/content/icons/star.png");
+}
+
+.blue-box.doc {
+    background-color: #4099d1;
+    background-image: url("../../../images/content/icons/doc.png");
+}
+
+.blue-box.screen {
+    background-color: #1281c5;
+    background-image: url("../../../images/content/icons/screen.png");
+}
+
+.blue-box.pencil {
+    background-color: #268bca;
+    background-image: url("../../../images/content/icons/pencil.png");
+}
+
+.blue-box.glass {
+    background-color: #4099d1;
+    background-image: url("../../../images/content/icons/glass.png");
+}
+
+.blue-box.user {
+    background-color: #59a6d7;
+    background-image: url("../../../images/content/icons/user.png");
+}
+
+.blue-box.puzzle {
+    background-color: #268bca;
+    background-image: url("../../../images/content/icons/puzzle.png");
+}
+
+.blue-box.arge {
+    background-color: #4099d1;
+    background-image: url("../../../images/content/icons/arge.png");
+}
+
+.blue-box.dots {
+    background-color: #59a6d7;
+    background-image: url("../../../images/content/icons/dots.png");
+}
+
+.blue-box.aim {
+    background-color: #73b4dd;
+    background-image: url("../../../images/content/icons/aim.png");
+}
+
+.blue-box.headset {
+    background-color: #4099d1;
+    background-image: url("../../../images/content/icons/headset.png");
+}
+
+.blue-box.cart {
+    background-color: #59a6d7;
+    background-image: url("../../../images/content/icons/cart.png");
+}
+
+.blue-box.attach {
+    background-color: #73b4dd;
+    background-image: url("../../../images/content/icons/attach.png");
+}
+
+.blue-box.add {
+    background-color: #8cc2e3;
+    background-image: url("../../../images/content/icons/add.png");
+}
+
+.hexapopup .overbox {
+    background-color: #117cc1;
+}
+
+.hexapopup .overbox .left .top .title span {
+    color: #d4176f;
+}
+.imtbox i{
+    position: absolute;
+    font-size: 20px;
+    right: -16px;
+    top: 13px;
+}
+.blue-box.open{
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff;
+}
+.blue-box .relatible{
+    display: none;
+    margin-top:30px;
+}
+.blue-box .relatible img{
+    width: 100%;
+    height: auto;
+}
+.blue-box .relatible *{
+    background: transparent !important;
+    color:#fff !important;
+    font-size:14px;
+    font-weight: 400;
+}
+.blue-box .relatible ul{
+    padding:15px !important;
+}
+.blue-box .relatible .title{
+    font-size:14px;
+    margin-top:15px;
+    display: block;
+    margin-bottom: 15px;
+}
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+    .blue-box {
+        background-position: 15px 22px;
+        background-size: 58px;
+        font-size: 18px;
+        line-height: 1.2em;
+        font-weight: 400;
+    }
+
+    .blue-box .text {
+        margin: 30px 0 0 65px;
+    }
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+    .blue-box {
+        background-position: 14px 25px;
+        background-size: 43px;
+        font-size: 16px;
+        line-height: 1.2em;
+        font-weight: 300;
+    }
+
+    .blue-box .text {
+        margin: 30px 0 0 50px;
+    }
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+    .blue-box {
+        font-weight: 400;
+    }
+
+    .blue-box .text {
+        margin: 30px 0 0 55px;
+    }
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1100px) {
+
+    .blue-box {
+        background-position: 28px 25px;
+        background-size: 53px;
+        font-size: 20px;
+    }
+
+    .blue-box .text {
+        margin: 30px 0 0 85px;
+    }
+
+}
+
+@media all and (max-width: 1600px){
+    .arrower .imtbox .erp{
+        left:10.4%;
+    }
+    .arrower .imtbox .imt{
+        left:31.2%;
+    }
+    .arrower .imtbox .apps{
+        left:48.6%;
+    }
+}
+@media all and (max-width: 1200px){
+    .arrower .imtbox .erp{
+        left:12.4%;
+    }
+    .arrower .imtbox .imt{
+        left:37.2%;
+    }
+    .arrower .imtbox .apps{
+        left:57.6%;
+    }
+}
+@media all and (max-width: 992px){
+    .hexapopup .overbox .left .bottom .title .text1{
+        display: none;
+        text-align: center;
+    }
+    .hexapopup .overbox .left .bottom .title .text2{
+        text-align: center;
+    }
+    .hexapopup .overbox .left .bottom .title .text3{
+        text-align: center;
+    }
+    .hexapopup .overbox .right .top img{
+        border-top-right-radius: 0;
+    }
+    .hexapopup.show{
+        padding:30px;
+    }
+    .hexapopup .overbox{
+        display: block;
+    }
+    .hexapopup .overbox{
+        overflow-x: scroll;
+        height: 80vh;
+    }
+    .hexapopup .overbox .left{
+        width: 100%;
+    }
+    .hexapopup .overbox .right{
+        width: 100%;
+    }
+}
+@media all and (max-width: 480px){
+    .arrower .imtbox .erp{
+        font-size:22px;
+    }
+    .arrower .imtbox .imt{
+        font-size:22px;
+    }
+    .arrower .imtbox .apps{
+        font-size:22px;
+    }
+}

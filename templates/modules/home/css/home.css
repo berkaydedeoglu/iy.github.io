@@ -1,0 +1,69 @@
+/**
+	Creator: Marsus
+**/
+
+/* Home CSS */
+
+
+
+/* Slider */
+.slider {
+    text-align: center;
+}
+
+.slider img {
+    max-width: 100%;
+    display: inline-block;
+}
+
+.slider.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: 25px;
+}
+
+
+.logoslider .owl-next{
+    right:30px;
+    text-align:right;
+}
+/* RESPONSIVE */
+@media (max-width: 1600px) {
+
+
+
+}
+
+@media (max-width: 1300px) {
+
+
+
+}
+
+@media (max-width: 1200px) {
+
+
+
+}
+
+@media (max-width: 991px) {
+
+
+
+}
+
+@media (max-width: 767px) {
+
+
+
+}
+
+@media (max-width: 544px) {
+
+
+
+}
+
+@media (max-width: 360px) {
+
+
+
+}

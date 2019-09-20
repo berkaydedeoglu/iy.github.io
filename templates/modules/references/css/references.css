@@ -1,0 +1,185 @@
+/**
+	Creator: Marsus.com
+**/
+
+/* References CSS */
+
+.references .item {
+    margin-bottom: 15px;
+}
+
+.references .item .item-title{
+    color: #000;
+}
+
+.references .item .city {
+    position: absolute;
+    top: 15px;
+    background: #fff;
+    padding: 5px 10px;
+    line-height: 1;
+    font-size: 88%;
+    color: #000;
+    -webkit-border-top-right-radius: 4px;
+    -webkit-border-bottom-right-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -moz-border-radius-bottomright: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    z-index: 1;
+}
+
+.references .item a{
+    display: inline-block;
+    text-decoration: none!important;
+    font-weight: 600;
+}
+
+.references .item .figure{
+    margin: 0;
+}
+
+h1.title {
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.category-text {
+    overflow: hidden;
+}
+
+.category-text .inner {
+    margin-bottom: 50px;
+    max-height: 150px;
+    overflow: hidden;
+}
+
+.categories {
+    margin-bottom: 30px;
+}
+
+.categories .title {
+}
+
+.categories .title a {
+    font-size: 22px;
+    font-weight: 300;
+    color: #767676;
+    text-decoration: none;
+}
+
+.categories .title i {
+    display: none;
+}
+
+.categories .sub-menu.svisible {
+    display: block;
+}
+
+.categories ul {
+    list-style: none;
+    padding: 0;
+}
+
+.categories ul li {
+    border-bottom: 0;
+}
+
+.categories ul li {
+    position: relative;
+}
+
+.categories .arrow:hover {
+    color: #111;
+}
+
+.categories .arrow {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 60px;
+    text-align: center;
+    color: #b9b9b9;
+    z-index: 9;
+}
+
+.categories .arrow:before {
+    top: 50%;
+    position: absolute;
+    margin-top: -7px;
+}
+
+.categories .sub-menu .arrow {
+    top: 3px;
+    bottom: 0;
+    font-size: 9px;
+}
+.notrans{
+    transition: 0ms !important;
+}
+#category-list > li:first-child {
+    margin-top: 0
+}
+
+.categories ul li a {
+    position: relative;
+    padding: 15px 20px;
+    border-bottom: 3px solid transparent;
+    display: block;
+    text-decoration: none;
+    color: #34495e;
+}
+
+.categories ul li .current {
+    background: #f8f8f8;
+}
+
+.categories ul li .current,
+.categories ul li a:hover {
+    color:#faa61a;
+    border-color: transparent;
+}
+.categories ul li.active a{
+    color:#faa61a;
+}
+
+.categories .sub-menu {
+    display: none;
+    margin-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+#category-list .dropdown-menu{
+ width: max-content;
+    height: 250px;
+    overflow-y:scroll;
+}
+.categories .sub-menu a {
+    font-size: 13px;
+    padding: 10px;
+    border-left: 1px solid transparent;
+}
+
+.services .item {
+    margin-bottom: 30px;
+}
+
+h1.title {
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.images {
+    margin-top: 75px;
+}
+
+.category-text {
+    overflow: hidden;
+}
+
+.category-text .inner {
+    margin-bottom: 50px;
+    max-height: 150px;
+    overflow: hidden;
+}

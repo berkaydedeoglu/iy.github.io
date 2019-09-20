@@ -1,0 +1,1555 @@
+﻿
+
+
+<style type="text/css">
+    /* Custom, iPhone Retina */
+    @media only screen and (min-width : 320px) {
+
+        .page-header.has-bg h3 {
+            margin-bottom: 50px !important;
+        }
+
+        .resulting .top .title h1 {
+            margin-bottom: 60px;
+        }
+
+        .page-header.has-bg h1 {
+            margin-top: 50px;
+        }
+
+        .resulting .top .title h1 .subtitle {
+            left: auto !important;
+        }
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+        .page-header.has-bg h3 {
+            margin-bottom: 0.5rem !important;
+        }
+
+        .resulting .top .title h1 {
+            margin-bottom: 0;
+        }
+
+        .page-header.has-bg h1 {
+            margin-top: 0;
+        }
+
+        .resulting .top .title h1 .subtitle {
+            left: 0 !important;
+        }
+
+    }
+</style>
+
+
+
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    
+    
+    
+    <title>Manufacturing Execution System - İletişim Yazılım</title>
+
+    <meta name="language" content="en-GB">
+    <meta name="description" content="Manufacturing Execution System">
+    <meta name="generator" content="Marsus">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="apple-touch-icon" href="..\..\favicon.ico?v=1415">
+    <link rel="shortcut icon" href="..\..\favicon.ico?v=1415">
+
+                
+                
+                
+    <meta property="og:site_name" content="İletişim Yazılım">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="CoralReef">
+    <meta property="og:url" content="https://iletisimyazilim.com/en/coralreef/">
+    <meta property="og:image" content="https://iletisimyazilim.com/templates/images/og-img.png">
+    <meta property="og:description" content="Manufacturing Execution System">
+
+    <link rel="canonical" href="index.htm">
+
+            <link rel="alternate" href="..\..\coralreef\index.htm" hreflang="tr">
+            <link rel="alternate" href="index.htm" hreflang="en">
+    
+                                        <link href="..\..\templates\plugins\bootstrap-v4\css\bootstrap.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\css\hamburgers.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\css\application.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\plugins\font-awesome\css\fontawesome-all.min.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\plugins\toastr\toastr.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\css\style.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\modules\pages\css\pages.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\modules\pages\css\hexagon.css?v=1415" rel="stylesheet">
+                        
+</head>
+
+<body dir="ltr" class="header-border">
+<header>
+    <div class="header-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="box">
+                        <ul class="d-flex justify-content-md-end justify-content-center">
+                            <li><a href="tel:02242514100">0224 251 41 00</a></li>
+                            <li><a href="mailto:iletisim@iletisimyazilim.com">iletisim@iletisimyazilim.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg">
+            <div class="works d-flex align-items-center">
+            <a href="..\index.htm" class="navbar-brand" title="İletişim Yazılım">
+                <img src="..\..\templates\images\iletisim-yazilim.png" width="220" height="64" alt="iletişim yazılım">
+            </a>
+
+                <div class="languages dropdown">
+    <button class="dropdown-toggle text-uppercase" type="button" data-toggle="dropdown">
+        en
+    </button>
+    <div class="dropdown-menu">
+                    
+                
+                
+                <li>
+                    <a href="..\..\coralreef\index.htm" class="dropdown-item">
+                        <img src="..\..\templates\images\flags\tr.svg" alt="Türkçe" width="32" height="32">
+                        <span class="ml-1">Türkçe</span>
+                    </a>
+                </li>
+
+                                            </div>
+</div>
+                <div class="search">
+                    <i class="far fa-search" id="search-button"></i>
+                    <div class="search-form">
+                        <form action="" method="post">
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <input type="text" name="keyword" class="form-control" placeholder="Search...">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-search" type="submit"><i class="far fa-search"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <button class="hamburger hamburger--squeeze js-hamburger d-block d-lg-none" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false">
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="navbar-nav ml-auto">
+                    
+<li class="nav-item">
+<a href="..\index.htm" class="nav-link">Mainpage</a>
+</li>
+
+<li class="nav-item dropdown">
+<a href="https://iletisimyazilim.com/en/corporate/" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Organizational</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\about-us\index.htm" class="dropdown-item">About Us<span></span></a></li>
+<li><a href="..\digital-transformation-journey\index.htm" class="dropdown-item">Digital Transformation Journey<span></span></a></li>
+<li><a href="..\vision-and-mission\index.htm" class="dropdown-item">Vision - Mission<span></span></a></li>
+<li><a href="..\quality-policy\index.htm" class="dropdown-item">Quality Policy<span></span></a></li>
+<li><a href="..\customer-satisfaction\index.htm" class="dropdown-item">Customer Satisfaction<span></span></a></li>
+<li><a href="..\business-partners\index.htm" class="dropdown-item">Partners<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\solutions\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Solutions</a>
+
+
+<ul class="dropdown-menu"><li><a href="index.htm" class="dropdown-item purple hassize">CoralReef<span> MES</span></a></li>
+<li><a href="..\managemind\index.htm" class="dropdown-item blue hassize">ManageMind<span> BPM</span></a></li>
+<li><a href="..\imt\index.htm" class="dropdown-item pink hassize">IMT<span> MT</span></a></li>
+<li><a href="..\apiscoven\index.htm" class="dropdown-item orange hassize">ApisCoven<span> DF</span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\data-bank\index.htm" class="nav-link">Data Bank</a>
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\hr-policy\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">HR</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\hr-policy\index.htm" class="dropdown-item">HR Policy<span></span></a></li>
+<li><a href="..\vacant-employment-positions\index.htm" class="dropdown-item">Vacant Employment Positions<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\news\index.htm" class="nav-link">News</a>
+</li>
+
+<li class="nav-item CSS Class dropdown">
+<a href="..\references\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fa fa-Menü İconu"></i> References</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\our-references\index.htm" class="dropdown-item">Our References<span></span></a></li>
+<li><a href="..\reference-videos\index.htm" class="dropdown-item">Reference Videos<span></span></a></li>
+<li><a href="..\achievement-stories\index.htm" class="dropdown-item">Achievement Stories<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\communication\index.htm" class="nav-link">Communication</a>
+</li>
+
+                </ul>
+            </div>
+
+        </nav>
+    </div>
+
+</header>
+
+
+
+        <div class="page-header has-bg">
+            <div class="bg">
+            <img src="..\..\uploads\pages\cover\banner7.jpg" alt="CoralReef" height="180">
+            <div class="overlay d-flex" style="background-image: url('../../templates/images/inline/coralreef-banner.png')">
+                <div class="overfox d-flex align-items-center align-items-md-end">
+                    <div class="container">
+                        <div class="row align-items-start">
+                            <div class="col-md-6">
+                                <div class="big">
+                                    <span>CR</span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="sub">
+                                    <h3 class="mb-2">Manufacturing Execution System</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="hex blue"></div>
+
+    <div class="resulting">
+        <div class="top">
+            <div class="container">
+
+                <div class="row align-items-start">
+                    <div class="col-md-6">
+                        <div class="title">
+                            <h1>CoralReef<span class="tag purple">MES</span><span class="subtitle purple">Manufacturing Execution System</span></h1>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="description">
+                            <p>
+                                <div>
+<div>CoralReef MES is a MES system that enables you to manage all processes from raw material entry to shipment and manage all your production resources with complementary modules such as detailed scheduling, maintenance, mold / tooling, operational quality, inventory management, and can work with minimum data input of people, mainly by collecting data from machines. . CoralReef MES is involved in the MES Product Survey conducted by CGI. It is a leading brand in Turkey.</div>
+</div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="detail purple">
+                            <i class="far fa-chevron-double-right scrollpot d-md-none"></i>
+                            <div class="overfox">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" id="step1-tab" data-toggle="tab" href="#step1" role="tab" aria-controls="step1" aria-selected="true">Properties</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step2-tab" data-toggle="tab" href="#step2" role="tab" aria-controls="step2" aria-selected="false">Work Flow</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step3-tab" data-toggle="tab" href="#step3" role="tab" aria-controls="step3" aria-selected="false">Benefits</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step4-tab" data-toggle="tab" href="#step4" role="tab" aria-controls="step4" aria-selected="false">Reporting</a>
+                                    </li>
+                                </ul>
+                                <a href="..\contact\index-1.htm?request=coralreef#goform" class="contact-inline purple d-none d-md-block" title="Get In Contact">Get In Contact</a>
+                            </div>
+                            <a href="..\contact\index.htm#goform" class="contact-inline purple d-md-none" title="Get In Contact">Get In Contact</a>
+                            <div class="tab-content" id="myTabContent">
+                                <div class="tab-pane fade show active" id="step1" role="tabpanel" aria-labelledby="step1-tab">
+                                    <div class="special">
+                                                                                                                                                                                                                        <div class="item right purple">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\..\templates\images\inline\cr-arrow-left-1.png" class="arrows arrow-left" alt="Easy Integration">
+                                                                <img src="..\..\uploads\contents\thumb\01 kolay entegrasyon.jpg" width="" height="" alt="Easy Integration" alt="Easy Integration" class="current">
+                                                                <img src="..\..\templates\images\inline\cr-arrow-left-2.png" class="arrows arrow-left-2" alt="Easy Integration">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Easy Integration</span>
+                                                                <div class="description">
+                                                                    <p>You can be integrated independent from ERP.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item purple left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Work independent from Trademark</span>
+                                                                <div class="description">
+                                                                    <p>Your data entry topology and data collection topology can be fully realized independent from trademark-model.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                    <img src="..\..\templates\images\inline\cr-arrow-right-1.png" class="arrows arrow-right" alt="Work independent from Trademark">
+                                                                                                                                <img src="..\..\uploads\contents\thumb\02 marka bagimsiz calisin.jpg" width="" height="" alt="Work independent from Trademark" alt="Work independent from Trademark" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item right purple">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\..\templates\images\inline\cr-arrow-left-1.png" class="arrows arrow-left" alt="Integrated with Technology">
+                                                                <img src="..\..\uploads\contents\thumb\860x440 cr çözümler barkod.jpg" width="" height="" alt="Integrated with Technology" alt="Integrated with Technology" class="current">
+                                                                <img src="..\..\templates\images\inline\cr-arrow-left-2.png" class="arrows arrow-left-2" alt="Integrated with Technology">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Integrated with Technology</span>
+                                                                <div class="description">
+                                                                    <p>A full integration with barcode, data matrix, RFID and similar technologies are possible.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item purple left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">All your transactions are Web Based</span>
+                                                                <div class="description">
+                                                                    <p>Reporting-dashboard and Andon modules are completely Web Based.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                <img src="..\..\uploads\contents\thumb\04 tum isleminiz web tabanli.jpg" width="" height="" alt="All your transactions are Web Based" alt="All your transactions are Web Based" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item right purple">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\..\templates\images\inline\cr-arrow-left-1.png" class="arrows arrow-left" alt="Notification for Instant Intervention">
+                                                                <img src="..\..\uploads\contents\thumb\05 anlik mudahale icin bildiri.jpg" width="" height="" alt="Notification for Instant Intervention" alt="Notification for Instant Intervention" class="current">
+                                                                <img src="..\..\templates\images\inline\cr-arrow-left-2.png" class="arrows arrow-left-2" alt="Notification for Instant Intervention">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Notification for Instant Intervention</span>
+                                                                <div class="description">
+                                                                    <p>You can set up a notification system with unlimited mail / SMS according to the determined workflow.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item purple left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Mobile Factory Application</span>
+                                                                <div class="description">
+                                                                    <p>You can generate reports on mobile phones and / or PCs (IOS and Android OS supported). You can access data such as PPM, OEE, and posture analysis with mobile mediums. You can report on the web (Explorer, Chrome, Firefox, Yandex, etc.).</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                <img src="..\..\uploads\contents\thumb\06 mobil fabrika uygulamasi-1.jpg" width="" height="" alt="Mobile Factory Application" alt="Mobile Factory Application" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item right purple">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\..\templates\images\inline\cr-arrow-left-1.png" class="arrows arrow-left" alt="Andon Reporting Facility">
+                                                                <img src="..\..\uploads\contents\thumb\07 andon raporlama imkani.jpg" width="" height="" alt="Andon Reporting Facility" alt="Andon Reporting Facility" class="current">
+                                                                <img src="..\..\templates\images\inline\cr-arrow-left-2.png" class="arrows arrow-left-2" alt="Andon Reporting Facility">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Andon Reporting Facility</span>
+                                                                <div class="description">
+                                                                    <p>You can monitor the production status via andon screens while you are in the production area.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+                                <div class="tab-pane fade" id="step2" role="tabpanel" aria-labelledby="step2-tab">
+                                    <div id="hexagon">
+                                        <div class="visible-mobile pyramid d-lg-none">
+                                            <div class="item-title">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">ERP</div>
+                                            </div>
+                                            <div class="item-middle d-lg-none">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">MES Modules</div>
+                                            </div>
+                                            <div class="item-right d-lg-none">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">MES Optionally Modules</div>
+                                            </div>
+                                            <div class="item-bottom">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">Production Area</div>
+                                            </div>
+                                        </div>
+                                        <div class="tip-text tip-2 d-lg-none">
+                                            <div class="text">
+                                                MES<br>
+                                                Modules
+                                            </div>
+                                            <div class="line"></div>
+                                        </div>
+                                                                                <div class="layout">
+                                            <div class="item">
+                                                <div class="hexagon blue">
+                                                    <div class="text">Maintenance Management</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Maintenance Management">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Tracking malfunctions,</li>
+	<li>Monitoring malfunction response times and consumables used in malfunctions,</li>
+	<li>Opening malfunction work order and informing by e-mail,</li>
+	<li>Equipment maintenance monitoring,</li>
+	<li>Integration of planned maintenance activity inputs and machine programming,</li>
+	<li>Follow-up of planned maintenance activities instructions,</li>
+	<li>Tracking of MTBF, MTBR reports.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="This is the section where maintenance and malfunctions are managed.">
+                                                        <input type="hidden" class="val6" value="blue">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\052ff.jpg" width="" height="" alt="Maintenance Management" alt="Maintenance Management">
+                                                            <span class="title">This is the section where maintenance and malfunctions are managed.</span>
+                                                            <ul>
+	<li>Tracking malfunctions,</li>
+	<li>Monitoring malfunction response times and consumables used in malfunctions,</li>
+	<li>Opening malfunction work order and informing by e-mail,</li>
+	<li>Equipment maintenance monitoring,</li>
+	<li>Integration of planned maintenance activity inputs and machine programming,</li>
+	<li>Follow-up of planned maintenance activities instructions,</li>
+	<li>Tracking of MTBF, MTBR reports.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon blue">
+                                                    <div class="text">Mold / Tool Management</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Mold / Tool Management">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Time-based tracking of mold / tool life,</li>
+	<li>Quantity based mold / tool life tracking,</li>
+	<li>Mold / tool location tracking,</li>
+	<li>Following maintenance instructions and monitoring maintenance time-cost,</li>
+	<li>Tracking of the mold / tool assembly-disassembly process.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="This is the section where the process tracking of molds and tools is managed.">
+                                                        <input type="hidden" class="val6" value="blue">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\600x200 kalıp takım kopya.jpg" width="" height="" alt="Mold / Tool Management" alt="Mold / Tool Management">
+                                                            <span class="title">This is the section where the process tracking of molds and tools is managed.</span>
+                                                            <ul>
+	<li>Time-based tracking of mold / tool life,</li>
+	<li>Quantity based mold / tool life tracking,</li>
+	<li>Mold / tool location tracking,</li>
+	<li>Following maintenance instructions and monitoring maintenance time-cost,</li>
+	<li>Tracking of the mold / tool assembly-disassembly process.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon pink">
+                                                    <div class="text">Web Supplier Contract Management</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Web Supplier Contract Management">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Login via own user name and password by the users and printing labels out,</li>
+	<li>Quick acceptance of printed labels by scanning,</li>
+	<li>Suppliers can enter the delivery bills over the system,</li>
+	<li>Subcontractors have access to their work orders over the web and production entry,</li>
+	<li>Monitoring &nbsp;the stocks of products shipped to Subcontractors,</li>
+	<li>Direct material acceptance via entry and approval of production notification by subcontractors.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module where the subcontractors and the processes of the suppliers can be monitored.">
+                                                        <input type="hidden" class="val6" value="pink">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 web fason.jpg" width="" height="" alt="Web Supplier Contract Management" alt="Web Supplier Contract Management">
+                                                            <span class="title">It is the module where the subcontractors and the processes of the suppliers can be monitored.</span>
+                                                            <ul>
+	<li>Login via own user name and password by the users and printing labels out,</li>
+	<li>Quick acceptance of printed labels by scanning,</li>
+	<li>Suppliers can enter the delivery bills over the system,</li>
+	<li>Subcontractors have access to their work orders over the web and production entry,</li>
+	<li>Monitoring &nbsp;the stocks of products shipped to Subcontractors,</li>
+	<li>Direct material acceptance via entry and approval of production notification by subcontractors.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon brown">
+                                                    <div class="text">Production Planning and Machine Scheduling</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Production Planning and Machine Scheduling">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Work schedule entry,</li>
+	<li>Overtime entry,</li>
+	<li>Creating production plan on daily-weekly-monthly basis,</li>
+	<li>Planned-actual production values ​​analysis,</li>
+	<li>Machine and work line occupancy rates analysis,</li>
+	<li>Analysis of capacity occupations (based on time),</li>
+	<li>Monitoring of production plan revisions and monitoring of differences,</li>
+	<li>Graphical machine programming (gannt chart),</li>
+	<li>Unplanned work tracking and drag-and-drop machine programming,</li>
+	<li>Batch shift in case of change of plan.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module determining which job, in which order, on which machine is going to be performed.">
+                                                        <input type="hidden" class="val6" value="brown">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\600x200 Üretim Planlama.jpg" width="" height="" alt="Production Planning and Machine Scheduling" alt="Production Planning and Machine Scheduling">
+                                                            <span class="title">It is the module determining which job, in which order, on which machine is going to be performed.</span>
+                                                            <ul>
+	<li>Work schedule entry,</li>
+	<li>Overtime entry,</li>
+	<li>Creating production plan on daily-weekly-monthly basis,</li>
+	<li>Planned-actual production values ​​analysis,</li>
+	<li>Machine and work line occupancy rates analysis,</li>
+	<li>Analysis of capacity occupations (based on time),</li>
+	<li>Monitoring of production plan revisions and monitoring of differences,</li>
+	<li>Graphical machine programming (gannt chart),</li>
+	<li>Unplanned work tracking and drag-and-drop machine programming,</li>
+	<li>Batch shift in case of change of plan.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-triangle d-none d-lg-block">
+                                                <div class="title">SFC</div>
+                                                <div class="desc-1">Shop Floor Control</div>
+                                                <div class="desc-2">Shop Floor Control</div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text d-lg-none">SFC</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="SFC">
+                                                        <input type="hidden" class="val3" value='<p>The production quantity, production stop information and operation-control criteria and similar information realized in the workshop area during production will be automatically received through the machines via PLCs or sensors.</p>
+
+<p>Data entry can be made with data collection devices to be installed in the machines according to the project type.</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module that provides the traceability of processes by collecting automatic and manual data from the production unit.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x400 sfc.jpg" width="" height="" alt="SFC" alt="SFC">
+                                                            <span class="title">It is the module that provides the traceability of processes by collecting automatic and manual data from the production unit.</span>
+                                                            <p>The production quantity, production stop information and operation-control criteria and similar information realized in the workshop area during production will be automatically received through the machines via PLCs or sensors.</p>
+
+<p>Data entry can be made with data collection devices to be installed in the machines according to the project type.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text d-lg-none">Shop Floor Control</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Shop Floor Control">
+                                                        <input type="hidden" class="val3" value='<p>The production quantity, production stop information and operation-control criteria and similar information realized in the workshop area during production will be automatically received through the machines via PLCs or sensors.</p>
+
+<p>Data entry can be made with data collection devices to be installed in the machines according to the project type.</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module that provides the traceability of processes by collecting automatic and manual data from the production unit.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x400 sfc-2.jpg" width="" height="" alt="Shop Floor Control" alt="Shop Floor Control">
+                                                            <span class="title">It is the module that provides the traceability of processes by collecting automatic and manual data from the production unit.</span>
+                                                            <p>The production quantity, production stop information and operation-control criteria and similar information realized in the workshop area during production will be automatically received through the machines via PLCs or sensors.</p>
+
+<p>Data entry can be made with data collection devices to be installed in the machines according to the project type.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text d-lg-none">Data Collection from Production</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Data Collection from Production">
+                                                        <input type="hidden" class="val3" value='<p>The production quantity, production stop information and operation-control criteria and similar information realized in the workshop area during production will be automatically received through the machines via PLCs or sensors.</p>
+
+<p>Data entry can be made with data collection devices to be installed in the machines according to the project type.</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module that provides the traceability of processes by collecting automatic and manual data from the production unit.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x400 sfc-3.jpg" width="" height="" alt="Data Collection from Production" alt="Data Collection from Production">
+                                                            <span class="title">It is the module that provides the traceability of processes by collecting automatic and manual data from the production unit.</span>
+                                                            <p>The production quantity, production stop information and operation-control criteria and similar information realized in the workshop area during production will be automatically received through the machines via PLCs or sensors.</p>
+
+<p>Data entry can be made with data collection devices to be installed in the machines according to the project type.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon orange">
+                                                    <div class="text">Scales Automation</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Scales Automation">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Weighing of production inputs and integration with scales,</li>
+	<li>Scale integration in raw material product inventory,</li>
+	<li>Number of weighing according to process lot quantity and automatic calculation of each material and quantity in each weighing by the system,</li>
+	<li>Follow-up of actual tare before weighing,</li>
+	<li>Barcoded and batched label printing via weighing approval.Weighing of production inputs and integration with scales,</li>
+	<li>Scale integration in raw material product inventory,</li>
+	<li>Number of weighing according to process lot quantity and automatic calculation of each material and quantity in each weighing by the system,</li>
+	<li>Follow-up of actual tare before weighing,</li>
+	<li>Barcoded and batched label printing via weighing approval.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module where the weighing of the production inputs and the integration with the scales are managed.">
+                                                        <input type="hidden" class="val6" value="orange">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\Tartım modülü.jpg" width="" height="" alt="Scales Automation" alt="Scales Automation">
+                                                            <span class="title">It is the module where the weighing of the production inputs and the integration with the scales are managed.</span>
+                                                            <ul>
+	<li>Weighing of production inputs and integration with scales,</li>
+	<li>Scale integration in raw material product inventory,</li>
+	<li>Number of weighing according to process lot quantity and automatic calculation of each material and quantity in each weighing by the system,</li>
+	<li>Follow-up of actual tare before weighing,</li>
+	<li>Barcoded and batched label printing via weighing approval.Weighing of production inputs and integration with scales,</li>
+	<li>Scale integration in raw material product inventory,</li>
+	<li>Number of weighing according to process lot quantity and automatic calculation of each material and quantity in each weighing by the system,</li>
+	<li>Follow-up of actual tare before weighing,</li>
+	<li>Barcoded and batched label printing via weighing approval.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon brown">
+                                                    <div class="text">Production and Work Orders</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Production and Work Orders">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Production / Work Order creation as a result of MRP / MPS,</li>
+	<li>Creating order-specific Production / Work Order and exploding multiple level production order,</li>
+	<li>Creating Manual Production / Work Order,</li>
+	<li>Generating mass production orders on shift and daily basis,</li>
+	<li>Raw material requirements analysis,</li>
+	<li>Printing batch cards for production orders.</li>
+</ul>
+
+<p style="box-sizing: border-box; outline-color: invert; outline-style: none; outline-width: 0px;">&nbsp;</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module where production and work orders are created and followed up in the workshop floor.">
+                                                        <input type="hidden" class="val6" value="brown">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 web fason-1.jpg" width="" height="" alt="Production and Work Orders" alt="Production and Work Orders">
+                                                            <span class="title">It is the module where production and work orders are created and followed up in the workshop floor.</span>
+                                                            <ul>
+	<li>Production / Work Order creation as a result of MRP / MPS,</li>
+	<li>Creating order-specific Production / Work Order and exploding multiple level production order,</li>
+	<li>Creating Manual Production / Work Order,</li>
+	<li>Generating mass production orders on shift and daily basis,</li>
+	<li>Raw material requirements analysis,</li>
+	<li>Printing batch cards for production orders.</li>
+</ul>
+
+<p style="box-sizing: border-box; outline-color: invert; outline-style: none; outline-width: 0px;">&nbsp;</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon yellow">
+                                                    <div class="text">Packaging</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Packaging">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>At levels more than one;</li>
+</ul>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Product package, box, packet, container and similar)</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Barcoded label printing for all packet types,</p>
+
+<ul>
+	<li>Barcoded label printing for container,</li>
+	<li>Packet intern product control,</li>
+</ul>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Is the right product in the right packet?)</p>
+
+<ul>
+	<li>Packet blockage tracking,</li>
+	<li>Booking tracking,</li>
+	<li>Tracking of packet partition-deletion-combining transactions,</li>
+	<li>Automatic label printing at reaching packet content quantity.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module that manages the packaging process after receiving the quality approval of the product.">
+                                                        <input type="hidden" class="val6" value="yellow">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 paketleme.jpg" width="" height="" alt="Packaging" alt="Packaging">
+                                                            <span class="title">It is the module that manages the packaging process after receiving the quality approval of the product.</span>
+                                                            <ul>
+	<li>At levels more than one;</li>
+</ul>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Product package, box, packet, container and similar)</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Barcoded label printing for all packet types,</p>
+
+<ul>
+	<li>Barcoded label printing for container,</li>
+	<li>Packet intern product control,</li>
+</ul>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Is the right product in the right packet?)</p>
+
+<ul>
+	<li>Packet blockage tracking,</li>
+	<li>Booking tracking,</li>
+	<li>Tracking of packet partition-deletion-combining transactions,</li>
+	<li>Automatic label printing at reaching packet content quantity.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon grey">
+                                                    <div class="text">GKK Sample and Laboratory Management</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="GKK Sample and Laboratory Management">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>&nbsp; &nbsp;Material Entry Quality Control process monitoring,</li>
+	<li>&nbsp;&nbsp;&nbsp;Automatic blockage management,</li>
+	<li>&nbsp;&nbsp;&nbsp;Integration with laboratory equipment and statistical analysis,</li>
+	<li>&nbsp;&nbsp;&nbsp;Monitoring of sample quality values,</li>
+	<li>&nbsp;&nbsp;&nbsp;Sampling and 100% quality control monitoring,</li>
+	<li>&nbsp;&nbsp;&nbsp;Supplier performance evaluation,</li>
+	<li>&nbsp;&nbsp;&nbsp;Supplier PPM analysis.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="   It is the module in which operational quality drives are monitored.">
+                                                        <input type="hidden" class="val6" value="grey">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 GKK lab-1.jpg" width="" height="" alt="GKK Sample and Laboratory Management" alt="GKK Sample and Laboratory Management">
+                                                            <span class="title">   It is the module in which operational quality drives are monitored.</span>
+                                                            <ul>
+	<li>&nbsp; &nbsp;Material Entry Quality Control process monitoring,</li>
+	<li>&nbsp;&nbsp;&nbsp;Automatic blockage management,</li>
+	<li>&nbsp;&nbsp;&nbsp;Integration with laboratory equipment and statistical analysis,</li>
+	<li>&nbsp;&nbsp;&nbsp;Monitoring of sample quality values,</li>
+	<li>&nbsp;&nbsp;&nbsp;Sampling and 100% quality control monitoring,</li>
+	<li>&nbsp;&nbsp;&nbsp;Supplier performance evaluation,</li>
+	<li>&nbsp;&nbsp;&nbsp;Supplier PPM analysis.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple-light">
+                                                    <div class="text">Warehouse Automation and Barcode Management</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Warehouse Automation and Barcode Management">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Warehouse shelf tracking,</li>
+	<li>Inventory management with barcode, data matrix, RFID,</li>
+	<li>Transfer movements between shelves,</li>
+	<li>Booking follow-up,</li>
+	<li>Material proposal according to FIFO, FEFO,</li>
+	<li>Kanban card printing and demand receipt management,</li>
+	<li>Demand receipt creation and material proposal according to demand receipt content,</li>
+	<li>Inventory and automatic inventory correction.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module where the materials shelf tracking and FIFO, LIFO and FEFO controls are managed.">
+                                                        <input type="hidden" class="val6" value="purple-light">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 Depo 2.jpg" width="" height="" alt="Warehouse Automation and Barcode Management" alt="Warehouse Automation and Barcode Management">
+                                                            <span class="title">It is the module where the materials shelf tracking and FIFO, LIFO and FEFO controls are managed.</span>
+                                                            <ul>
+	<li>Warehouse shelf tracking,</li>
+	<li>Inventory management with barcode, data matrix, RFID,</li>
+	<li>Transfer movements between shelves,</li>
+	<li>Booking follow-up,</li>
+	<li>Material proposal according to FIFO, FEFO,</li>
+	<li>Kanban card printing and demand receipt management,</li>
+	<li>Demand receipt creation and material proposal according to demand receipt content,</li>
+	<li>Inventory and automatic inventory correction.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon grey">
+                                                    <div class="text">Process Quality Control</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Process Quality Control">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Assignment of expected quality criteria on the basis of operation and product,</li>
+	<li>Collecting quality data through operators and PLCs,</li>
+	<li>End-to-end traceability,</li>
+	<li>Process-based criteria monitoring,</li>
+	<li>Quality System (ISO 9001, IATF 16949, AS 9100, etc.) conformity analysis,</li>
+	<li>Data generation for predictive maintenance.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module where operational quality processes are monitored.">
+                                                        <input type="hidden" class="val6" value="grey">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 kalite kontrol.jpg" width="" height="" alt="Process Quality Control" alt="Process Quality Control">
+                                                            <span class="title">It is the module where operational quality processes are monitored.</span>
+                                                            <ul>
+	<li>Assignment of expected quality criteria on the basis of operation and product,</li>
+	<li>Collecting quality data through operators and PLCs,</li>
+	<li>End-to-end traceability,</li>
+	<li>Process-based criteria monitoring,</li>
+	<li>Quality System (ISO 9001, IATF 16949, AS 9100, etc.) conformity analysis,</li>
+	<li>Data generation for predictive maintenance.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon grey">
+                                                    <div class="text">Final Quality Control</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Final Quality Control">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Input of quality control results of finished products,</li>
+	<li>Collecting quality data through operators and PLCs,</li>
+	<li>Statistical quality control reporting,</li>
+	<li>End-to-end traceability.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="  It is the module where operational quality processes are monitored.">
+                                                        <input type="hidden" class="val6" value="grey">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 proses kalite kontrol.jpg" width="" height="" alt="Final Quality Control" alt="Final Quality Control">
+                                                            <span class="title">  It is the module where operational quality processes are monitored.</span>
+                                                            <ul>
+	<li>Input of quality control results of finished products,</li>
+	<li>Collecting quality data through operators and PLCs,</li>
+	<li>Statistical quality control reporting,</li>
+	<li>End-to-end traceability.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon yellow">
+                                                    <div class="text">Shipment</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Shipment">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Order-controlled shipment,</li>
+	<li>Barcode and hardware independent shipment,</li>
+	<li>Barcode control of the products to be shipped by hand terminal,</li>
+	<li>Automatic container outlet transport container stock tracking for different suppliers and shipping addresses.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module where the shipment process is managed after the packaging process of the product.">
+                                                        <input type="hidden" class="val6" value="yellow">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 sevkiyat.jpg" width="" height="" alt="Shipment" alt="Shipment">
+                                                            <span class="title">It is the module where the shipment process is managed after the packaging process of the product.</span>
+                                                            <ul>
+	<li>Order-controlled shipment,</li>
+	<li>Barcode and hardware independent shipment,</li>
+	<li>Barcode control of the products to be shipped by hand terminal,</li>
+	<li>Automatic container outlet transport container stock tracking for different suppliers and shipping addresses.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="tip-text tip-2 d-lg-none">
+                                                <div class="text">
+                                                    MES Optionally Modules
+                                                </div>
+                                                <div class="line"></div>
+                                            </div>
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">MRP / MPS</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="MRP / MPS">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Automatic creation of purchase orders to meet orders,</li>
+	<li>Automatic generation and revision of required production orders,</li>
+	<li>Parametric warehouse (s) selection,</li>
+	<li>Create purchase order or production order according to lot sizes,</li>
+	<li>MRP / MPS calculation options by day, week, month</li>
+	<li>Possibility to calculate MRP / MPS according to safety tolerances.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module in which material requirement planning and main production plan are created.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 MRP.jpg" width="" height="" alt="MRP / MPS" alt="MRP / MPS">
+                                                            <span class="title">It is the module in which material requirement planning and main production plan are created.</span>
+                                                            <ul>
+	<li>Automatic creation of purchase orders to meet orders,</li>
+	<li>Automatic generation and revision of required production orders,</li>
+	<li>Parametric warehouse (s) selection,</li>
+	<li>Create purchase order or production order according to lot sizes,</li>
+	<li>MRP / MPS calculation options by day, week, month</li>
+	<li>Possibility to calculate MRP / MPS according to safety tolerances.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">Product Configurator</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Product Configurator">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Flexible route-recipe creation according to feature set and values,</li>
+	<li>Flexible and easy order entry,</li>
+	<li>Automatic generation of source information after order entry and approval stage without recipe and route creation.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module where product configuration can be monitored and the flexible entry of orders can be done.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 Ürün.jpg" width="" height="" alt="Product Configurator" alt="Product Configurator">
+                                                            <span class="title">It is the module where product configuration can be monitored and the flexible entry of orders can be done.</span>
+                                                            <ul>
+	<li>Flexible route-recipe creation according to feature set and values,</li>
+	<li>Flexible and easy order entry,</li>
+	<li>Automatic generation of source information after order entry and approval stage without recipe and route creation.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">PDKS Integration</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="PDKS Integration">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Integration with different Personnel Attendance Tracking Systems with SQL Database,</li>
+	<li>Personnel work-entry and exit monitoring,</li>
+	<li>Personnel-based OEE analysis.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is a module that provides personnel tracking in integration with PDKS devices.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 PDKS.jpg" width="" height="" alt="PDKS Integration" alt="PDKS Integration">
+                                                            <span class="title">It is a module that provides personnel tracking in integration with PDKS devices.</span>
+                                                            <ul>
+	<li>Integration with different Personnel Attendance Tracking Systems with SQL Database,</li>
+	<li>Personnel work-entry and exit monitoring,</li>
+	<li>Personnel-based OEE analysis.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">PLM and Drawing Program Integration</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="PLM and Drawing Program Integration">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>BOM (Bill ofMaterials) and route integration with PLM software,</li>
+	<li>Stock cards integration,</li>
+	<li>Product parameters integration.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module that transfers the BOM (Bill ofMaterials) to the systems with PLM software and drawing programs.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 PLM.jpg" width="" height="" alt="PLM and Drawing Program Integration" alt="PLM and Drawing Program Integration">
+                                                            <span class="title">It is the module that transfers the BOM (Bill ofMaterials) to the systems with PLM software and drawing programs.</span>
+                                                            <ul>
+	<li>BOM (Bill ofMaterials) and route integration with PLM software,</li>
+	<li>Stock cards integration,</li>
+	<li>Product parameters integration.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">Electronic Data Interface Management</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Electronic Data Interface Management">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Order - delivery note integration with OEM&rsquo;s,</li>
+	<li>Integration with MT940 and similar standards,</li>
+	<li>Automatic data transfer to ERPs.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module that allows the enterprise to transfer orders from the OEM’s to the existing ERPs.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 EDI.jpg" width="" height="" alt="Electronic Data Interface Management" alt="Electronic Data Interface Management">
+                                                            <span class="title">It is the module that allows the enterprise to transfer orders from the OEM’s to the existing ERPs.</span>
+                                                            <ul>
+	<li>Order - delivery note integration with OEM&rsquo;s,</li>
+	<li>Integration with MT940 and similar standards,</li>
+	<li>Automatic data transfer to ERPs.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">Service Management</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Service Management">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Work order management for the works coming to the service,</li>
+	<li>Service spare parts tracking,</li>
+	<li>Tracking the service forms of the service,</li>
+	<li>Service personnel monitoring,</li>
+	<li>Traceability of technical drawings, delivery notes, pictures and similar documents related to the products arriving at the service,</li>
+	<li>Traceability of service, purchasing-sale processs of service spare parts</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module where service processes can be monitored.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 Servis.jpg" width="" height="" alt="Service Management" alt="Service Management">
+                                                            <span class="title">It is the module where service processes can be monitored.</span>
+                                                            <ul>
+	<li>Work order management for the works coming to the service,</li>
+	<li>Service spare parts tracking,</li>
+	<li>Tracking the service forms of the service,</li>
+	<li>Service personnel monitoring,</li>
+	<li>Traceability of technical drawings, delivery notes, pictures and similar documents related to the products arriving at the service,</li>
+	<li>Traceability of service, purchasing-sale processs of service spare parts</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">Sample Tracking</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Sample Tracking">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Sample library monitoring,</li>
+	<li>Sample process monitoring,</li>
+	<li>Sample recipe tracking, sample picture, technical drawing tracking etc.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module where the sample processes can be monitored.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 Numune takip.jpg" width="" height="" alt="Sample Tracking" alt="Sample Tracking">
+                                                            <span class="title">It is the module where the sample processes can be monitored.</span>
+                                                            <ul>
+	<li>Sample library monitoring,</li>
+	<li>Sample process monitoring,</li>
+	<li>Sample recipe tracking, sample picture, technical drawing tracking etc.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="hexagon purple">
+                                                    <div class="text">Pricing and Offer Management</div>
+                                                    <div class="inputs hide-now">
+                                                        <input type="hidden" class="val1" value="CR">
+                                                        <input type="hidden" class="val2" value="Pricing and Offer Management">
+                                                        <input type="hidden" class="val3" value='<ul>
+	<li>Alternative preliminary cost study,</li>
+	<li>Offering and documentation tracking.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="It is the module where pricing and cost studies are performed for the products related to production results.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\1120x380 Fiyat verme.jpg" width="" height="" alt="Pricing and Offer Management" alt="Pricing and Offer Management">
+                                                            <span class="title">It is the module where pricing and cost studies are performed for the products related to production results.</span>
+                                                            <ul>
+	<li>Alternative preliminary cost study,</li>
+	<li>Offering and documentation tracking.</li>
+</ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-title d-none d-lg-block">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">ERP</div>
+                                            </div>
+
+                                            <div class="item-bottom d-none d-lg-block">
+                                                <div class="trapezoid"></div>
+                                                <div class="text">Production Area</div>
+                                            </div>
+
+                                            <div class="tip-text tip-1 d-none d-lg-block">
+                                                <div class="text">
+                                                    Sales<br> Material Management<br> Planning<br> Accounting<br> Finance<br> Production<br> Purchasing<br> Human Resources<br>
+                                                </div>
+                                                <div class="line"></div>
+                                            </div>
+
+                                            <div class="tip-text tip-2 d-none d-lg-block">
+                                                <div class="text">
+                                                    MES<br>
+                                                    Modules
+                                                </div>
+                                                <div class="line"></div>
+                                            </div>
+
+                                            <div class="tip-text tip-3 d-none d-lg-block">
+                                                <div class="text">
+                                                    Optional Modules
+                                                </div>
+                                            </div>
+
+                                            <div class="dash-line"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="step3" role="tabpanel" aria-labelledby="step3-tab">
+                                                                        <div class="imagelectus">
+                                        <ul>
+	<li>CoralReef Benefits</li>
+	<li>The main objective is to focus on minimizing losses and reducing costs.</li>
+	<li>It is aimed to manage the performance of the resources via MES system.</li>
+	<li>Our main resources are:&nbsp;Machinery,&nbsp;Personnel,&nbsp;Inventory</li>
+	<li>The CoralReef MES system aims to manage variously all resources by tracking the personal and inventory and not only the machinery performances.</li>
+</ul>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\Hedeflenen Faydalar İngilizce.png" style="width: 900px; height: 566px;"></p>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="step4" role="tabpanel" aria-labelledby="step4-tab">
+                                                                        <div class="imagelectus">
+                                        <p>Dashboard and similar analysis tools, an unlimited number of desired statistical reports can be designed and monitored over the system with the reporting tool.</p>
+
+<p>● All screens can be designed by users,</p>
+
+<p>● Adding and removing new fields,</p>
+
+<p>● User-specific screens can be created without requiring code information,</p>
+
+<p>● Unlimited number of reports and analyzes can be prepared,</p>
+
+<p>● Unlimited number of andon and dashboard can be done,</p>
+
+<p>● Consolidated reports can be cratd with ERP and different software,</p>
+
+<p>● Full integration with office programs can be done.</p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\OEEAndon.png" style="height: 449px; text-align: center; width: 600px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\CRRapor1-4.png" style="height: 449px; text-align: center; width: 600px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\Resim2.jpg" style="height: 449px; text-align: center; width: 600px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\GirişKalite-1.png" style="height: 449px; text-align: center; width: 600px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\letmePerformansı.png" style="height: 449px; text-align: center; width: 600px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\makkul-1.png" style="height: 449px; text-align: center; width: 600px;"></p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\CRRapor2-4.png" style="height: 449px; text-align: center; width: 600px;"></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;">&nbsp;</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="hexapopup">
+        <div class="overpop"></div>
+        <div class="overbox" id="coloredOveredBox">
+            <div class="left">
+                <div class="top">
+                    <div class="title">
+                        CoralReef
+                        <span>MES</span>
+                    </div>
+                </div>
+                <div class="bottom">
+                    <div class="title">
+                        <span class="text1" id="hexval1">MM</span>
+                        <span class="text2" id="hexval2">Bakım<br>Yönetim</span>
+                        <span class="text3" id="hexval5">Bakım ve arızaların yönetildiği bölümdür.</span>
+                    </div>
+                </div>
+            </div>
+            <div class="right">
+                <div class="top">
+                    <img src="https://via.placeholder.com/600x200" id="hexval4" alt="">
+                </div>
+                <div class="bottom">
+                    <p id="hexval3">
+                        Arızalarıntakibi,
+                        Arıza müdahale sürelerinin ve arızada kullanılan sarf malzemelerinin takibi,
+                        Arıza iş emri açılması ve mail ile bilgilendirme, Ekipman bakımı takibi,
+                        Planlı bakım faaliyet girişi ve makine programlama entegrasyonu,
+                        Planlı bakım faaliyetleri talimatlarının takibi, MTBF, MTBR raporlarının takibi vb. fonksiyonları içermektedir.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<footer>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-4 col-md-6 block left">
+                <div class="logo">
+                    <a href="..\index.htm" title="İletişim Yazılım">
+                        <img src="..\..\templates\images\footer-logo.png" width="75" height="75" alt="iletişim yazılım">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            <div class="col-xl-6 block links">
+                <div class="row">
+                    <div class="col-6 col-md-4">
+                        <div class="link-area">
+                            <a href="..\index.htm" title="Mainpage" class="title">Mainpage</a>
+                            <a href="..\about-us\index.htm" title="Organizational" class="title">Organizational</a>
+                            <ul class="mbnone">
+                                                                                                    <li><a href="..\about-us\index.htm">About Us</a></li>
+                                                                    <li><a href="..\digital-transformation-journey\index.htm">Digital Transformation Journey</a></li>
+                                                                    <li><a href="..\vision-and-mission\index.htm">Vision and Mission</a></li>
+                                                                    <li><a href="..\quality-policy\index.htm">Quality Policy</a></li>
+                                                                    <li><a href="..\customer-satisfaction\index.htm">Customer Satisfaction</a></li>
+                                                                    <li><a href="..\business-partners\index.htm">Partners</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <div class="link-area">
+                            <a href="..\solutions\index.htm" title="Solutions" class="title">Solutions</a>
+                            <ul>
+                                                                                                    <li><a href="index.htm">CoralReef</a></li>
+                                                                    <li><a href="..\managemind\index.htm">ManageMind</a></li>
+                                                                    <li><a href="..\imt\index.htm">IMT</a></li>
+                                                                    <li><a href="..\apiscoven\index.htm">Apiscoven</a></li>
+                                                            </ul>
+                            <a href="javascript:void(0)" title="HR" class="title">HR</a>
+                            <ul class="mbnone">
+                                                                                                    <li><a href="..\hr-policy\index.htm">HR Policy</a></li>
+                                                                    <li><a href="..\vacant-employment-positions\index.htm">Vacant Employment Positions</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+
+                        <div class="link-area">
+                            <a href="..\data-bank\index.htm" title="Data Bank" class="title mod-mobile"><span>Data Bank</span></a>
+                            <div class="d-flex align-items-start d-sm-block">
+                                <div class="long">
+                                    <a href="..\news\index.htm" title="News" class="title">News</a>
+                                    <!--
+                                    <ul>
+                                                                                                                    </ul>
+                                    -->
+                                </div>
+                                <div class="long">
+                                    <a href="javascript:void(0)" title="References" class="title">References</a>
+                                    <ul class="mbnone">
+                                                                                                                            <li><a href="..\our-references\index.htm">Our References</a></li>
+                                                                                    <li><a href="..\reference-videos\index.htm">Reference Videos</a></li>
+                                                                                    <li><a href="..\achievement-stories\index.htm">Achievement Stories</a></li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 block links">
+                <div class="row align-items-end">
+                    <div class="col-md-6">
+                        <a href="..\contact\index.htm" title="Communication" class="title mod-mobile"><span>Communication</span></a>
+                                                <ul>
+                                                            <li>
+                                    <span class="title othermt">R&D CENTER</span>
+                                    <address>
+                                        <p>Gazcılar Street&nbsp;Petek Bozkaya Business Building C Block F:3 Osmangazi | Bursa&nbsp;<strong>T:&nbsp;</strong>0224 251 41 00<b>&nbsp;F:&nbsp;</b>0224 271 66 84</p>
+                                    </address>
+                                </li>
+                                                            <li>
+                                    <span class="title ">TECHNO PARK</span>
+                                    <address>
+                                        <p>Ulutek Uludağ University&nbsp;Technology Center&nbsp;<br>
+Nilüfer | Bursa&nbsp;<strong>T:&nbsp;</strong>0224 280 84 84</p>
+                                    </address>
+                                </li>
+                                                    </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="cropper">
+                            <div class="social">
+                                <ul>
+                                                                            <li><a href="https://www.facebook.com/iletisimyazilim/" rel="nofollow" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                                                                                                <li><a href="https://www.instagram.com/iletisimyazilim/?hl=tr" rel="nofollow" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                                                                                                <li><a href="https://twitter.com/iletisimbursa" rel="nofollow" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                                                                                                <li><a href="https://tr.linkedin.com/company/iletisimyazilim" rel="nofollow" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                                                                                                                    <li><a href="https://www.youtube.com/channel/UCk18NDaEEbO_UKElDz78fFQ" rel="nofollow" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                                                                                                            <li><a href="https://iletisimyazilim.com/en/rss.xml" target="_blank"><i class="fas fa-rss"></i></a></li>
+                                </ul>
+                            </div>
+                            <hr class="d-none d-md-block">
+                            <a href="mailto:iletisim@iletisimyazilim.com" class="btn btn-primary">Your opinion is important<i class="fas fa-envelope"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="marsus">
+        <div class="container">
+            <div class="row align-items-baseline">
+                <div class="col-8 col-md-12 col-lg-9">
+                    <div class="flexed">
+                        <div class="left">
+                            <span>Industry 4.0</span>
+                            <span class="copyright d-block d-md-none">Copyright &copy; 2019. All Rights Reserved.</span>
+                        </div>
+                        <div class="right d-none d-md-block">
+                            <ul>
+                                                                                                    <li><a href="..\intelligence-society-services\index.htm">Intelligence Society Services</a></li>
+                                                                    <li><a href="..\legal-warning-conditions-of-usage-page\index.htm">Legal Warning and Conditions of Usage</a></li>
+                                                                    <li><a href="..\privacy-policy\index.htm">Privacy Policy</a></li>
+                                                                    <li><a href="..\site-map\index.htm">Site Map</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-md-12 col-lg-3">
+                    <div class="copyright">
+                        <span class="d-none d-md-block">Copyright &copy; 2019. All Rights Reserved.</span>
+                                                    <img src="..\..\templates\images\25year.png" width="60" height="60" alt="All Rights Reserved."></div>
+                                        </div>
+                <div class="col-sm-12 d-block d-md-none">
+                    <div class="footer-mod-links">
+                        <hr>
+                        <ul>
+                                                                                        <li><a href="..\intelligence-society-services\index.htm">Intelligence Society Services</a></li>
+                                                            <li><a href="..\legal-warning-conditions-of-usage-page\index.htm">Legal Warning and Conditions of Usage</a></li>
+                                                            <li><a href="..\privacy-policy\index.htm">Privacy Policy</a></li>
+                                                            <li><a href="..\site-map\index.htm">Site Map</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row d-md-flex align-items-center mt-4">
+                <div class="col-md-6">
+                    <a href="http://www.aeronorm.com/" title="Aeronorm" class="aeronorm-logo" target="_blank">Design: Aeronorm</a>
+                </div>
+                <div class="col-md-6 text-md-right">
+                    <a href="https://marsus.com/" title="Kurumsal web sitesi Marsus tarafından hazırlanmıştır" target="_blank"><img src="..\..\templates\images\logo.svg" class="marsus-logo" alt="Marsus"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="go-top">
+    <i class="far fa-chevron-up"></i>
+</div>
+<div class="cookies" style="display:none;">
+    <div class="container">
+        <div class="col-sm-12">We use cookies to help us give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on our website. However, if you would like to, you can change your cookie settings at any time. <a class="close-cookie-warning"><span><i class="far fa-times"></i></span></a></div>
+    </div>
+</div>
+
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+
+<script type="text/javascript">
+    window.home     =   'https://iletisimyazilim.com/en/';
+    window.base     =   'https://iletisimyazilim.com/';
+    window.lang     =   '{"an_error":"An error has occurred. Please try again.","agreements_warning":"You must accept the user agreement.","load_more_label":"SHOW MORE"}';
+    window.device   =   'desktop';
+    window.os       =   'other';
+</script>
+
+                        <script type="text/javascript" src="..\..\templates\plugins\jquery-3.3.1.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\bootstrap-v4\js\bootstrap.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\toastr\toastr.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\ajaxform.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\scrollToFixed.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\js\application.js?v=1415"></script>
+            
+
+
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-779137568"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'AW-779137568');
+    </script>
+
+    <!-- Event snippet for Genel-Dönüşüm conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-779137568/2eRfCOGPh6cBEKDkwvMC'});
+    </script>
+    <!-- Event snippet for Genel-Dönüşüm conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-779137568/2eRfCOGPh6cBEKDkwvMC'});
+    </script>
+
+
+
+    <!-- Begin of Chaport Live Chat code -->
+    <script type="text/javascript">
+        (function(w,d,v3){
+            w.chaportConfig = { appId : '5d4421ac1713586ade4ecd26' };
+            if(w.chaport)return;v3=w.chaport={};v3._q=[];v3._l={};v3.q=function(){v3._q.push(arguments)};v3.on=function(e,fn){if(!v3._l[e])v3._l[e]=[];v3._l[e].push(fn)};var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://app.chaport.com/javascripts/insert.js';var ss=d.getElementsByTagName('script')[0];ss.parentNode.insertBefore(s,ss)})(window, document);
+    </script>
+    <!-- End of Chaport Live Chat code -->
+
+</body>
+</html>

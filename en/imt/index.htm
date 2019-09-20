@@ -1,0 +1,689 @@
+﻿
+
+
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    
+    
+    
+    <title>ERP Integration Tool - İletişim Yazılım</title>
+
+    <meta name="language" content="en-GB">
+    <meta name="description" content="">
+    <meta name="generator" content="Marsus">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="apple-touch-icon" href="..\..\favicon.ico?v=1415">
+    <link rel="shortcut icon" href="..\..\favicon.ico?v=1415">
+
+                
+                
+                
+    <meta property="og:site_name" content="İletişim Yazılım">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="IMT">
+    <meta property="og:url" content="https://iletisimyazilim.com/en/imt/">
+    <meta property="og:image" content="https://iletisimyazilim.com/templates/images/og-img.png">
+    <meta property="og:description" content="">
+
+    <link rel="canonical" href="index.htm">
+
+            <link rel="alternate" href="..\..\imt\index.htm" hreflang="tr">
+            <link rel="alternate" href="index.htm" hreflang="en">
+    
+                                        <link href="..\..\templates\plugins\bootstrap-v4\css\bootstrap.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\css\hamburgers.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\css\application.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\plugins\font-awesome\css\fontawesome-all.min.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\plugins\toastr\toastr.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\css\style.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\modules\pages\css\pages.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\modules\pages\css\hexagon.css?v=1415" rel="stylesheet">
+                            <link href="..\..\templates\modules\pages\css\imt.css?v=1415" rel="stylesheet">
+                        
+</head>
+
+<body dir="ltr" class="header-border">
+<header>
+    <div class="header-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="box">
+                        <ul class="d-flex justify-content-md-end justify-content-center">
+                            <li><a href="tel:02242514100">0224 251 41 00</a></li>
+                            <li><a href="mailto:iletisim@iletisimyazilim.com">iletisim@iletisimyazilim.com</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg">
+            <div class="works d-flex align-items-center">
+            <a href="..\index.htm" class="navbar-brand" title="İletişim Yazılım">
+                <img src="..\..\templates\images\iletisim-yazilim.png" width="220" height="64" alt="iletişim yazılım">
+            </a>
+
+                <div class="languages dropdown">
+    <button class="dropdown-toggle text-uppercase" type="button" data-toggle="dropdown">
+        en
+    </button>
+    <div class="dropdown-menu">
+                    
+                
+                
+                <li>
+                    <a href="..\..\imt\index.htm" class="dropdown-item">
+                        <img src="..\..\templates\images\flags\tr.svg" alt="Türkçe" width="32" height="32">
+                        <span class="ml-1">Türkçe</span>
+                    </a>
+                </li>
+
+                                            </div>
+</div>
+                <div class="search">
+                    <i class="far fa-search" id="search-button"></i>
+                    <div class="search-form">
+                        <form action="" method="post">
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <input type="text" name="keyword" class="form-control" placeholder="Search...">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-search" type="submit"><i class="far fa-search"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <button class="hamburger hamburger--squeeze js-hamburger d-block d-lg-none" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false">
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="navbar-nav ml-auto">
+                    
+<li class="nav-item">
+<a href="..\index.htm" class="nav-link">Mainpage</a>
+</li>
+
+<li class="nav-item dropdown">
+<a href="https://iletisimyazilim.com/en/corporate/" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Organizational</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\about-us\index.htm" class="dropdown-item">About Us<span></span></a></li>
+<li><a href="..\digital-transformation-journey\index.htm" class="dropdown-item">Digital Transformation Journey<span></span></a></li>
+<li><a href="..\vision-and-mission\index.htm" class="dropdown-item">Vision - Mission<span></span></a></li>
+<li><a href="..\quality-policy\index.htm" class="dropdown-item">Quality Policy<span></span></a></li>
+<li><a href="..\customer-satisfaction\index.htm" class="dropdown-item">Customer Satisfaction<span></span></a></li>
+<li><a href="..\business-partners\index.htm" class="dropdown-item">Partners<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\solutions\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Solutions</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\coralreef\index.htm" class="dropdown-item purple hassize">CoralReef<span> MES</span></a></li>
+<li><a href="..\managemind\index.htm" class="dropdown-item blue hassize">ManageMind<span> BPM</span></a></li>
+<li><a href="index.htm" class="dropdown-item pink hassize">IMT<span> MT</span></a></li>
+<li><a href="..\apiscoven\index.htm" class="dropdown-item orange hassize">ApisCoven<span> DF</span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\data-bank\index.htm" class="nav-link">Data Bank</a>
+</li>
+
+<li class="nav-item dropdown">
+<a href="..\hr-policy\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">HR</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\hr-policy\index.htm" class="dropdown-item">HR Policy<span></span></a></li>
+<li><a href="..\vacant-employment-positions\index.htm" class="dropdown-item">Vacant Employment Positions<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\news\index.htm" class="nav-link">News</a>
+</li>
+
+<li class="nav-item CSS Class dropdown">
+<a href="..\references\index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="fa fa-Menü İconu"></i> References</a>
+
+
+<ul class="dropdown-menu"><li><a href="..\our-references\index.htm" class="dropdown-item">Our References<span></span></a></li>
+<li><a href="..\reference-videos\index.htm" class="dropdown-item">Reference Videos<span></span></a></li>
+<li><a href="..\achievement-stories\index.htm" class="dropdown-item">Achievement Stories<span></span></a></li>
+</ul>
+
+</li>
+
+<li class="nav-item">
+<a href="..\communication\index.htm" class="nav-link">Communication</a>
+</li>
+
+                </ul>
+            </div>
+
+        </nav>
+    </div>
+
+</header>
+
+
+
+            <div class="page-header has-bg">
+                    <div class="bg">
+                <img src="..\..\uploads\pages\cover\IMT-SLIDER.png" alt="IMT" height="180">
+                <div class="overlay" style="background-image: url('../../templates/images/inline/imt-banner.png')">
+                    <div class="overfox d-flex align-items-center align-items-md-end">
+                        <div class="container">
+                            <div class="row align-items-start">
+                                <div class="col-md-6">
+                                    <div class="big">
+                                        <span>IMT</span>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="sub">
+                                        <h3 class="mb-2">ERP Integration Tool</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+    <div class="resulting">
+        <div class="top">
+            <div class="container">
+                <div class="row align-items-start">
+                    <div class="col-md-6">
+                        <div class="title">
+                            <h1>IMT<span class="tag pink">MT</span><span class="subtitle pink">Migration Tool</span></h1>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="description">
+                            <p>
+                                <p>It is an ERP integration media that provides you to transfer the data in the ERP database to another database and also to transfer other records generated within other software (ERP, CRM, &hellip;etc.) or in Excel format into the ERP system. It is also possible to provide a modular integration with IMT. It is possible to provide an automatic transfer in certain periods defined by the task timer or manual transfer of records whatsoever wanted.</p>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="detail pink">
+                            <i class="far fa-chevron-double-right scrollpot d-md-none"></i>
+                            <div class="overfox">
+                                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" id="step1-tab" data-toggle="tab" href="#step1" role="tab" aria-controls="step1" aria-selected="true">Properties</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step2-tab" data-toggle="tab" href="#step2" role="tab" aria-controls="step2" aria-selected="false">Work Flow</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step3-tab" data-toggle="tab" href="#step3" role="tab" aria-controls="step3" aria-selected="false">Benefits</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" id="step4-tab" data-toggle="tab" href="#step4" role="tab" aria-controls="step4" aria-selected="false">Reporting</a>
+                                    </li>
+                                </ul>
+                                <a href="..\contact\index-3.htm?request=imt#goform" class="contact-inline pink d-none d-md-block" title="Get In Contact">Get In Contact</a>
+                            </div>
+                            <a href="..\contact\index-3.htm?request=imt#goform" class="contact-inline pink d-md-none" title="Get In Contact">Get In Contact</a>
+                            <div class="tab-content" id="myTabContent">
+                                <div class="tab-pane fade show active" id="step1" role="tabpanel" aria-labelledby="step1-tab">
+                                    <div class="special">
+                                                                                                                                                                                                                        <div class="item right pink">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\..\templates\images\inline\im-arrow-left-1.png" class="arrows arrow-left" alt="Automatic Data Transfer">
+                                                                <img src="..\..\uploads\contents\thumb\01 otomatik veri aktarimi.jpg" width="" height="" alt="Automatic Data Transfer" alt="Automatic Data Transfer" class="current">
+                                                                <img src="..\..\templates\images\inline\im-arrow-left-2.png" class="arrows arrow-left-2" alt="Automatic Data Transfer">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Automatic Data Transfer</span>
+                                                                <div class="description">
+                                                                    <ul>
+	<li>MT&reg; provides automatic data transfer.</li>
+	<li>It is possible to transfer the records to be transferred automatically or manually in the specified periods with the task timer.</li>
+	<li>Can work with multiple applications with open data architecture.</li>
+	<li>Exported records can be printed in XML format during transfer.</li>
+</ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item pink left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Information Records Resulting from Transfer</span>
+                                                                <div class="description">
+                                                                    <p>Information records generated as a result of the transfer can be viewed on the IMT&reg; management screen and the relevant log records can be stored in the database.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                    <img src="..\..\templates\images\inline\im-arrow-right-1.png" class="arrows arrow-right" alt="Information Records Resulting from Transfer">
+                                                                                                                                <img src="..\..\uploads\contents\thumb\02-aktarim-sonucu-kayitlar.jpg" width="" height="" alt="Information Records Resulting from Transfer" alt="Information Records Resulting from Transfer" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item right pink">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="image">
+                                                                <img src="..\..\templates\images\inline\im-arrow-left-1.png" class="arrows arrow-left" alt="Transfer History">
+                                                                <img src="..\..\uploads\contents\thumb\03 aktarim tarihcesi.jpg" width="" height="" alt="Transfer History" alt="Transfer History" class="current">
+                                                                <img src="..\..\templates\images\inline\im-arrow-left-2.png" class="arrows arrow-left-2" alt="Transfer History">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Transfer History</span>
+                                                                <div class="description">
+                                                                    <ul>
+	<li>Transfer history can be queried and reported on a date basis with Log Reader.</li>
+</ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                                                            <div class="item pink left">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-6">
+                                                            <div class="context">
+                                                                <span class="title">Modular Based Integration</span>
+                                                                <div class="description">
+                                                                    <ul>
+	<li>Modular based integration can be provided.</li>
+	<li>Secure data transfer is provided with ERP integration tools.</li>
+</ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6 order-first order-md-last">
+                                                            <div class="image">
+                                                                                                                                <img src="..\..\uploads\contents\thumb\04 moduler bazli entegrasyon.jpg" width="" height="" alt="Modular Based Integration" alt="Modular Based Integration" class="current">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+                                <div class="tab-pane fade" id="step2" role="tabpanel" aria-labelledby="step2-tab">
+                                                                                                            <div class="imagelectus">
+                                        <div class="arrower">
+                                            <img src="..\..\templates\images\imtarrow.png" alt="IMT">
+                                            <div class="imtbox">
+                                                <div class="item erp">
+                                                    <div class="text"><i class="far fa-hand-pointer"></i>ERP</div>
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="ERP">
+                                                        <input type="hidden" class="val2" value="MT">
+                                                        <input type="hidden" class="val3" value='<p>It ensures that the information accumulated in all parts of the enterprise is stored under a single database and provides convenience and better quality working conditions. ERP connects all units like chain rings and strengthens the ties of the enterprise and enables the units to work in a more harmonious and coordinated manner.</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="ERP is a system where all resources are managed in finance, accounting, production, HR and similar departments.">
+                                                        <input type="hidden" class="val6" value="yellow">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\A-erp.jpg" width="" height="" alt="ERP" alt="ERP">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="item imt">
+                                                    <div class="text"><i class="far fa-hand-pointer"></i>IMT</div>
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="IMT">
+                                                        <input type="hidden" class="val2" value="MT">
+                                                        <input type="hidden" class="val3" value='<p>One of the features that make CoralReef important is the IMT module that provides bidirectional integration with ERPs. Integration can be done automatically and can be timed on a module basis.</p>
+
+<ul>
+	<li>The resources used by the enterprise in the production phase are integrated with ERP.</li>
+	<li>Production and work orders followed in the field are created and integrated with ERP.</li>
+	<li>Integration of the actual resource usage information with ERP is available.</li>
+	<li>All warehouse movements in the production area (Warehouse entry - Warehouse outgoing - Warehouse Transfer) are integrated with ERP.</li>
+	<li>IMT is a secure data channel and ERP Integration Tool that allows you to easily transfer the data in the ERP database to another database, in other software (ERP, CRM, J-Platform Web Platform&hellip; or similar) records in Excel format to the ERP system. Thanks to the Service Oriented Architecture (SOA), IMT provides automatic data transfer in the specified direction. IMT is a secure data transfer tool for data traceability and cost reduction.</li>
+</ul>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="Easy and Safe Integration with ERP">
+                                                        <input type="hidden" class="val6" value="pink">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\B-mt.jpeg" width="" height="" alt="IMT" alt="IMT">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="item apps">
+                                                    <div class="text"><i class="far fa-hand-pointer"></i>Applications</div>
+                                                    <div class="inputs d-none">
+                                                        <input type="hidden" class="val1" value="Applications">
+                                                        <input type="hidden" class="val2" value="MT">
+                                                        <input type="hidden" class="val3" value='<p>IMT software, which is currently used as an ERP integration tool, manages the integration and coordination of CoralReef MES, ManageMind BPM and Apiscoven DF products independently developed by Iletisim Yazılım. Many different ERP systems are integrated into other MES systems, other BPM systems and 3rd party software.</p>'>
+                                                        <input type="hidden" class="val4" value="">
+                                                        <input type="hidden" class="val5" value="IMT software, which is currently used as an ERP integration tool, manages the integration and coordination of all ERP systems and 3rd party apllications.">
+                                                        <input type="hidden" class="val6" value="purple">
+                                                        <div class="relatible">
+                                                            <img src="..\..\uploads\contents\thumb\C-mt.jpg" width="" height="" alt="Applications" alt="Applications">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <p>&nbsp;</p>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="step3" role="tabpanel" aria-labelledby="step3-tab">
+                                                                        <div class="imagelectus">
+                                        <ul>
+	<li>In company which ERP, MES and 3rd party applications&nbsp; has used&nbsp; can be provide automatically integration with IMT.</li>
+	<li>In this way, consolidated reports can be created for KPI management which guiding strategic decisions.</li>
+	<li>If one of the software used in the company can not used for technical reasons, it can be provided to storage the data to be transferred.</li>
+	<li>In case of failure of the integration, the relevant departments are informed with email via the system.</li>
+	<li>Similar datas of between different softwares can be provided to entere from one location.</li>
+	<li>Log records can be storage in the database and reported.</li>
+	<li>With the integration enables the system to work online with instant data or to run at the designated times with the task scheduler.</li>
+</ul>
+
+<p style="text-align: center;">&nbsp;<img alt="" src="..\..\uploads\contents\ERP entegrasyon.png" style="width: 469px; height: 549px;"></p>
+
+<p>IMT Benefits</p>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="step4" role="tabpanel" aria-labelledby="step4-tab">
+                                                                        <div class="imagelectus">
+                                        <p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>MONITORING ON IMT MANAGEMENT SCREEN</strong></p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\IMTAktarımRaporlama-2.PNG" style="width: 600px; height: 449px;"></p>
+
+<p style="text-align: center;"><b>IMT LOGING</b></p>
+
+<p style="text-align: center;"><img alt="" src="..\..\uploads\contents\mtloglama.png" style="height: 449px; text-align: center; width: 600px;"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- modal -->
+    <div class="hexapopup">
+        <div class="overpop"></div>
+        <div class="overbox" id="coloredOveredBox">
+            <div class="left">
+                <div class="top">
+                    <div class="title">
+                        IMT
+                        <span>MT</span>
+                    </div>
+                </div>
+                <div class="bottom">
+                    <div class="title">
+                        <span class="text1" id="hexval1">MM</span>
+                        <span class="text2" id="hexval2">Çalışma Sistematiği</span>
+                        <span class="text3" id="hexval5">İçerik eklenecektir.</span>
+                    </div>
+                </div>
+            </div>
+            <div class="right">
+                <div class="top">
+                    <img src="..\..\templates\images\content\managemind-cover.jpg" id="hexval4" alt="">
+                </div>
+                <div class="bottom">
+                    <p id="hexval3">
+                        ManageMind BPM; işletmelerin örgüt kültürü oluşturabildiği ve stratejik kararların
+                        yönetilebildiği, süreç haritasının çizilerek süreç takibinin yapılabildiği, kalite
+                        dokümantasyonunu yapabildiği ve yönetebildiği, ve anahtar performans göstergelerinin (KPI)
+                        izlenebildiği, en önemlisi de şirkette bulunan tüm formların kullanıcılar tarafından tasarlanıp,
+                        raporlanabildiği bir “Strateji ve Kalite Yönetim Sistemi”dir.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- //modal -->
+
+<footer>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-4 col-md-6 block left">
+                <div class="logo">
+                    <a href="..\index.htm" title="İletişim Yazılım">
+                        <img src="..\..\templates\images\footer-logo.png" width="75" height="75" alt="iletişim yazılım">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+            <div class="col-xl-6 block links">
+                <div class="row">
+                    <div class="col-6 col-md-4">
+                        <div class="link-area">
+                            <a href="..\index.htm" title="Mainpage" class="title">Mainpage</a>
+                            <a href="..\about-us\index.htm" title="Organizational" class="title">Organizational</a>
+                            <ul class="mbnone">
+                                                                                                    <li><a href="..\about-us\index.htm">About Us</a></li>
+                                                                    <li><a href="..\digital-transformation-journey\index.htm">Digital Transformation Journey</a></li>
+                                                                    <li><a href="..\vision-and-mission\index.htm">Vision and Mission</a></li>
+                                                                    <li><a href="..\quality-policy\index.htm">Quality Policy</a></li>
+                                                                    <li><a href="..\customer-satisfaction\index.htm">Customer Satisfaction</a></li>
+                                                                    <li><a href="..\business-partners\index.htm">Partners</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-4">
+                        <div class="link-area">
+                            <a href="..\solutions\index.htm" title="Solutions" class="title">Solutions</a>
+                            <ul>
+                                                                                                    <li><a href="..\coralreef\index.htm">CoralReef</a></li>
+                                                                    <li><a href="..\managemind\index.htm">ManageMind</a></li>
+                                                                    <li><a href="index.htm">IMT</a></li>
+                                                                    <li><a href="..\apiscoven\index.htm">Apiscoven</a></li>
+                                                            </ul>
+                            <a href="javascript:void(0)" title="HR" class="title">HR</a>
+                            <ul class="mbnone">
+                                                                                                    <li><a href="..\hr-policy\index.htm">HR Policy</a></li>
+                                                                    <li><a href="..\vacant-employment-positions\index.htm">Vacant Employment Positions</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+
+                        <div class="link-area">
+                            <a href="..\data-bank\index.htm" title="Data Bank" class="title mod-mobile"><span>Data Bank</span></a>
+                            <div class="d-flex align-items-start d-sm-block">
+                                <div class="long">
+                                    <a href="..\news\index.htm" title="News" class="title">News</a>
+                                    <!--
+                                    <ul>
+                                                                                                                    </ul>
+                                    -->
+                                </div>
+                                <div class="long">
+                                    <a href="javascript:void(0)" title="References" class="title">References</a>
+                                    <ul class="mbnone">
+                                                                                                                            <li><a href="..\our-references\index.htm">Our References</a></li>
+                                                                                    <li><a href="..\reference-videos\index.htm">Reference Videos</a></li>
+                                                                                    <li><a href="..\achievement-stories\index.htm">Achievement Stories</a></li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 block links">
+                <div class="row align-items-end">
+                    <div class="col-md-6">
+                        <a href="..\contact\index.htm" title="Communication" class="title mod-mobile"><span>Communication</span></a>
+                                                <ul>
+                                                            <li>
+                                    <span class="title othermt">R&D CENTER</span>
+                                    <address>
+                                        <p>Gazcılar Street&nbsp;Petek Bozkaya Business Building C Block F:3 Osmangazi | Bursa&nbsp;<strong>T:&nbsp;</strong>0224 251 41 00<b>&nbsp;F:&nbsp;</b>0224 271 66 84</p>
+                                    </address>
+                                </li>
+                                                            <li>
+                                    <span class="title ">TECHNO PARK</span>
+                                    <address>
+                                        <p>Ulutek Uludağ University&nbsp;Technology Center&nbsp;<br>
+Nilüfer | Bursa&nbsp;<strong>T:&nbsp;</strong>0224 280 84 84</p>
+                                    </address>
+                                </li>
+                                                    </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="cropper">
+                            <div class="social">
+                                <ul>
+                                                                            <li><a href="https://www.facebook.com/iletisimyazilim/" rel="nofollow" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                                                                                                <li><a href="https://www.instagram.com/iletisimyazilim/?hl=tr" rel="nofollow" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                                                                                                <li><a href="https://twitter.com/iletisimbursa" rel="nofollow" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                                                                                                <li><a href="https://tr.linkedin.com/company/iletisimyazilim" rel="nofollow" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                                                                                                                                    <li><a href="https://www.youtube.com/channel/UCk18NDaEEbO_UKElDz78fFQ" rel="nofollow" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                                                                                                            <li><a href="https://iletisimyazilim.com/en/rss.xml" target="_blank"><i class="fas fa-rss"></i></a></li>
+                                </ul>
+                            </div>
+                            <hr class="d-none d-md-block">
+                            <a href="mailto:iletisim@iletisimyazilim.com" class="btn btn-primary">Your opinion is important<i class="fas fa-envelope"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="marsus">
+        <div class="container">
+            <div class="row align-items-baseline">
+                <div class="col-8 col-md-12 col-lg-9">
+                    <div class="flexed">
+                        <div class="left">
+                            <span>Industry 4.0</span>
+                            <span class="copyright d-block d-md-none">Copyright &copy; 2019. All Rights Reserved.</span>
+                        </div>
+                        <div class="right d-none d-md-block">
+                            <ul>
+                                                                                                    <li><a href="..\intelligence-society-services\index.htm">Intelligence Society Services</a></li>
+                                                                    <li><a href="..\legal-warning-conditions-of-usage-page\index.htm">Legal Warning and Conditions of Usage</a></li>
+                                                                    <li><a href="..\privacy-policy\index.htm">Privacy Policy</a></li>
+                                                                    <li><a href="..\site-map\index.htm">Site Map</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4 col-md-12 col-lg-3">
+                    <div class="copyright">
+                        <span class="d-none d-md-block">Copyright &copy; 2019. All Rights Reserved.</span>
+                                                    <img src="..\..\templates\images\25year.png" width="60" height="60" alt="All Rights Reserved."></div>
+                                        </div>
+                <div class="col-sm-12 d-block d-md-none">
+                    <div class="footer-mod-links">
+                        <hr>
+                        <ul>
+                                                                                        <li><a href="..\intelligence-society-services\index.htm">Intelligence Society Services</a></li>
+                                                            <li><a href="..\legal-warning-conditions-of-usage-page\index.htm">Legal Warning and Conditions of Usage</a></li>
+                                                            <li><a href="..\privacy-policy\index.htm">Privacy Policy</a></li>
+                                                            <li><a href="..\site-map\index.htm">Site Map</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row d-md-flex align-items-center mt-4">
+                <div class="col-md-6">
+                    <a href="http://www.aeronorm.com/" title="Aeronorm" class="aeronorm-logo" target="_blank">Design: Aeronorm</a>
+                </div>
+                <div class="col-md-6 text-md-right">
+                    <a href="https://marsus.com/" title="Kurumsal web sitesi Marsus tarafından hazırlanmıştır" target="_blank"><img src="..\..\templates\images\logo.svg" class="marsus-logo" alt="Marsus"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="go-top">
+    <i class="far fa-chevron-up"></i>
+</div>
+<div class="cookies" style="display:none;">
+    <div class="container">
+        <div class="col-sm-12">We use cookies to help us give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on our website. However, if you would like to, you can change your cookie settings at any time. <a class="close-cookie-warning"><span><i class="far fa-times"></i></span></a></div>
+    </div>
+</div>
+
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+
+<script type="text/javascript">
+    window.home     =   'https://iletisimyazilim.com/en/';
+    window.base     =   'https://iletisimyazilim.com/';
+    window.lang     =   '{"an_error":"An error has occurred. Please try again.","agreements_warning":"You must accept the user agreement.","load_more_label":"SHOW MORE"}';
+    window.device   =   'desktop';
+    window.os       =   'other';
+</script>
+
+                        <script type="text/javascript" src="..\..\templates\plugins\jquery-3.3.1.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\bootstrap-v4\js\bootstrap.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\toastr\toastr.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\ajaxform.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\plugins\scrollToFixed.min.js?v=1415"></script>
+                    <script type="text/javascript" src="..\..\templates\js\application.js?v=1415"></script>
+            
+
+
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-779137568"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'AW-779137568');
+    </script>
+
+    <!-- Event snippet for Genel-Dönüşüm conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-779137568/2eRfCOGPh6cBEKDkwvMC'});
+    </script>
+    <!-- Event snippet for Genel-Dönüşüm conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-779137568/2eRfCOGPh6cBEKDkwvMC'});
+    </script>
+
+
+
+    <!-- Begin of Chaport Live Chat code -->
+    <script type="text/javascript">
+        (function(w,d,v3){
+            w.chaportConfig = { appId : '5d4421ac1713586ade4ecd26' };
+            if(w.chaport)return;v3=w.chaport={};v3._q=[];v3._l={};v3.q=function(){v3._q.push(arguments)};v3.on=function(e,fn){if(!v3._l[e])v3._l[e]=[];v3._l[e].push(fn)};var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://app.chaport.com/javascripts/insert.js';var ss=d.getElementsByTagName('script')[0];ss.parentNode.insertBefore(s,ss)})(window, document);
+    </script>
+    <!-- End of Chaport Live Chat code -->
+
+</body>
+</html>
